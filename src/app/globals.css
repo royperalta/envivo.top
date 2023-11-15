@@ -2,26 +2,65 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+
+
+body {
+font-family: "Inter", sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+.lds-ring {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border: 8px solid #fff;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #fff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.loader{
+  width: 315px;
+  height: 200px;
+  background:
+      linear-gradient(0.25turn, transparent, #FFF, transparent),
+      linear-gradient(#DDD, #DDD),
+      radial-gradient(38px circle at 19px 19px, #DDD 50%, transparent 51%),
+      linear-gradient(#DDD, #DDD);
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: 315px 200px, 315px 130px, 100px 100px, 225px 30px;
+  background-position: -315px 0, 0 0, 15px 140px, 65px 145px;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+to {
+  background-position: 315px 0, 0 0, 15px 140px, 65px 145px;
+}
 }
