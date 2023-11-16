@@ -11,12 +11,13 @@ export default function page() {
   const [estadoDescargar, setEstadoDescargar] = useState(false)
   const [estadoImagen, setEstadoImagen] = useState(false)
 
+  axios.defaults.baseURL = 'https://envivo.top:9300'
 
   const handleDescargar = async (event) => {
     event.preventDefault()
     if (youtubeUrlRegex.test(link)) {
       setEstadoDescargar(true)     
-      const responseImage = await axios.post(`http://localhost:30000/api/imagen/`, {
+      const responseImage = await axios.post(`/api/imagen`, {
         url: link
       })
 
@@ -27,12 +28,12 @@ export default function page() {
       }
 
       //-----------------------------FIN IMAGEN-----------------------
-      const download = await axios.post("http://localhost:30000/api/descargar", {
+      const download = await axios.post("/api/descargar", {
         link: link
       })
       if (download.status === 200) {
 
-        const download2 = await axios.get(`http://localhost:30000/api/download/${download.data.id}`, {
+        const download2 = await axios.get(`/api/download/${download.data.id}`, {
           responseType: 'blob'
         })
 
@@ -40,11 +41,10 @@ export default function page() {
           const blob = new Blob([download2.data])
 
           const filename = `${decodeURIComponent(download.data.title)}`
-          saveAs(blob, filename)
-          setDescargado(true)
+          saveAs(blob, filename)         
           setEstadoDescargar(false)
           // Eliminar el archivo
-          axios.post(`http://localhost:30000/api/eliminar`, {
+          axios.post(`/api/eliminar`, {
             id: download.data.id
           }).then((responseEliminar) => {
             console.log(responseEliminar.data);
