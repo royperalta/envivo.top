@@ -6,6 +6,7 @@
 
 body {
 font-family: "Inter", sans-serif;
+background-color: rgb(255, 255, 255);
 }
 
 .lds-ring {
@@ -64,3 +65,5 @@ to {
   background-position: 315px 0, 0 0, 15px 140px, 65px 145px;
 }
 }
+
+

@@ -1,4 +1,17 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+// next.config.js
+const nextConfig = {
+    // Otras configuraciones que puedas tener
+}
 
-module.exports = nextConfig
+module.exports = {
+    ...nextConfig,
+    images: {
+        remotePatterns: [
+          {
+            protocol: "https",
+            hostname: "**",
+          },
+        ],
+      },
+}
