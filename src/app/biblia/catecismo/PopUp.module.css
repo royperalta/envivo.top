@@ -7,14 +7,14 @@
     background-color: rgba(0,0, 0, 0.5);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
+    padding: 100px 0 0 0;
     
 }
 
 .popUpContent {
     position: relative;
-    color: black;
-    background: white;
+    color: black;    
     padding: 30px 20px 20px 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0, 0, 0.3)
@@ -24,12 +24,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    background: none;
-    border: none;
-    font-size: 20px;
-    color:red;
-    cursor: pointer;
-    padding: 10px 20px 20px 10px;
-
+    width: 35px;
+    height: 35px;
+    padding: 10px 10px 0px 0px;
+   
     
 }
