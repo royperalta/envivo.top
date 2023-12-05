@@ -1,6 +1,7 @@
 'use client'
 import React, { useEffect, useRef, useState } from 'react'
 import { GrNext, GrPrevious } from "react-icons/gr";
+import {PREGUNTAS} from './questions.js'
 import {
   AiOutlineSound,
   AiFillSound,
@@ -9,25 +10,7 @@ import PopUp from './PopUp';
 
 
 export default function PageCatecismo() {
-  const PREGUNTAS = [
-    {
-      id: 1,
-      question: "What is the chief end of man?",
-      answer: "Man's chief end is to glorify God, and to enjoy him forever"
-    },
-    {
-      id: 2,
-      question: "What rule hath God given to direct us how we may glorify and enjoy him?",
-      answer: "The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him"
-    },
-    {
-      id: 3,
-      question: "What do the Scriptures principally teach?",
-      answer: "The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man"
-    }
-  ]
-
-
+  
 
 
   const [numberQuestion, setNumberQuestion] = useState(0)
@@ -35,7 +18,7 @@ export default function PageCatecismo() {
   const [verRespuesta, setVerRespuesta] = useState(false)
   const [validacionRespuesta, setValidacionRespuesta] = useState(false)
 
-  const [error,setError] = useState(false)
+  const [error, setError] = useState(false)
 
 
   let audioRef = useRef()
@@ -94,7 +77,7 @@ export default function PageCatecismo() {
 
   return (
     <div className='w-full bg-[#634339] h-screen text-white flex flex-col '>
-      <div className='w-screen h-screen flex flex-col'>
+      <div className=' flex flex-col'>
         <div className='flex flex-col'>
           <h2 className='h-5 p-7 text-center'>Question {PREGUNTAS[numberQuestion].id}</h2>
           <div className='h-f bg-[#634339] flex flex-col justify-center items-center'>
@@ -106,11 +89,11 @@ export default function PageCatecismo() {
             </div>
             <div onClick={handleListenAnswer} className='w-96 flex justify-center items-center p-4 cursor-pointer bg-[#b07a69]'>
               <div><AiFillSound /></div>
-              <div>Listen the answer</div>
+              <div>Listen to the answer</div>
             </div>
             <div>
               <textarea
-                className='w-96 h-56 p-4 text-black text-2xl rounded-md border-[#e3c7be]'
+                className='w-96 h-36 p-4 text-black text-2xl rounded-md border-[#e3c7be]'
                 type="text"
                 onChange={handleRespuesta}
                 placeholder='Type the answer...'
