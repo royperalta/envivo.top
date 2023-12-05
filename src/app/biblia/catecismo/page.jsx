@@ -1,4 +1,6 @@
 'use client'
+
+
 import React, { useEffect, useRef, useState } from 'react'
 import { GrNext, GrPrevious } from "react-icons/gr";
 import {PREGUNTAS} from './questions.js'
@@ -80,14 +82,14 @@ export default function PageCatecismo() {
       <div className=' flex flex-col'>
         <div className='flex flex-col'>
           <h2 className='h-5 p-7 text-center'>Question {PREGUNTAS[numberQuestion].id}</h2>
-          <div className='h-f bg-[#634339] flex flex-col justify-center items-center'>
+          <div className='h-f bg-gradient-to-c from-[#f5d954] via-[#f5d954] to-[##f5d954] flex flex-col justify-center items-center'>
             <div
               onClick={handleAudioQuestion}
-              className='flex w-96 h-52 justify-center gap-3 items-center text-3xl cursor-pointer'>
-              <div><AiOutlineSound /></div>
-              <div>{PREGUNTAS[numberQuestion].question}</div>
+              className='flex w-96 h-52 justify-center items-center text-3xl cursor-pointer'>
+              <div><AiOutlineSound className='mx-2 text-yellow-300'/></div>
+              <div className='font-extrabold text-yellow-50 shadow-2xl'>{PREGUNTAS[numberQuestion].question}</div>
             </div>
-            <div onClick={handleListenAnswer} className='w-96 flex justify-center items-center p-4 cursor-pointer bg-[#b07a69]'>
+            <div onClick={handleListenAnswer} className='gap-2 w-96 flex justify-center items-center p-4 cursor-pointer bg-[#b07a69]'>
               <div><AiFillSound /></div>
               <div>Listen to the answer</div>
             </div>
@@ -99,7 +101,7 @@ export default function PageCatecismo() {
                 placeholder='Type the answer...'
               />
             </div>
-            <div className='p-3'>
+            <div className='p-3 drop-shadow-2xl'>
               <button
                 className='bg-[#b07a69] p-2 rounded-md'
                 onClick={handleCheck}
@@ -108,7 +110,7 @@ export default function PageCatecismo() {
 
             <div className='absolute bottom-0'>
               {verRespuesta && (
-                <PopUp onClose={handleCloseRespuesta}>
+                <PopUp onClose={handleCloseRespuesta} play={handleListenAnswer}>
                   {PREGUNTAS[numberQuestion].answer}
                 </PopUp>
               )}
