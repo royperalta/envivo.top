@@ -37,7 +37,7 @@ export default function RemovePage() {
             formDataToSend.append('file', formData.file)
 
             console.log(formDataToSend)
-            const response = await fetch('http://localhost:9300/api/pdf/load', {
+            const response = await fetch('https://envivo.top:9300/api/pdf/load', {
                 method: 'POST',
                 body: formDataToSend
             })
