@@ -6,7 +6,7 @@ export function obtenerTresNumerosUnicos(total) {
     const numerosSeleccionados = [];
   
     // Muestreo sin reemplazo para obtener tres números únicos
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 2; i++) {
       // Obtener un índice aleatorio dentro del rango actual de números disponibles
       const indiceAleatorio = Math.floor(Math.random() * numerosDisponibles.length);
   
