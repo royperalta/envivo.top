@@ -1,0 +1,51 @@
+.fireworks-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+  }
+  
+  .firework {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #fff; /* Color del fuego artificial */
+    border-radius: 50%;
+    opacity: 0;
+    animation: explode 1s ease-out forwards;
+  }
+  
+  @keyframes explode {
+    0% {
+      opacity: 1;
+      transform: scale(0);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(5);
+    }
+  }
+  
+  #firework1 {
+    left: 50%;
+    top: 30%;
+    animation-delay: 0.2s;
+  }
+  
+  #firework2 {
+    left: 20%;
+    top: 50%;
+    animation-delay: 0.5s;
+  }
+  
+  #firework3 {
+    left: 80%;
+    top: 60%;
+    animation-delay: 0.8s;
+  }
+  
+  /* Agrega más estilos según sea necesario para más fuegos artificiales */
+  

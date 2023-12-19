@@ -1,0 +1,13 @@
+.gridContainer {
+  background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates 4 equal-width columns */
+    gap: 10px; /* Adjust the gap between grid items as needed */
+  }
+  
+  .gridItem {
+    display: flex;
+    gap: 3px;
+    border: 1px solid #ccc; /* Add borders or other styling as needed */
+    padding: 10px; /* Adjust padding as needed */
+  }
