@@ -1,0 +1,1032 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuál de las siguientes opciones proporciona la MEJOR descripción de un caso de prueba?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Es un documento que especifica una secuencia de acciones para la ejecución de una prueba. También conocido como guion de prueba o guion de prueba manual."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Es un conjunto de valores de entrada y resultados esperados, con precondiciones de ejecución y poscondiciones de ejecución, desarrollados para una condición de prueba específica."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Es un atributo de un sistema especificado en la documentación de requisitos (por ejemplo, restricciones de fiabilidad, usabilidad o diseño) que se ejecuta en una prueba."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Es un elemento o evento de un sistema que puede ser verificado por una o más condiciones de prueba, por ejemplo, una función, transacción, característica, atributo de calidad o elemento estructural."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál de las siguientes opciones es un objetivo característico de la prueba?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prevenir defectos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Validar que el plan de proyecto se ejecuta conforme a lo requerido."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ganar confianza en el equipo de desarrollo."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Tomar decisiones con respecto a la entrega del sistema sujeto a prueba."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál de las siguientes opciones es un ejemplo de fallo en un sistema de control de crucero de un automóvil?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El desarrollador del sistema olvidó renombrar las variables después de una operación de cortar y pegar."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Se incluyó en el sistema un fragmento de código innecesario que hace sonar una alarma al retroceder."
+        },
+        {
+          "letra": "c",
+          "descripcion": "El sistema deja de mantener una velocidad establecida cuando el volumen de la radio aumenta o disminuye."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La especificación de diseño del sistema indica erróneamente las velocidades en km/h."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál de las siguientes opciones es un defecto en lugar de una causa raíz en un dispositivo de seguimiento del estado físico?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El autor de los requisitos, que no estaba familiarizado con el dominio del entrenamiento físico, asumió erróneamente que los usuarios querían la frecuencia cardíaca en latidos por hora."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El probador de la interfaz del teléfono inteligente no había sido entrenado en las pruebas de transición de estado, por lo que omitió un defecto importante."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Una variable de configuración incorrecta implementada para la función GPS podría causar problemas de ubicación durante el horario de verano."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La diseñadora de la interfaz de usuario, que nunca antes había trabajado en dispositivos “wearables”, malinterpretó los efectos de la luz solar reflejada."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 5,
+      "enunciado": "Como resultado de un análisis de riesgos, se están realizando más pruebas en aquellas áreas del sistema sujeto a prueba en las que las pruebas iniciales encontraron más defectos que en la media.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Cuidado con la paradoja del pesticida."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La prueba depende del contexto."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La ausencia de errores es una falacia."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Los defectos se agrupan."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Cuál de las siguientes opciones combina MEJOR las actividades con las tareas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<br><p>Dadas las siguientes actividades y tareas de prueba:<br>A. Diseño de la prueba.<br>B. Implementación de la prueba.<br>C. Ejecución de la prueba.<br>D. Compleción de la prueba.</p><br><p>1. Introducir solicitudes de cambio para informes de defecto abiertos.<br>2. Identificar los datos de prueba necesarios para apoyar los casos de prueba.<br>3. Priorizar los procedimientos de prueba y crear datos de prueba.<br>4. Analizar las discrepancias para determinar su causa.</p>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "A-2, B-3, C-4, D-1"
+        },
+        {
+          "letra": "b",
+          "descripcion": "A-2, B-1, C-3, D-4"
+        },
+        {
+          "letra": "c",
+          "descripcion": "A-3, B-2, C-4, D-1"
+        },
+        {
+          "letra": "d",
+          "descripcion": "A-3, B-2, C-1, D-4"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cuál de las siguientes opciones describe MEJOR cómo la trazabilidad entre la base de la prueba y los artefactos de la prueba aporta un valor añadido?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La prueba de mantenimiento puede ser totalmente automatizada en base a los cambios en los requisitos iniciales."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Es posible determinar si un nuevo caso de prueba ha incrementado la cobertura de los requisitos."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Los jefes de pruebas pueden identificar qué probadores encontraron los defectos de mayor severidad."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Las áreas que pueden verse afectadas por los efectos secundarios de un cambio pueden ser objeto de pruebas de confirmación."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Cuál de las siguientes cualidades es MÁS probable que forme parte de la mentalidad de un probador que de la de un desarrollador?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Experiencia en la que basar sus esfuerzos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Capacidad de ver lo que puede estar mal."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Buena comunicación con los miembros del equipo."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Atención al detalle."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Cuál de las siguientes opciones muestra CORRECTAMENTE cuáles son verdaderas y cuáles son falsas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Dadas las siguientes afirmaciones sobre las relaciones entre las actividades de desarrollo de software y las actividades de prueba en el ciclo de vida de desarrollo de software:</p><br><ol><li> 1. Cada actividad de desarrollo debe tener una actividad de prueba correspondiente.</li><li> 2. La revisión debe comenzar tan pronto como las versiones finales de los documentos estén disponibles.</li><li>3. El diseño y la ejecución de las pruebas deben comenzar durante la actividad de desarrollo correspondiente.</li><li>4. Las actividades de prueba deben comenzar en etapas tempranas del ciclo de vida de desarrollo de software.</li></ol>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Verdaderas: 1, 2; Falsas: 3, 4"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Verdaderas: 2, 3; Falsas: 1, 2"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Verdaderas: 1, 2, 4; Falsa: 3"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Verdaderas: 1, 4; Falsas: 2, 3"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Cuál de los siguientes niveles de prueba es el MÁS probable que se realice?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Dado que la prueba que se está realizando tiene las siguientes características:</p><ul><li> - Basada en las especificaciones de interfaz.</li><li> - Centrada en encontrar fallos en la comunicación.</li><li> - El enfoque de la prueba utiliza tanto tipos de pruebas funcionales como estructurales.</li></ul><p>¿Cuál de los siguientes niveles de prueba es el MÁS probable que se realice?</p>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prueba de integración de componentes."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Prueba de aceptación."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Prueba de sistema."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Prueba de componente."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 11,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre los tipos y niveles de prueba es CORRECTA?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Las pruebas funcional y no funcional se pueden realizar en los niveles de prueba de sistema y de aceptación, mientras que la prueba de caja blanca está restringida a las pruebas de componente e integración."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La prueba funcional se puede realizar en cualquier nivel de prueba, mientras que la prueba de caja blanca está restringida a la prueba de componente."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Es posible realizar la prueba funcional, no funcional y de caja blanca en cualquier nivel de prueba."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La prueba funcional y no funcional se puede realizar en cualquier nivel de prueba, mientras que la prueba caja blanca se limita a la prueba de componente y a la prueba de integración."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 12,
+      "enunciado": "¿Cuál de las siguientes afirmaciones compara MEJOR los objetivos de la prueba de confirmación y de la prueba de regresión?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El objetivo de la prueba de regresión es garantizar que todas las pruebas realizadas anteriormente siguen funcionando correctamente, mientras que el objetivo de la prueba de confirmación es garantizar que las correcciones realizadas en una parte del sistema no hayan afectado negativamente a otras partes."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El objetivo de la prueba de confirmación es comprobar que se ha corregido un defecto encontrado previamente, mientras que el objetivo de la prueba de regresión es garantizar que ninguna otra parte del sistema se haya visto afectada negativamente por la corrección."
+        },
+        {
+          "letra": "c",
+          "descripcion": "El objetivo de la prueba de regresión es garantizar que los cambios en una parte del sistema no hayan provocado el fallo de otra parte, mientras que el objetivo de la prueba de confirmación es comprobar que todas las pruebas realizadas anteriormente siguen proporcionando los mismos resultados que antes."
+        },
+        {
+          "letra": "d",
+          "descripcion": "El objetivo de la prueba de confirmación es confirmar que los cambios en el sistema se realizaron con éxito, mientras que el objetivo de la prueba de regresión es ejecutar pruebas que fallaron anteriormente para garantizar que ahora funcionen correctamente."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 13,
+      "enunciado": "¿Cuál de las siguientes afirmaciones describe CORRECTAMENTE el papel del análisis de impacto en la prueba de mantenimiento?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El análisis de impacto se utiliza para decidir si es conveniente llevar a cabo una corrección en un sistema objeto de mantenimiento."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El análisis de impacto se utiliza para identificar cómo deben migrarse los datos al sistema mantenido."
+        },
+        {
+          "letra": "c",
+          "descripcion": "El análisis de impacto se utiliza para decidir qué correcciones en caliente son de mayor valor para el usuario."
+        },
+        {
+          "letra": "d",
+          "descripcion": "El análisis de impacto se utiliza para determinar la eficacia de los nuevos casos de pruebas de mantenimiento."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 14,
+      "enunciado": "¿Cuál de las siguientes afirmaciones refleja CORRECTAMENTE el valor de la prueba estática?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Al introducir revisiones, hemos encontrado que tanto la calidad de las especificaciones como el tiempo requerido para el desarrollo y las pruebas han aumentado."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El uso de la prueba estática significa que tenemos un mejor control y una gestión de defectos más barata debido a la facilidad de eliminar los defectos más tarde en el ciclo de vida."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ahora que requerimos el uso de análisis estático, los requisitos incumplidos han disminuido y la comunicación entre los probadores y los desarrolladores ha mejorado."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Desde que empezamos a usar el análisis estático, encontramos defectos de codificación que podrían no haber sido encontrados al realizar sólo pruebas dinámicas."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 15,
+      "enunciado": "¿Cuál de las siguientes secuencias muestra MEJOR las principales actividades del proceso de revisión de productos de trabajo?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Iniciar la revisión - Selección de revisores - Revisión individual - Comunicación y análisis de cuestiones – Reconstrucción."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Planificar y preparación - Reunión de presentación - Revisión individual - Corregir - Informar."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Preparación - Detección de cuestiones - Comunicación y análisis de cuestiones - Reconstruir - Informar."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Planificar - Iniciar revisión - Revisión individual (es decir, preparación individual) - Comunicar y analizar cuestiones - Corregir e informar."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 16,
+      "enunciado": "¿Cuál de las siguientes opciones describe CORRECTAMENTE la correspondencia entre las funciones y responsabilidades en una revisión formal?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Dirección - Decide acerca de la ejecución de las revisiones."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Líder de Revisión - Asegura el funcionamiento efectivo de las reuniones de revisión."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Escriba - Corrige los defectos en el producto de trabajo bajo revisión."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Moderador - Supervisa la rentabilidad en curso."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 17,
+      "enunciado": "¿Cuál de los siguientes tipos de revisión sea el que MÁS probablemente se utilice en su organización?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Las revisiones que se utilizan en su organización presentan las siguientes características:<br></p><ul><li> - Hay un rol de escriba.</li><li>El objetivo es detectar defectos potenciales.</li><li> - La reunión de revisión está dirigida por el autor.</li><li> - Los revisores encuentran defectos potenciales en la revisión individual.</li><li>Se elabora un informe de revisión.</li></ul><p>¿Cuál de los siguientes tipos de revisión sea el que MÁS probablemente se utilice en su organización?</p>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Revisión informal."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Revisión guiada."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Revisión técnica."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Inspección."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 18,
+      "enunciado": "¿Cuál de las siguientes opciones identifica CORRECTAMENTE las inconsistencias entre pares de requisitos?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Se le ha pedido que participe en una revisión basada en una lista de comprobación del siguiente extracto de la especificación de requisitos para un sistema de biblioteca:</p><br><p>Los bibliotecarios pueden:<br></p><ol><li>1. Registrar nuevos prestatarios.</li><li>2. Devolver los libros de los prestatarios.</li><li>3. Aceptar multas de los prestatarios.</li><li>4. Añadir nuevos libros al sistema con su ISBN, autor y título.</li><li>5. Eliminar libros del sistema.</li><li>6. Obtener respuestas del sistema en el transcurso de 5 segundos.</li></ol><br><p>Los prestatarios pueden:<br></p><ol start=\"7\"><li>7. Solicitar un préstamo de un máximo de 3 libros a la vez.</li><li>8. Ver el historial de los libros que han pedido prestados/reservados.</li><li>9. Ser multado por no devolver un libro en un plazo de 3 semanas.</li><li>10. Obtener respuestas del sistema transcurso de 3 segundos.</li><li>11. Solicitar el préstamo de un libro sin costo alguno por un máximo de 4 semanas.</li><li>12. Reservar libros (si están prestados).</li></ol><br><p>Todos los usuarios (bibliotecarios y prestatarios):</p><ol start=\"13\"><li>13. Pueden buscar libros por ISBN, autor o título.</li><li>14. Pueden consultar el catálogo del sistema.</li><li>15. El sistema responderá a las peticiones de los usuarios en el transcurso de 3 segundos.</li><li>16. La interfaz de usuario deberá ser fácil de usar.</li></ol>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "6-10, 6-15, 7-12"
+        },
+        {
+          "letra": "b",
+          "descripcion": "6-15, 9-11"
+        },
+        {
+          "letra": "c",
+          "descripcion": "6-10, 6-15, 9-11"
+        },
+        {
+          "letra": "d",
+          "descripcion": "6-15, 7-12"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 19,
+      "enunciado": "¿Cuál de las siguientes opciones proporciona la MEJOR descripción de la prueba exploratoria?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Es una práctica de prueba en la que se utiliza una investigación en profundidad de los antecedentes del objeto de prueba para identificar posibles puntos débiles que se evalúan en los casos de prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Es un enfoque de prueba en el que los probadores diseñan y ejecutan pruebas dinámicamente basándose en sus conocimientos, la exploración del objeto de prueba y los resultados de pruebas anteriores."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Un enfoque de diseño de pruebas en el que las actividades de prueba se planifican como sesiones ininterrumpidas de análisis y diseño de pruebas, a menudo utilizadas conjuntamente con pruebas basadas en listas de comprobación."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Pruebas basadas en la experiencia, el conocimiento y la intuición del examinador."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 20,
+      "enunciado": "¿Cuál de las siguientes opciones combina MEJOR las descripciones con las diferentes categorías de técnicas de prueba?",
+      "puntos": 1,
+      "contenido_adicional_html": "<ol><li>1. La cobertura se mide en base a una estructura seleccionada del objeto de prueba.</li><li>2. Se comprueba el proceso dentro del objeto de test.</li><li>3. Las pruebas se basan en la probabilidad de defectos y su distribución.</li><li>4. Se comprueban las desviaciones de los requisitos.</li><li>5. Las historias de usuarios se utilizan como base de prueba.</li></ol><p><strong>Negro</strong> - Técnicas de prueba de caja negra. <strong><br>Blanco</strong> - Técnicas de prueba de caja blanca.<br> <strong>Experiencia</strong> - Técnicas de prueba basadas en la experiencia.</p>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "(Negro - 4, 5), (Blanco - 1, 2), (Experiencia - 3)."
+        },
+        {
+          "letra": "b",
+          "descripcion": "(Negro - 3), (Blanco - 1, 2), (Experiencia - 4, 5)."
+        },
+        {
+          "letra": "c",
+          "descripcion": "(Negro - 4), (Blanco - 1, 2), (Experiencia - 3, 5)."
+        },
+        {
+          "letra": "d",
+          "descripcion": "(Negro - 1, 3, 5), (Blanco - 2), (Experiencia - 4)."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 21,
+      "enunciado": "¿Cuál de los siguientes conjuntos de entradas de prueba lograría la cobertura de partición de equivalencia más alta?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Una aplicación de entrenamiento físico mide el número de pasos que se caminan cada día y proporciona información para animar al usuario a mantenerse en forma.<br> La retroalimentación para las diferentes cantidades de pasos debe ser: <br><br> Hasta 1000 pasos - ¡Lleva una vida sedentaria! <br> Más de 1000 pasos, hasta 2000 - ¡Lleva una vida poco activa! <br> Más de 2000 pasos, hasta 4000 - ¡Se acerca al objetivo! <br> Más de 4000 pasos, hasta 6000 - ¡No está mal! <br> Más de 6000 pasos - ¡Así se hace!</p> ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "(0,1000,2000,3000,4000)"
+        },
+        {
+          "letra": "b",
+          "descripcion": "(1000,2001,4000,4001,6000)"
+        },
+        {
+          "letra": "c",
+          "descripcion": "(123,2345,3456,4567,5678)"
+        },
+        {
+          "letra": "d",
+          "descripcion": "(666,999,2222,5555,6666)"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 22,
+      "enunciado": "¿Cuál es el número mínimo de casos de prueba adicionales que se necesitan para garantizar la cobertura completa de todas las particiones de equivalencia de ENTRADA válidas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p className='mb-4'>Un registrador de radiación diaria para plantas genera una puntuación de radiación solar basada en una combinación del número de horas a la que una planta está expuesta al sol (menos de 3 horas, de 3 a 6 horas o más de 6 horas) y la intensidad media de la luz solar (muy baja, baja, media, alta).</p> <table className='border-collapse border'><thead><tr><th className='border p-2'></th><th className='border p-2'>HORAS</th><th className='border p-2'>INTENSIDAD</th><th className='border p-2'>PUNTUACION</th></tr></thead><tbody><tr><td className='border p-2'>CP1</td><td className='border p-2'>1,5</td><td className='border p-2'>muy baja</td><td className='border p-2'>10</td></tr><tr><td className='border p-2'>CP2</td><td className='border p-2'>7,0</td><td className='border p-2'>media</td><td className='border p-2'>60</td></tr><tr><td className='border p-2'>CP3</td><td className='border p-2'>0,5</td><td className='border p-2'>muy baja</td><td className='border p-2'>10</td></tr></tbody></table></div>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "1"
+        },
+        {
+          "letra": "b",
+          "descripcion": "2"
+        },
+        {
+          "letra": "c",
+          "descripcion": "3"
+        },
+        {
+          "letra": "d",
+          "descripcion": "4"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 23,
+      "enunciado": "¿Utilizando la técnica de Análisis de Valores Frontera en su variante de dos puntos, cuál de los siguientes conjuntos de entradas de prueba proporciona el nivel más alto de cobertura de frontera?",
+      "puntos": 1,
+      "contenido_adicional_html": "Una aplicación inteligente para el hogar mide la temperatura promedio en la casa durante la semana anterior y proporciona información a los ocupantes sobre su compatibilidad con el respeto al medio ambiente basada en esta temperatura.\n\nLa retroalimentación para los diferentes rangos de temperatura promedio (hasta el °C más cercano) debe ser:\n\nHasta 10°C - ¡Frío glacial!\n11°C a 15°C - ¡Frío!\n16°C a 19°C - ¡Fresco!\n20°C a 22°C - ¡Muy cálido!\nPor encima de 22°C - ¡Calor excesivo!",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "(0°C, 11°C, 20°C, 22°C, 23°C)"
+        },
+        {
+          "letra": "b",
+          "descripcion": "(9°C, 15°C, 19°C, 23°C, 100°C)"
+        },
+        {
+          "letra": "c",
+          "descripcion": "(10°C, 16°C, 19°C, 22°C, 23°C)"
+        },
+        {
+          "letra": "d",
+          "descripcion": "(14°C,15°C,18°C,19°C,21°C,22°C)"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 24,
+      "enunciado": "¿Cuáles son los dos casos de prueba adicionales que lograrían una cobertura total de la tabla de decisión completa (cuando se combinan con los casos de prueba que ya se han generado para las reglas 1 y 4)?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Se están realizando pruebas de tabla de decisión en un sistema de multas por exceso de velocidad. Se han elaborado dos casos de prueba para las reglas 1 y 4, que se muestran a continuación:</p><table><thead><tr><th>Reglas</th><th>R1</th><th>R4</th></tr></thead><tbody><tr><td>Condiciones</td><td>Velocidad>50</td><td>V</td><td>F</td></tr><tr><td>Condiciones</td><td>Zona Escolar</td><td>V</td><td>F</td></tr><tr><td>Acciones</td><td>$250 multa</td><td>F</td><td>F</td></tr><tr><td>Acciones</td><td>Cárcel</td><td>V</td><td>F</td></tr></tbody></table><p>Dados los siguientes casos de prueba adicionales:</p><table><thead><tr><th>Reglas</th><th>DT1</th><th>DT2</th><th>DT3</th><th>DT4</th></tr></thead><tbody><tr><td>Entrada</td><td>velocidad</td><td>55</td><td>44</td><td>66</td><td>77</td></tr><tr><td>Entrada</td><td>Zona Escolar</td><td>V</td><td>V</td><td>V</td><td>F</td></tr><tr><td>Resultado Esperado</td><td>$250 Multa</td><td>F</td><td>F</td><td>F</td><td>V</td></tr><tr><td>Resultado Esperado</td><td>Cárcel</td><td>V</td><td>F</td><td>V</td><td>F</td></tr></tbody></table>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "DT1, DT2."
+        },
+        {
+          "letra": "b",
+          "descripcion": "DT2, DT3."
+        },
+        {
+          "letra": "c",
+          "descripcion": "DT2, DT4."
+        },
+        {
+          "letra": "d",
+          "descripcion": "DT3, DT4."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 25,
+      "enunciado": "¿Cuál de las siguientes secuencias de transiciones proporciona el mayor nivel de cobertura de transición para el modelo?",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Modelo de estado:</p><img src=\"/istqb/25.jpg\" alt=\"Modelo de estado\">",
+      "imagen": "/istqb/25.jpg",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "APAGADO -> EN ESPERA -> APAGADO -> EN ESPERA -> CARGA LENTA -> CARGA -> ALTA -> CARGA -> BAJA"
+        },
+        {
+          "letra": "b",
+          "descripcion": "EN ESPERA -> CARGA LENTA -> EN ESPERA -> APAGADO -> EN ESPERA -> CARGA LENTA -> CARGA -> BAJA -> CARGA"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ALTA -> CARGA -> BAJA -> CARGA -> CARGA LENTA -> EN ESPERA -> CARGA LENTA -> EN ESPERA -> CARGA LENTA"
+        },
+        {
+          "letra": "d",
+          "descripcion": "EN ESPERA -> CARGA LENTA -> CARGA -> ALTA -> CARGA -> CARGA LENTA -> EN ESPERA -> APAGADO -> EN ESPERA"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 26,
+      "enunciado": "¿Cuál de las siguientes afirmaciones describe MEJOR cómo se deducen los casos de prueba de un caso de uso?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Los casos de prueba son creados para practicar comportamientos básicos definidos, excepcionales y de error realizados por el sistema bajo prueba en colaboración con los actores."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Los casos de prueba se deducen mediante la identificación de los componentes incluidos en el caso de uso y la creación de pruebas de integración que practican las interacciones de estos componentes."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Los casos de prueba se generan analizando las interacciones de los actores con el sistema para asegurar que las interfaces de usuario sean fáciles de usar."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Los casos de prueba se deducen para ejercer cada uno de los puntos de decisión en los flujos de procesos de negocio del caso de uso, para lograr una cobertura de decisión del 100% de estos flujos."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 27,
+      "enunciado": "¿Cuál de las siguientes descripciones de la cobertura de sentencia es CORRECTA?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La cobertura de sentencia es una medida del número de líneas de código fuente (menos los comentarios) practicadas por las pruebas."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La cobertura de sentencia es una medida de la proporción de sentencias ejecutables en el código fuente practicada por las pruebas."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La cobertura de sentencia es una medida del porcentaje de líneas de código fuente practicadas por las pruebas."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La cobertura de sentencia es una medida del número de sentencias ejecutables en el código fuente practicadas por las pruebas."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 28,
+      "enunciado": "¿Cuál de las siguientes descripciones de cobertura de decisión es CORRECTA?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La cobertura de decisión es una medida del porcentaje de posibles caminos a través del código fuente practicados por las pruebas."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La cobertura de decisión es una medida del porcentaje de flujos de negocios a través del componente practicado por las pruebas."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La cobertura de decisión es una medida de las sentencias 'if' en el código que se practican con resultados tanto verdaderos como falsos."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La cobertura de decisión es una medida de la proporción de resultados de decisión en el código fuente practicada por las pruebas."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 29,
+      "enunciado": "¿Cuál de las siguientes opciones describe MEJOR el concepto detrás de predicción de errores?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La predicción de errores requiere que usted se imagine que es el usuario del objeto de prueba y que conjeture sobre los errores que el usuario podría cometer al interactuar con él."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La predicción de errores involucra el uso de su experiencia personal en el desarrollo y los errores que usted cometió como desarrollador."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La predicción de errores implica el uso de su conocimiento y experiencia de los defectos encontrados en el pasado y los errores típicos cometidos por desarrolladores."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La predicción de errores requiere que usted duplique rápidamente la tarea de desarrollo para identificar el tipo de errores que un desarrollador podría cometer."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 30,
+      "enunciado": "¿Cuál de las siguientes opciones explica MEJOR el beneficio de la prueba independiente?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El uso de un equipo de prueba independiente permite a la dirección del proyecto asignar la responsabilidad de la calidad del producto final al equipo de prueba, asegurando así que todos sean conscientes de que la calidad es la responsabilidad general del equipo de prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Si se puede permitir un equipo de prueba externo a la organización, entonces hay claros beneficios en términos de que este equipo externo no es tan fácilmente influenciado por las preocupaciones de entrega de la gestión de proyectos y la necesidad de cumplir con plazos de entrega estrictos."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Un equipo de prueba independiente puede trabajar totalmente separado de los desarrolladores, no necesita distraerse con los requisitos cambiantes del proyecto, y puede restringir la comunicación con los desarrolladores para informar de los defectos a través del sistema de gestión de defectos."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Cuando las especificaciones contienen ambigüedades e inconsistencias, se hacen suposiciones sobre su interpretación, y un probador independiente puede ser útil para cuestionar esas suposiciones y la interpretación hecha por el desarrollador."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 31,
+      "enunciado": "¿Cuál de las siguientes tareas es MÁS PROBABLE que sea realizada por el jefe de la prueba?\na) Redactar informes resumen de prueba basados en la información recopilada durante la prueba.\nb) Revisar las pruebas desarrolladas por otros.\nc) Crear el calendario de ejecución de pruebas detallado.\nd) Analizar, revisar y evaluar los requisitos, especificaciones y modelos en lo que respecta a la capacidad de ser probado.",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Redactar informes resumen de prueba basados en la información recopilada durante la prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Revisar las pruebas desarrolladas por otros."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Crear el calendario de ejecución de pruebas detallado."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Analizar, revisar y evaluar los requisitos, especificaciones y modelos en lo que respecta a la capacidad de ser probado."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 32,
+      "enunciado": "¿Cuál de las siguientes opciones clasifica MEJOR los criterios de entrada y salida?",
+      "puntos": 1,
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "(Criterios de entrada: 5, 6); (Criterios de salida: 1, 2, 3, 4)."
+        },
+        {
+          "letra": "b",
+          "descripcion": "(Criterios de entrada: 2, 3, 6); (Criterios de salida - 1, 4, 5)."
+        },
+        {
+          "letra": "c",
+          "descripcion": "(Criterios de entrada: 1, 3); (Criterios de salida - 2, 4, 5, 6)."
+        },
+        {
+          "letra": "d",
+          "descripcion": "(Criterios de entrada: 3, 5, 6); (Criterios de salida - 1, 2, 4)."
+        }
+      ],
+      "respuesta_correcta": "d",
+      "contenido_adicional_html": "",
+      "imagen": ""
+    },
+    {
+      "id": 33,
+      "enunciado": "Dadas las siguientes prioridades y dependencias para casos de prueba (CP) de la siguiente tabla:",
+      "puntos": 1,
+      "contenido_adicional_html": "<p>Prioridades y dependencias:</p><table border=\"1\"><tr><th>CASO DE PRUEBA</th><th>PRIORIDAD</th><th>PRESENTA DEPENDENCIA TECNICA DE</th><th>PRESENTA DEPENDENCIA LOGICA DE</th></tr><tr><td>CP1</td><td>ALTA</td><td>CP4</td><td></td></tr><tr><td>CP2</td><td>BAJA</td><td></td><td></td></tr><tr><td>CP3</td><td>ALTA</td><td></td><td>CP4</td></tr><tr><td>CP4</td><td>MEDIA</td><td></td><td></td></tr><tr><td>CP5</td><td>BAJA</td><td></td><td>CP2</td></tr><tr><td>CP6</td><td>MEDIA</td><td>CP5</td><td></td></tr></table>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "CP1 – CP3 – CP4 – CP6 – CP2 – CP5"
+        },
+        {
+          "letra": "b",
+          "descripcion": "CP4 – CP3 – CP1 – CP2 – CP5 – CP6"
+        },
+        {
+          "letra": "c",
+          "descripcion": "CP4 – CP1 – CP3 – CP5 – CP6 – CP2"
+        },
+        {
+          "letra": "d",
+          "descripcion": "CP4 – CP2 – CP5 – CP1 – CP3 – CP6"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 34,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre los enfoques para la estimación de la prueba es CORRECTA?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Con el enfoque basado en métricas, la estimación se basa en las mediciones de prueba del proyecto y, por lo tanto, esta estimación sólo está disponible después de que se inicie la prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Con el enfoque basado en expertos, un grupo de usuarios expertos identificados por el cliente recomienda el presupuesto necesario para la prueba."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Con el enfoque basado en expertos, los jefes de prueba responsables de las diferentes actividades de prueba predicen el esfuerzo de prueba esperado."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Con el enfoque basado en métricas, se utiliza como presupuesto de pruebas un promedio de los costes de pruebas registrados para diversos proyectos previos."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 35,
+      "enunciado": "¿Cuál de las siguientes opciones define MEJOR el nivel de riesgo?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El nivel de riesgo se calcula sumando las probabilidades de todas las situaciones problemáticas y el daño financiero que se deriva de ellas."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El nivel de riesgo se calcula multiplicando la probabilidad de que se produzca una amenaza para el sistema por la probabilidad de que ésta se produzca y cause un daño financiero."
+        },
+        {
+          "letra": "c",
+          "descripcion": "El nivel de riesgo está determinado por una combinación de la probabilidad de un evento indeseable y el impacto esperado de ese evento."
+        },
+        {
+          "letra": "d",
+          "descripcion": "El nivel de riesgo es la suma de todos los peligros potenciales para un sistema multiplicado por la suma de todas las pérdidas potenciales de ese sistema."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 36,
+      "enunciado": "¿Cuál de las siguientes opciones es más factible que sea un ejemplo de riesgo de PRODUCTO?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Las características de seguridad esperadas pueden no estar soportadas por la arquitectura del sistema."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Los desarrolladores pueden no tener tiempo para reparar todos los defectos encontrados por el equipo de prueba."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Los casos de prueba pueden no proporcionar una cobertura completa de los requisitos especificados."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Es posible que el entorno de la prueba de rendimiento no esté listo antes de la entrega del sistema."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 37,
+      "enunciado": "¿Cuál de las siguientes opciones es MENOS probable que sea un ejemplo de análisis de riesgo de producto que influya CORRECTAMENTE en la prueba?",
+      "puntos": 1,
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Se ha determinado que el impacto potencial de los desperfectos de seguridad es particularmente alto, por lo que se ha dado prioridad a la prueba de seguridad antes que a otras actividades de prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La prueba ha demostrado que la calidad del módulo de red es superior a la esperada, por lo que ahora se realizarán pruebas adicionales en esa área."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Los usuarios tuvieron problemas con la interfaz de usuario del sistema anterior, por lo que se han previsto pruebas de usabilidad adicionales para el sistema de sustitución."
+        },
+        {
+          "letra": "d",
+          "descripcion": "El tiempo necesario para cargar las páginas web es crucial para el éxito del nuevo sitio web, por lo que se ha contratado a un experto en pruebas de rendimiento para este proyecto."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 38,
+      "enunciado": "¿Qué opción presenta el conjunto de elementos de información que sería MÁS útil incluir en el informe inicial de defecto?",
+      "contenido_adicional_html": "<p>Usted está realizando la prueba de sistema de un sistema de reserva de trenes. Ha encontrado que ocasionalmente el sistema informa que no hay trenes disponibles cuando usted cree que debería haberlos, basándose en los casos de prueba que usted ha realizado. Usted ha proporcionado al responsable de desarrollo una síntesis del defecto y de la versión del sistema que está probando. Los desarrolladores reconocen la urgencia del defecto y ahora están esperando que usted les proporcione más detalles para que puedan corregirlo. </p><h2>Dados los siguientes elementos de información:</h2><ol><li> 1. Grado de impacto (severidad) del defecto.</li><li>2. Identificación del elemento de prueba.</li><li>3. Detalles del entorno de prueba.</li><li>4. Urgencia/prioridad de la corrección.</li><li>5. Resultados reales.</li><li>6. Referencia a la especificación de caso de prueba.</li></ol>",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "1, 2, 6"
+        },
+        {
+          "letra": "b",
+          "descripcion": "1, 4, 5, 6"
+        },
+        {
+          "letra": "c",
+          "descripcion": "2, 3, 4, 5"
+        },
+        {
+          "letra": "d",
+          "descripcion": "3, 5, 6"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 39,
+      "enunciado": "¿Cuál de las siguientes opciones presenta las asociaciones entre actividades y herramientas de prueba MÁS CORRECTAS?",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "1 – B, 2 – C, 3 – D, 4 – A"
+        },
+        {
+          "letra": "b",
+          "descripcion": "1 – B, 2 – A, 3 – C, 4 – D"
+        },
+        {
+          "letra": "c",
+          "descripcion": "1 – B, 2 – A, 3 – D, 4 – C"
+        },
+        {
+          "letra": "d",
+          "descripcion": "1 – A, 2 – B, 3 – D, 4 – C"
+        }
+      ],
+      "respuesta_correcta": "c",
+      "contenido_adicional_html": "<p>Dadas las siguientes actividades de prueba y herramientas de prueba:<br/>A. Medición del Rendimiento y el Análisis Dinámico.<br/>B. Ejecución y el Registro de Pruebas.<br/>C. Gestión de la Prueba y Productos de Prueba.<br/>D. Diseño de Prueba<br/><br/>1. Herramientas de cobertura de requisitos.<br/>2. Herramientas de análisis dinámico.<br/>3. Herramientas de preparación de datos de prueba.<br/>4. Herramientas de gestión de defectos.</p>"
+    },
+    {
+      "id": 40,
+      "enunciado": "¿Cuál de las siguientes opciones es MÁS PROBABLE que se utilice como una razón para utilizar un proyecto piloto para introducir una herramienta en una organización?",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La necesidad de evaluar cómo se adapta la herramienta a los procesos y prácticas existentes y determinar qué es lo que habría que cambiar."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La necesidad de evaluar las competencias de automatización de pruebas y las necesidades de formación, entrenamiento y asesoramiento de los probadores que utilizarán la herramienta."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La necesidad de evaluar si la herramienta proporciona la funcionalidad requerida y no duplica las de herramientas de prueba existentes."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La necesidad de evaluar al proveedor de la herramienta en términos de la formación y otro tipo de apoyo que proporcione."
+        }
+      ],
+      "respuesta_correcta": "a"
+    }
+  ]
+}
