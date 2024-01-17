@@ -13,8 +13,8 @@ export default function Exam() {
   
 
   return (
-    <div className='w-[860px] h-screen mx-auto bg-gray-100'>
-      <h1>Preguntas de ISTQB</h1>
+    <div className='w-screen h-screen mx-auto lg:w-[850px]'>
+      <h1 className='text-center p-2 font-extrabold text-2xl'>Preguntas de ISTQB</h1>
       <Pregunta datos={datos} />
     </div>
   )

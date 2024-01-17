@@ -52,7 +52,7 @@ export default function Pregunta(props) {
             <div className='h-[100px]'>
 
             </div>
-            <div className='fixed bottom-0 left-0 right-0 bg-violet-500 text-white p-1 rounded flex items-center justify-center gap-2'>
+            <div className='fixed bottom-0 left-0 right-0 bg-black text-white p-1 rounded flex items-center justify-center gap-2'>
                 <div>Resultado: </div>
                 <div className='border p-2 flex items-center flex-items gap-2'>
                     <div>Correcto: </div>
