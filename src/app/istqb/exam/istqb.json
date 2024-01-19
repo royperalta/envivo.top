@@ -782,7 +782,7 @@
     },
     {
       "id": 31,
-      "enunciado": "¿Cuál de las siguientes tareas es MÁS PROBABLE que sea realizada por el jefe de la prueba?\na) Redactar informes resumen de prueba basados en la información recopilada durante la prueba.\nb) Revisar las pruebas desarrolladas por otros.\nc) Crear el calendario de ejecución de pruebas detallado.\nd) Analizar, revisar y evaluar los requisitos, especificaciones y modelos en lo que respecta a la capacidad de ser probado.",
+      "enunciado": "¿Cuál de las siguientes tareas es MÁS PROBABLE que sea realizada por el jefe de la prueba?",
       "opciones": [
         {
           "letra": "a",
@@ -826,14 +826,14 @@
         }
       ],
       "respuesta_correcta": "d",
-      "contenido_adicional_html": "",
+      "contenido_adicional_html": "<h2>Informe de Progreso</h2><ol><li>Se ha agotado el presupuesto original de 30.000 dólares para las pruebas, más 7.000 dólares para imprevistos.</li><li>El 96% de las pruebas planificadas para el paquete de dibujo se han ejecutado y el resto de las pruebas se encuentran ahora fuera de su alcance.</li><li>El entorno de prueba de rendimiento de las transacciones ha sido diseñado, configurado y verificado.</li><li>El estado actual no presenta defectos críticos pendientes y dos de prioridad alta.</li><li>Las especificaciones de diseño del piloto automático han sido revisadas y reelaboradas.</li><li>El componente de cálculo del tipo impositivo ha pasado la prueba unitaria.</li></ol>",
       "imagen": ""
     },
     {
       "id": 33,
       "enunciado": "Dadas las siguientes prioridades y dependencias para casos de prueba (CP) de la siguiente tabla:",
       "puntos": 1,
-      "contenido_adicional_html": "<p>Prioridades y dependencias:</p><table border=\"1\"><tr><th>CASO DE PRUEBA</th><th>PRIORIDAD</th><th>PRESENTA DEPENDENCIA TECNICA DE</th><th>PRESENTA DEPENDENCIA LOGICA DE</th></tr><tr><td>CP1</td><td>ALTA</td><td>CP4</td><td></td></tr><tr><td>CP2</td><td>BAJA</td><td></td><td></td></tr><tr><td>CP3</td><td>ALTA</td><td></td><td>CP4</td></tr><tr><td>CP4</td><td>MEDIA</td><td></td><td></td></tr><tr><td>CP5</td><td>BAJA</td><td></td><td>CP2</td></tr><tr><td>CP6</td><td>MEDIA</td><td>CP5</td><td></td></tr></table>",
+      "contenido_adicional_html": "<p>Prioridades y dependencias:</p><table border=\"1\"><tr><th>CASO DE PRUEBA</th><th>PRIORIDAD</th><th>PRESENTA DEPENDENCIA TECNICA DE</th><th>PRESENTA DEPENDENCIA LOGICA DE</th></tr><tr><td>CP1</td><td>ALTA</td><td>CP4</td><td></td></tr><tr><td>CP2</td><td>BAJA</td><td></td><td></td></tr><tr><td>CP3</td><td>ALTA</td><td></td><td>CP4</td></tr><tr><td>CP4</td><td>MEDIA</td><td></td><td></td></tr><tr><td>CP5</td><td>BAJA</td><td></td><td>CP2</td></tr><tr><td>CP6</td><td>MEDIA</td><td>CP5</td><td></td></tr></table><br>¿Cuál de los siguientes calendarios de ejecución de pruebas tiene en cuenta MEJOR las prioridades y las dependencias técnicas y lógicas?",
       "imagen": "",
       "opciones": [
         {

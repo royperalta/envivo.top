@@ -1,1118 +1,2715 @@
 [
-    {
-        "id": 1,
-        "baseForm": "abide",
-        "pastSimple": "abode",
-        "pastParticiple": "abode",
-        "imagen": "./img/irregularVerbs/abide.jpeg",
-        "pronunciation": "əˈbaɪd",
-        "pronInSpanishBaseForm": "abaid",
-        "pronInSpanishPastSimple": "abóud",
-        "pronInSpanishPastParticiple": "abóud",
-        "translate": [
-            "permanecer",
-            "soportar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "I will abide by the decision",
-                "spanish": "Permaneceré fiel a la decisión"
-            },
-            {
-                "id": "2",
-                "english": "He cannot abide injustice",
-                "spanish": "Él no puede soportar la injusticia"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "3",
-                "english": "Abide in me, and I in you",
-                "spanish": "Permaneced en mí, y yo en vosotros (Juan 15:4)"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "baseForm": "arise",
-        "pastSimple": "arose",
-        "pastParticiple": "arisen",
-        "imagen": "./img/irregularVerbs/arise.jpeg",
-        "pronunciation": "əˈraɪz",
-        "pronInSpanishBaseForm": "arais",
-        "pronInSpanishPastSimple": "arós",
-        "pronInSpanishPastParticiple": "árisen",
-        "translate": [
-            "surgir",
-            "levantarse",
-            "aparecer",
-            "erguirse"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "Conflicts may arise",
-                "spanish": "Los conflictos pueden surgir"
-            },
-            {
-                "id": "2",
-                "english": "The sun arose in the east",
-                "spanish": "El sol se levantó en el este"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "3",
-                "english": "Arise, shine, for your light has come",
-                "spanish": "Levántate, resplandece, porque ha venido tu luz (Isaías 60:1)"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "baseForm": "awake",
-        "pastSimple": "awoke",
-        "pastParticiple": "awoken",
-        "imagen": "./img/irregularVerbs/awake.jpeg",
-        "pronunciation": "əˈweɪk",
-        "pronInSpanishBaseForm": "awéik",
-        "pronInSpanishPastSimple": "awóuk",
-        "pronInSpanishPastParticiple": "awóukən",
-        "translate": [
-            "despertar",
-            "despertarse"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "She awoke with a start",
-                "spanish": "Ella despertó de repente"
-            },
-            {
-                "id": "2",
-                "english": "He has awoken from a deep sleep",
-                "spanish": "Él ha despertado de un sueño profundo"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 4,
-        "baseForm": "be",
-        "pastSimple": "was/were",
-        "pastParticiple": "been",
-        "imagen": "./img/irregularVerbs/be.jpeg",
-        "pronunciation": "biː",
-        "pronInSpanishBaseForm": "bi",
-        "pronInSpanishPastSimple": "uóz/wər",
-        "pronInSpanishPastParticiple": "bin",
-        "translate": [
-            "ser",
-            "estar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "She is a teacher",
-                "spanish": "Ella es profesora"
-            },
-            {
-                "id": "2",
-                "english": "We have been to Paris",
-                "spanish": "Hemos estado en París"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 5,
-        "baseForm": "bear",
-        "pastSimple": "bore",
-        "pastParticiple": "born",
-        "imagen": "./img/irregularVerbs/bear.jpeg",
-        "pronunciation": "ber",
-        "pronInSpanishBaseForm": "bér",
-        "pronInSpanishPastSimple": "bor",
-        "pronInSpanishPastParticiple": "born",
-        "translate": [
-            "soportar",
-            "llevar",
-            "dar a luz"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "She can't bear the pain",
-                "spanish": "No puede soportar el dolor"
-            },
-            {
-                "id": "2",
-                "english": "The tree has borne fruit",
-                "spanish": "El árbol ha dado fruto"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 6,
-        "baseForm": "beat",
-        "pastSimple": "beat",
-        "pastParticiple": "beaten",
-        "imagen": "./img/irregularVerbs/beat.jpeg",
-        "pronunciation": "biːt",
-        "pronInSpanishBaseForm": "bit",
-        "pronInSpanishPastSimple": "bit",
-        "pronInSpanishPastParticiple": "bítn",
-        "translate": [
-            "golpear",
-            "vencer",
-            "latir"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He beat the drum",
-                "spanish": "Él golpeó el tambor"
-            },
-            {
-                "id": "2",
-                "english": "They have beaten their rivals",
-                "spanish": "Han vencido a sus rivales"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 7,
-        "baseForm": "become",
-        "pastSimple": "became",
-        "pastParticiple": "become",
-        "imagen": "./img/irregularVerbs/become.jpeg",
-        "pronunciation": "bɪˈkʌm",
-        "pronInSpanishBaseForm": "bikám",
-        "pronInSpanishPastSimple": "bikéim",
-        "pronInSpanishPastParticiple": "bikám",
-        "translate": [
-            "convertirse en",
-            "volverse"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He will become a doctor",
-                "spanish": "Él se convertirá en doctor"
-            },
-            {
-                "id": "2",
-                "english": "She became very famous",
-                "spanish": "Ella se volvió muy famosa"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 8,
-        "baseForm": "befall",
-        "pastSimple": "befell",
-        "pastParticiple": "befallen",
-        "imagen": "./img/irregularVerbs/befall.jpeg",
-        "pronunciation": "bɪˈfɔːl",
-        "pronInSpanishBaseForm": "bifól",
-        "pronInSpanishPastSimple": "bifél",
-        "pronInSpanishPastParticiple": "bifólen",
-        "translate": [
-            "acontecer",
-            "suceder"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "Misfortunes befell him",
-                "spanish": "Desgracias le acontecieron"
-            },
-            {
-                "id": "2",
-                "english": "What will befall us next?",
-                "spanish": "¿Qué nos sucederá a continuación?"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 9,
-        "baseForm": "beget",
-        "pastSimple": "begot",
-        "pastParticiple": "begotten",
-        "imagen": "./img/irregularVerbs/beget.jpeg",
-        "pronunciation": "bɪˈɡet",
-        "pronInSpanishBaseForm": "bigét",
-        "pronInSpanishPastSimple": "bɪˈɡɒt",
-        "pronInSpanishPastParticiple": "bɪˈɡɒtn̩",
-        "translate": [
-            "engendrar",
-            "procrear"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He begot three children",
-                "spanish": "Engendró tres hijos"
-            },
-            {
-                "id": "2",
-                "english": "A new era is begotten",
-                "spanish": "Una nueva era está engendrada"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 10,
-        "baseForm": "begin",
-        "pastSimple": "began",
-        "pastParticiple": "begun",
-        "imagen": "./img/irregularVerbs/begin.jpeg",
-        "pronunciation": "bɪˈɡɪn",
-        "pronInSpanishBaseForm": "bɪˈɡɪn",
-        "pronInSpanishPastSimple": "bɪˈɡæn",
-        "pronInSpanishPastParticiple": "bɪˈɡʌn",
-        "translate": [
-            "empezar",
-            "iniciar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "They will begin the project soon",
-                "spanish": "Empezarán el proyecto pronto"
-            },
-            {
-                "id": "2",
-                "english": "The concert has begun",
-                "spanish": "El concierto ha comenzado"
-            }
-        ],
-        "biblicalExamples": []
-    },
-    {
-        "id": 11,
-        "baseForm": "behold",
-        "pastSimple": "beheld",
-        "pastParticiple": "beheld",
-        "imagen": "./img/irregularVerbs/behold.jpeg",
-        "pronunciation": "bɪˈhoʊld",
-        "pronInSpanishBaseForm": "biˈold",
-        "pronInSpanishPastSimple": "biˈheld",
-        "pronInSpanishPastParticiple": "biˈheld",
-        "translate": [
-            "contemplar",
-            "observar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "Behold the beauty of nature",
-                "spanish": "Contempla la belleza de la naturaleza"
-            },
-            {
-                "id": "2",
-                "english": "He beheld a magnificent sunset",
-                "spanish": "Él observó una puesta de sol magnífica"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "And I beheld, and, lo, in the midst of the throne",
-                "spanish": "Y miré, y he aquí, en medio del trono"
-            },
-            {
-                "id": "2",
-                "english": "And I beheld, and, lo, a Lamb stood on the mount Sion",
-                "spanish": "Y miré, y he aquí, un Cordero que estaba en el monte Sion"
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "baseForm": "bend",
-        "pastSimple": "bent",
-        "pastParticiple": "bent",
-        "imagen": "./img/irregularVerbs/bend.jpeg",
-        "pronunciation": "bɛnd",
-        "pronInSpanishBaseForm": "bɛnd",
-        "pronInSpanishPastSimple": "bɛnt",
-        "pronInSpanishPastParticiple": "bɛnt",
-        "translate": [
-            "doblar",
-            "inclinarse"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "She bent the paper",
-                "spanish": "Ella dobló el papel"
-            },
-            {
-                "id": "2",
-                "english": "The tree bent in the wind",
-                "spanish": "El árbol se inclinó con el viento"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "And I will make all my mountains a way, and my highways shall be exalted",
-                "spanish": "Y enderezaré todos mis montes como camino, y mis calzadas serán enaltecidas"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "baseForm": "bereave",
-        "pastSimple": "bereft",
-        "pastParticiple": "bereft",
-        "imagen": "./img/irregularVerbs/bereave.jpeg",
-        "pronunciation": "bɪˈriːv",
-        "pronInSpanishBaseForm": "biˈriːv",
-        "pronInSpanishPastSimple": "biˈreft",
-        "pronInSpanishPastParticiple": "biˈreft",
-        "translate": [
-            "desposeer",
-            "privar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "The war bereaved him of his family",
-                "spanish": "La guerra lo desposeyó de su familia"
-            },
-            {
-                "id": "2",
-                "english": "They were bereft of hope",
-                "spanish": "Estaban privados de esperanza"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "The Lord gave, and the Lord hath taken away; blessed be the name of the Lord",
-                "spanish": "El Señor dio, y el Señor ha quitado; bendito sea el nombre del Señor"
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "baseForm": "beseech",
-        "pastSimple": "besought",
-        "pastParticiple": "besought",
-        "imagen": "./img/irregularVerbs/beseech.jpeg",
-        "pronunciation": "bɪˈsiːtʃ",
-        "pronInSpanishBaseForm": "biˈsich",
-        "pronInSpanishPastSimple": "biˈsɔt",
-        "pronInSpanishPastParticiple": "biˈsɔt",
-        "translate": [
-            "suplicar",
-            "implorar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "I beseech you to forgive me",
-                "spanish": "Te suplico que me perdones"
-            },
-            {
-                "id": "2",
-                "english": "They besought mercy",
-                "spanish": "Imploraron misericordia"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "Now therefore forgive, I pray thee, my sin only this once",
-                "spanish": "Ahora, pues, te ruego que perdones mi pecado sólo esta vez"
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "baseForm": "beset",
-        "pastSimple": "beset",
-        "pastParticiple": "beset",
-        "imagen": "./img/irregularVerbs/beset.jpeg",
-        "pronunciation": "bɪˈsɛt",
-        "pronInSpanishBaseForm": "biˈset",
-        "pronInSpanishPastSimple": "biˈset",
-        "pronInSpanishPastParticiple": "biˈset",
-        "translate": [
-            "asediar",
-            "acosar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "The city was beset by enemies",
-                "spanish": "La ciudad estaba asediada por enemigos"
-            },
-            {
-                "id": "2",
-                "english": "She was beset with difficulties",
-                "spanish": "Estaba acosada por dificultades"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "They compassed me about like bees; they are quenched as the fire of thorns",
-                "spanish": "Me rodearon como abejas; fueron apagados como fuego de espinos"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "baseForm": "bespeak",
-        "pastSimple": "bespoke",
-        "pastParticiple": "bespoken",
-        "imagen": "./img/irregularVerbs/bespeak.jpeg",
-        "pronunciation": "bɪˈspiːk",
-        "pronInSpanishBaseForm": "biˈspik",
-        "pronInSpanishPastSimple": "biˈspoʊk",
-        "pronInSpanishPastParticiple": "biˈspoʊkən",
-        "translate": [
-            "encargar",
-            "anunciar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He bespoke a suit for the wedding",
-                "spanish": "Él encargó un traje para la boda"
-            },
-            {
-                "id": "2",
-                "english": "The flowers bespeak the arrival of spring",
-                "spanish": "Las flores anuncian la llegada de la primavera"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "And the Lord spake unto Moses, saying",
-                "spanish": "Y el Señor habló a Moisés, diciendo"
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "baseForm": "bestride",
-        "pastSimple": "bestrode",
-        "pastParticiple": "bestridden",
-        "imagen": "./img/irregularVerbs/bestride.jpeg",
-        "pronunciation": "bɪˈstraɪd",
-        "pronInSpanishBaseForm": "biˈstraid",
-        "pronInSpanishPastSimple": "biˈstroʊd",
-        "pronInSpanishPastParticiple": "biˈstrɪdən",
-        "translate": [
-            "caber a horcajadas",
-            "montar a horcajadas"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He bestrides the horse with confidence",
-                "spanish": "Cabalea el caballo con confianza"
-            },
-            {
-                "id": "2",
-                "english": "She bestrode the bicycle",
-                "spanish": "Ella montó a horcajadas la bicicleta"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "Thy shoes shall be iron and brass",
-                "spanish": "Tus zapatos serán de hierro y bronce"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "baseForm": "bet",
-        "pastSimple": "bet",
-        "pastParticiple": "bet",
-        "imagen": "./img/irregularVerbs/bet.jpeg",
-        "pronunciation": "bɛt",
-        "pronInSpanishBaseForm": "bet",
-        "pronInSpanishPastSimple": "bet",
-        "pronInSpanishPastParticiple": "bet",
-        "translate": [
-            "apostar",
-            "hacer una apuesta"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "I bet $10 on that horse",
-                "spanish": "Apuesto $10 a ese caballo"
-            },
-            {
-                "id": "2",
-                "english": "He has bet on the outcome",
-                "spanish": "Él ha apostado por el resultado"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "Woe unto them that are wise in their own eyes, and prudent in their own sight",
-                "spanish": "Ay de los que son sabios en sus propios ojos y prudentes delante de sí mismos"
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "baseForm": "bid",
-        "pastSimple": "bade/bid",
-        "pastParticiple": "bidden/bid",
-        "imagen": "./img/irregularVerbs/bid.jpeg",
-        "pronunciation": "bɪd",
-        "pronInSpanishBaseForm": "bid",
-        "pronInSpanishPastSimple": "bed/bid",
-        "pronInSpanishPastParticiple": "ˈbɪdən/bɪd",
-        "translate": [
-            "ofrecer",
-            "licitar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "He bid farewell to his friends",
-                "spanish": "Se despidió de sus amigos"
-            },
-            {
-                "id": "2",
-                "english": "They have bid for the painting",
-                "spanish": "Han hecho una oferta por la pintura"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "And I will give thee the treasures of darkness, and hidden riches of secret places",
-                "spanish": "Y te daré los tesoros de las tinieblas y las riquezas escondidas de los lugares secretos"
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "baseForm": "bind",
-        "pastSimple": "bound",
-        "pastParticiple": "bound",
-        "imagen": "./img/irregularVerbs/bind.jpeg",
-        "pronunciation": "baɪnd",
-        "pronInSpanishBaseForm": "baind",
-        "pronInSpanishPastSimple": "baʊnd",
-        "pronInSpanishPastParticiple": "baʊnd",
-        "translate": [
-            "atar",
-            "ligar"
-        ],
-        "examples": [
-            {
-                "id": "1",
-                "english": "She bound the books together",
-                "spanish": "Ella ató los libros juntos"
-            },
-            {
-                "id": "2",
-                "english": "The prisoner was bound in chains",
-                "spanish": "El prisionero estaba atado con cadenas"
-            }
-        ],
-        "biblicalExamples": [
-            {
-                "id": "1",
-                "english": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes",
-                "spanish": "Y los atarás por señal en tu mano, y serán como frontales entre tus ojos"
-            }
-        ]
-    },      
-      
-      
-    {
-        "id": 21,
-        "baseForm": "bite",
-        "pastSimple": "bit",
-        "pastParticiple": "bitten",
-        "imagen": "./img/irregularVerbs/bite.jpeg",
-        "pronunciation": "baɪt",
-        "pronInSpanishBaseForm": "báit",
-        "pronInSpanishPastSimple": "bit",
-        "pronInSpanishPastParticiple": "bítn",
-        "translate": ["morder", "picar"],
-        "examples": [
-          {"id": "1", "english": "The dog bit the mailman", "spanish": "El perro mordió al cartero"},
-          {"id": "2", "english": "The mosquito has bitten me", "spanish": "El mosquito me ha picado"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "But if you bite and devour one another, take heed that you be not consumed one of another", "spanish": "Pero si os mordéis y os devoráis unos a otros, mirad que también no os consumáis uno del otro"}
-        ]
+  {
+    "id": 1,
+    "baseForm": "abide",
+    "pastSimple": "abode",
+    "pastParticiple": "abode",
+    "imagen": "./img/irregularVerbs/abide.jpeg",
+    "pronunciation": "əˈbaɪd",
+    "pronInSpanishBaseForm": "abaid",
+    "pronInSpanishPastSimple": "abóud",
+    "pronInSpanishPastParticiple": "abóud",
+    "translate": [
+      "permanecer",
+      "soportar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I will abide by the decision",
+        "spanish": "Permaneceré fiel a la decisión"
       },
       {
-        "id": 22,
-        "baseForm": "bleed",
-        "pastSimple": "bled",
-        "pastParticiple": "bled",
-        "imagen": "./img/irregularVerbs/bleed.jpeg",
-        "pronunciation": "bliːd",
-        "pronInSpanishBaseForm": "blíd",
-        "pronInSpanishPastSimple": "bled",
-        "pronInSpanishPastParticiple": "bled",
-        "translate": ["sangrar"],
-        "examples": [
-          {"id": "1", "english": "The wound is bleeding", "spanish": "La herida está sangrando"},
-          {"id": "2", "english": "He bled profusely", "spanish": "Sangró profusamente"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And almost all things are by the law purged with blood; and without shedding of blood is no remission", "spanish": "Y casi todo es purificado, según la ley, con sangre; y sin derramamiento de sangre no hay remisión"}
-        ]
-      },
-      {
-        "id": 23,
-        "baseForm": "blow",
-        "pastSimple": "blew",
-        "pastParticiple": "blown",
-        "imagen": "./img/irregularVerbs/blow.jpeg",
-        "pronunciation": "bloʊ",
-        "pronInSpanishBaseForm": "blóu",
-        "pronInSpanishPastSimple": "blú",
-        "pronInSpanishPastParticiple": "blóun",
-        "translate": ["soplar"],
-        "examples": [
-          {"id": "1", "english": "The wind blows strongly", "spanish": "El viento sopla fuerte"},
-          {"id": "2", "english": "She blew the candles on her birthday cake", "spanish": "Ella sopló las velas de su pastel de cumpleaños"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life", "spanish": "Y el Señor Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida"}
-        ]
-      },
-      {
-        "id": 24,
-        "baseForm": "break",
-        "pastSimple": "broke",
-        "pastParticiple": "broken",
-        "imagen": "./img/irregularVerbs/break.jpeg",
-        "pronunciation": "breɪk",
-        "pronInSpanishBaseForm": "bréik",
-        "pronInSpanishPastSimple": "brouk",
-        "pronInSpanishPastParticiple": "bróukən",
-        "translate": ["romper"],
-        "examples": [
-          {"id": "1", "english": "He accidentally broke the vase", "spanish": "Él rompió accidentalmente el jarrón"},
-          {"id": "2", "english": "The news broke my heart", "spanish": "La noticia rompió mi corazón"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit", "spanish": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu"}
-        ]
-      },
-      {
-        "id": 25,
-        "baseForm": "breed",
-        "pastSimple": "bred",
-        "pastParticiple": "bred",
-        "imagen": "./img/irregularVerbs/breed.jpeg",
-        "pronunciation": "briːd",
-        "pronInSpanishBaseForm": "bríd",
-        "pronInSpanishPastSimple": "bred",
-        "pronInSpanishPastParticiple": "bred",
-        "translate": ["criar", "procrear"],
-        "examples": [
-          {"id": "1", "english": "They breed rabbits for sale", "spanish": "Crían conejos para la venta"},
-          {"id": "2", "english": "The species is bred in captivity", "spanish": "La especie se cría en cautiverio"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth", "spanish": "Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad las aguas en los mares, y multiplíquense las aves en la tierra"}
-        ]
-      },
-      {
-        "id": 26,
-        "baseForm": "bring",
-        "pastSimple": "brought",
-        "pastParticiple": "brought",
-        "imagen": "./img/irregularVerbs/bring.jpeg",
-        "pronunciation": "brɪŋ",
-        "pronInSpanishBaseForm": "brɪŋ",
-        "pronInSpanishPastSimple": "brɔt",
-        "pronInSpanishPastParticiple": "brɔt",
-        "translate": ["traer"],
-        "examples": [
-          {"id": "1", "english": "Can you bring the drinks to the table?", "spanish": "¿Puedes traer las bebidas a la mesa?"},
-          {"id": "2", "english": "He brought flowers for his mother", "spanish": "Él trajo flores para su madre"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it", "spanish": "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde"}
-        ]
-      },
-      {
-        "id": 27,
-        "baseForm": "broadcast",
-        "pastSimple": "broadcast",
-        "pastParticiple": "broadcast",
-        "imagen": "./img/irregularVerbs/broadcast.jpeg",
-        "pronunciation": "ˈbrɑːdˌkæst",
-        "pronInSpanishBaseForm": "bród-kast",
-        "pronInSpanishPastSimple": "bród-kast",
-        "pronInSpanishPastParticiple": "bród-kast",
-        "translate": ["transmitir", "emitir"],
-        "examples": [
-          {"id": "1", "english": "The radio station broadcasts news every hour", "spanish": "La estación de radio transmite noticias cada hora"},
-          {"id": "2", "english": "They broadcast the live concert", "spanish": "Transmitieron en vivo el concierto"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Go ye into all the world, and preach the gospel to every creature", "spanish": "Id por todo el mundo y predicad el evangelio a toda criatura"}
-        ]
-      },
-      {
-        "id": 28,
-        "baseForm": "build",
-        "pastSimple": "built",
-        "pastParticiple": "built",
-        "imagen": "./img/irregularVerbs/build.jpeg",
-        "pronunciation": "bɪld",
-        "pronInSpanishBaseForm": "bild",
-        "pronInSpanishPastSimple": "bilt",
-        "pronInSpanishPastParticiple": "bilt",
-        "translate": ["construir"],
-        "examples": [
-          {"id": "1", "english": "They are planning to build a new house", "spanish": "Están planeando construir una casa nueva"},
-          {"id": "2", "english": "The ancient Egyptians built the pyramids", "spanish": "Los antiguos egipcios construyeron las pirámides"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock", "spanish": "Así que, cualquiera que oyere estas palabras mías y las hiciere, le compararé a un hombre prudente, que edificó su casa sobre la roca"}
-        ]
-      },
-      {
-        "id": 29,
-        "baseForm": "burn",
-        "pastSimple": "burned/burnt",
-        "pastParticiple": "burned/burnt",
-        "imagen": "./img/irregularVerbs/burn.jpeg",
-        "pronunciation": "bɜːrn",
-        "pronInSpanishBaseForm": "bern",
-        "pronInSpanishPastSimple": "bern/bərnt",
-        "pronInSpanishPastParticiple": "bern/bərnt",
-        "translate": ["quemar", "arder"],
-        "examples": [
-          {"id": "1", "english": "The fire burned the entire forest", "spanish": "El fuego quemó todo el bosque"},
-          {"id": "2", "english": "She burned the letter in anger", "spanish": "Quemó la carta enojada"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush", "spanish": "Y se le apareció el ángel de Jehová en una llama de fuego en medio de una zarza"}
-        ]
-      },
-      {
-        "id": 30,
-        "baseForm": "burst",
-        "pastSimple": "burst",
-        "pastParticiple": "burst",
-        "imagen": "./img/irregularVerbs/burst.jpeg",
-        "pronunciation": "bɜːrst",
-        "pronInSpanishBaseForm": "bɜːrst",
-        "pronInSpanishPastSimple": "bɜːrst",
-        "pronInSpanishPastParticiple": "bɜːrst",
-        "translate": ["estallar", "reventar"],
-        "examples": [
-          {"id": "1", "english": "The balloon burst with a loud sound", "spanish": "El globo estalló con un sonido fuerte"},
-          {"id": "2", "english": "Her heart felt like it would burst with joy", "spanish": "Su corazón sentía que iba a estallar de alegría"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And it came to pass, when he came nigh to the camp, that he saw the calf, and the dancing", "spanish": "Y aconteció que cuando él llegó cerca del campamento, vio el becerro y las danzas"}
-        ]
-      },
-      {
-        "id": 31,
-        "baseForm": "buy",
-        "pastSimple": "bought",
-        "pastParticiple": "bought",
-        "imagen": "./img/irregularVerbs/buy.jpeg",
-        "pronunciation": "baɪ",
-        "pronInSpanishBaseForm": "bái",
-        "pronInSpanishPastSimple": "bot",
-        "pronInSpanishPastParticiple": "bot",
-        "translate": ["comprar"],
-        "examples": [
-          {"id": "1", "english": "She bought a new dress for the party", "spanish": "Ella compró un vestido nuevo para la fiesta"},
-          {"id": "2", "english": "I have bought a present for you", "spanish": "He comprado un regalo para ti"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding", "spanish": "Compra la verdad y no la vendas; también la sabiduría, la enseñanza y la inteligencia"}
-        ]
-      },
-      {
-        "id": 32,
-        "baseForm": "can",
-        "pastSimple": "could",
-        "pastParticiple": "could",
-        "imagen": "./img/irregularVerbs/can.jpeg",
-        "pronunciation": "kæn",
-        "pronInSpanishBaseForm": "kan",
-        "pronInSpanishPastSimple": "kʊd",
-        "pronInSpanishPastParticiple": "kʊd",
-        "translate": ["poder"],
-        "examples": [
-          {"id": "1", "english": "She can speak three languages", "spanish": "Ella puede hablar tres idiomas"},
-          {"id": "2", "english": "I could swim when I was a child", "spanish": "Yo podía nadar cuando era niño"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "I can do all things through Christ who strengthens me", "spanish": "Todo lo puedo en Cristo que me fortalece"}
-        ]
-      },
-      {
-        "id": 33,
-        "baseForm": "cast",
-        "pastSimple": "cast",
-        "pastParticiple": "cast",
-        "imagen": "./img/irregularVerbs/cast.jpeg",
-        "pronunciation": "kæst",
-        "pronInSpanishBaseForm": "kæst",
-        "pronInSpanishPastSimple": "kæst",
-        "pronInSpanishPastParticiple": "kæst",
-        "translate": ["lanzar", "echar"],
-        "examples": [
-          {"id": "1", "english": "He cast the fishing line into the water", "spanish": "Él lanzó la línea de pesca al agua"},
-          {"id": "2", "english": "They cast their votes in the election", "spanish": "Ellos emitieron sus votos en las elecciones"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Cast thy burden upon the Lord, and he shall sustain thee", "spanish": "Echa tu carga sobre el Señor, y él te sustentará"}
-        ]
-      },
-      {
-        "id": 34,
-        "baseForm": "catch",
-        "pastSimple": "caught",
-        "pastParticiple": "caught",
-        "imagen": "./img/irregularVerbs/catch.jpeg",
-        "pronunciation": "kætʃ",
-        "pronInSpanishBaseForm": "kætʃ",
-        "pronInSpanishPastSimple": "kɔt",
-        "pronInSpanishPastParticiple": "kɔt",
-        "translate": ["atrapar", "coger"],
-        "examples": [
-          {"id": "1", "english": "She caught the ball with one hand", "spanish": "Ella atrapó la pelota con una mano"},
-          {"id": "2", "english": "I caught a cold last week", "spanish": "Me resfrié la semana pasada"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And Jesus said unto them, Follow me, and I will make you fishers of men", "spanish": "Y Jesús les dijo: Venid en pos de mí, y os haré pescadores de hombres"}
-        ]
-      },
-      {
-        "id": 35,
-        "baseForm": "choose",
-        "pastSimple": "chose",
-        "pastParticiple": "chosen",
-        "imagen": "./img/irregularVerbs/choose.jpeg",
-        "pronunciation": "tʃuːz",
-        "pronInSpanishBaseForm": "chúz",
-        "pronInSpanishPastSimple": "chóuz",
-        "pronInSpanishPastParticiple": "chóuzən",
-        "translate": ["elegir"],
-        "examples": [
-          {"id": "1", "english": "You can choose between these options", "spanish": "Puedes elegir entre estas opciones"},
-          {"id": "2", "english": "She chose the blue dress for the party", "spanish": "Ella eligió el vestido azul para la fiesta"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people", "spanish": "Pero vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios"}
-        ]
-      },
-      {
-        "id": 36,
-        "baseForm": "cling",
-        "pastSimple": "clung",
-        "pastParticiple": "clung",
-        "imagen": "./img/irregularVerbs/cling.jpeg",
-        "pronunciation": "klɪŋ",
-        "pronInSpanishBaseForm": "kling",
-        "pronInSpanishPastSimple": "klʌŋ",
-        "pronInSpanishPastParticiple": "klʌŋ",
-        "translate": ["aferrarse", "adherirse"],
-        "examples": [
-          {"id": "1", "english": "The wet shirt clung to her body", "spanish": "La camisa mojada se aferraba a su cuerpo"},
-          {"id": "2", "english": "The child clung to his mother during the storm", "spanish": "El niño se aferró a su madre durante la tormenta"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "But cleave unto the Lord your God, as ye have done unto this day", "spanish": "Pero seguían a Jehová vuestro Dios, como lo habían hecho hasta hoy"}
-        ]
-      },
-      {
-        "id": 37,
-        "baseForm": "come",
-        "pastSimple": "came",
-        "pastParticiple": "come",
-        "imagen": "./img/irregularVerbs/come.jpeg",
-        "pronunciation": "kʌm",
-        "pronInSpanishBaseForm": "kam",
-        "pronInSpanishPastSimple": "keim",
-        "pronInSpanishPastParticiple": "kam",
-        "translate": ["venir", "llegar"],
-        "examples": [
-          {"id": "1", "english": "I come from a small town", "spanish": "Vengo de un pueblo pequeño"},
-          {"id": "2", "english": "They came to visit us last summer", "spanish": "Vinieron a visitarnos el verano pasado"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Come unto me, all ye that labour and are heavy laden, and I will give you rest", "spanish": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar"}
-        ]
-      },
-      {
-        "id": 38,
-        "baseForm": "cost",
-        "pastSimple": "cost",
-        "pastParticiple": "cost",
-        "imagen": "./img/irregularVerbs/cost.jpeg",
-        "pronunciation": "kɒst",
-        "pronInSpanishBaseForm": "kost",
-        "pronInSpanishPastSimple": "kost",
-        "pronInSpanishPastParticiple": "kost",
-        "translate": ["costar"],
-        "examples": [
-          {"id": "1", "english": "The dress cost a lot of money", "spanish": "El vestido costó mucho dinero"},
-          {"id": "2", "english": "The repairs to the car will cost more than expected", "spanish": "Las reparaciones del coche costarán más de lo esperado"}
-        ],
-        "biblicalExamples": []
-      },
-      {
-        "id": 39,
-        "baseForm": "creep",
-        "pastSimple": "crept",
-        "pastParticiple": "crept",
-        "imagen": "./img/irregularVerbs/creep.jpeg",
-        "pronunciation": "kriːp",
-        "pronInSpanishBaseForm": "krip",
-        "pronInSpanishPastSimple": "krept",
-        "pronInSpanishPastParticiple": "krept",
-        "translate": ["arrastrarse", "deslizarse"],
-        "examples": [
-          {"id": "1", "english": "The cat crept silently through the grass", "spanish": "El gato se arrastró silenciosamente por la hierba"},
-          {"id": "2", "english": "A feeling of unease crept over him", "spanish": "Un sentimiento de incomodidad se deslizó sobre él"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And the Lord said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man", "spanish": "Y Jehová le dijo: Ciertamente yo estaré contigo, y derrotarás a Madián como si fuera un solo hombre"}
-        ]
-      },
-      {
-        "id": 40,
-        "baseForm": "cut",
-        "pastSimple": "cut",
-        "pastParticiple": "cut",
-        "imagen": "./img/irregularVerbs/cut.jpeg",
-        "pronunciation": "kʌt",
-        "pronInSpanishBaseForm": "kat",
-        "pronInSpanishPastSimple": "kat",
-        "pronInSpanishPastParticiple": "kat",
-        "translate": ["cortar"],
-        "examples": [
-          {"id": "1", "english": "She cut the paper with scissors", "spanish": "Ella cortó el papel con tijeras"},
-          {"id": "2", "english": "He cut his finger while chopping vegetables", "spanish": "Se cortó el dedo mientras cortaba verduras"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword", "spanish": "Entonces Jesús le dijo: Vuelve tu espada a su lugar, porque todos los que tomen la espada, a espada perecerán"}
-        ]
-      },
-      {
-        "id": 41,
-        "baseForm": "deal",
-        "pastSimple": "dealt",
-        "pastParticiple": "dealt",
-        "imagen": "./img/irregularVerbs/deal.jpeg",
-        "pronunciation": "diːl",
-        "pronInSpanishBaseForm": "dil",
-        "pronInSpanishPastSimple": "delt",
-        "pronInSpanishPastParticiple": "delt",
-        "translate": ["tratar", "negociar"],
-        "examples": [
-          {"id": "1", "english": "She dealt the cards for the game", "spanish": "Ella repartió las cartas para el juego"},
-          {"id": "2", "english": "The company dealt with customer complaints promptly", "spanish": "La empresa trató las quejas de los clientes rápidamente"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful", "spanish": "Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado"}
-        ]
-      },
-      {
-        "id": 42,
-        "baseForm": "dig",
-        "pastSimple": "dug",
-        "pastParticiple": "dug",
-        "imagen": "./img/irregularVerbs/dig.jpeg",
-        "pronunciation": "dɪɡ",
-        "pronInSpanishBaseForm": "díg",
-        "pronInSpanishPastSimple": "dəɡ",
-        "pronInSpanishPastParticiple": "dəɡ",
-        "translate": ["cavar", "excavar"],
-        "examples": [
-          {"id": "1", "english": "He dug a hole in the garden", "spanish": "Él cavó un agujero en el jardín"},
-          {"id": "2", "english": "The dog dug up a bone in the backyard", "spanish": "El perro desenterró un hueso en el patio trasero"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And Abraham digged again the wells of water, which they had digged in the days of Abraham his father", "spanish": "Y Abraham volvió a abrir los pozos de agua que habían cavado en los días de Abraham, su padre"}
-        ]
-      },
-      {
-        "id": 43,
-        "baseForm": "do",
-        "pastSimple": "did",
-        "pastParticiple": "done",
-        "imagen": "./img/irregularVerbs/do.jpeg",
-        "pronunciation": "duː",
-        "pronInSpanishBaseForm": "du",
-        "pronInSpanishPastSimple": "did",
-        "pronInSpanishPastParticiple": "dan",
-        "translate": ["hacer"],
-        "examples": [
-          {"id": "1", "english": "She did her homework in the afternoon", "spanish": "Ella hizo su tarea por la tarde"},
-          {"id": "2", "english": "What have you done to help the community?", "spanish": "¿Qué has hecho para ayudar a la comunidad?"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "I have glorified thee on the earth: I have finished the work which thou gavest me to do", "spanish": "Yo te he glorificado en la tierra; he acabado la obra que me diste que hiciese"}
-        ]
-      },
-      {
-        "id": 44,
-        "baseForm": "draw",
-        "pastSimple": "drew",
-        "pastParticiple": "drawn",
-        "imagen": "./img/irregularVerbs/draw.jpeg",
-        "pronunciation": "drɔː",
-        "pronInSpanishBaseForm": "dró",
-        "pronInSpanishPastSimple": "druː",
-        "pronInSpanishPastParticiple": "drɔːn",
-        "translate": ["dibujar", "extraer"],
-        "examples": [
-          {"id": "1", "english": "She drew a beautiful landscape", "spanish": "Ella dibujó un hermoso paisaje"},
-          {"id": "2", "english": "The magician drew a rabbit out of his hat", "spanish": "El mago sacó un conejo de su sombrero"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And I, if I be lifted up from the earth, will draw all men unto me", "spanish": "Y yo, si fuere levantado de la tierra, atraeré a todos hacia mí"}
-        ]
-      },
-      {
-        "id": 45,
-        "baseForm": "dream",
-        "pastSimple": "dreamed/dreamt",
-        "pastParticiple": "dreamed/dreamt",
-        "imagen": "./img/irregularVerbs/dream.jpeg",
-        "pronunciation": "driːm",
-        "pronInSpanishBaseForm": "drim",
-        "pronInSpanishPastSimple": "drimt",
-        "pronInSpanishPastParticiple": "drimt",
-        "translate": ["soñar"],
-        "examples": [
-          {"id": "1", "english": "Last night, I dreamed about flying", "spanish": "Anoche soñé con volar"},
-          {"id": "2", "english": "She often dreamt of becoming a famous artist", "spanish": "A menudo soñaba con ser una artista famosa"}
-        ],
-        "biblicalExamples": [
-          {"id": "1", "english": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions", "spanish": "Y en los postreros días derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones"}
-        ]
+        "id": "2",
+        "english": "He cannot abide injustice",
+        "spanish": "Él no puede soportar la injusticia"
       }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "3",
+        "english": "Abide in me, and I in you",
+        "spanish": "Permaneced en mí, y yo en vosotros (Juan 15:4)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "baseForm": "arise",
+    "pastSimple": "arose",
+    "pastParticiple": "arisen",
+    "imagen": "./img/irregularVerbs/arise.jpeg",
+    "pronunciation": "əˈraɪz",
+    "pronInSpanishBaseForm": "arais",
+    "pronInSpanishPastSimple": "arós",
+    "pronInSpanishPastParticiple": "árisen",
+    "translate": [
+      "surgir",
+      "levantarse",
+      "aparecer",
+      "erguirse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Conflicts may arise",
+        "spanish": "Los conflictos pueden surgir"
+      },
+      {
+        "id": "2",
+        "english": "The sun arose in the east",
+        "spanish": "El sol se levantó en el este"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "3",
+        "english": "Arise, shine, for your light has come",
+        "spanish": "Levántate, resplandece, porque ha venido tu luz (Isaías 60:1)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "baseForm": "awake",
+    "pastSimple": "awoke",
+    "pastParticiple": "awoken",
+    "imagen": "./img/irregularVerbs/awake.jpeg",
+    "pronunciation": "əˈweɪk",
+    "pronInSpanishBaseForm": "awéik",
+    "pronInSpanishPastSimple": "awóuk",
+    "pronInSpanishPastParticiple": "awóukən",
+    "translate": [
+      "despertar",
+      "despertarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She awoke with a start",
+        "spanish": "Ella despertó de repente"
+      },
+      {
+        "id": "2",
+        "english": "He has awoken from a deep sleep",
+        "spanish": "Él ha despertado de un sueño profundo"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 4,
+    "baseForm": "be",
+    "pastSimple": "was/were",
+    "pastParticiple": "been",
+    "imagen": "./img/irregularVerbs/be.jpeg",
+    "pronunciation": "biː",
+    "pronInSpanishBaseForm": "bi",
+    "pronInSpanishPastSimple": "uóz/wər",
+    "pronInSpanishPastParticiple": "bin",
+    "translate": [
+      "ser",
+      "estar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She is a teacher",
+        "spanish": "Ella es profesora"
+      },
+      {
+        "id": "2",
+        "english": "We have been to Paris",
+        "spanish": "Hemos estado en París"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 5,
+    "baseForm": "bear",
+    "pastSimple": "bore",
+    "pastParticiple": "born",
+    "imagen": "./img/irregularVerbs/bear.jpeg",
+    "pronunciation": "ber",
+    "pronInSpanishBaseForm": "bér",
+    "pronInSpanishPastSimple": "bor",
+    "pronInSpanishPastParticiple": "born",
+    "translate": [
+      "soportar",
+      "llevar",
+      "dar a luz"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She can't bear the pain",
+        "spanish": "No puede soportar el dolor"
+      },
+      {
+        "id": "2",
+        "english": "The tree has borne fruit",
+        "spanish": "El árbol ha dado fruto"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 6,
+    "baseForm": "beat",
+    "pastSimple": "beat",
+    "pastParticiple": "beaten",
+    "imagen": "./img/irregularVerbs/beat.jpeg",
+    "pronunciation": "biːt",
+    "pronInSpanishBaseForm": "bit",
+    "pronInSpanishPastSimple": "bit",
+    "pronInSpanishPastParticiple": "bítn",
+    "translate": [
+      "golpear",
+      "vencer",
+      "latir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He beat the drum",
+        "spanish": "Él golpeó el tambor"
+      },
+      {
+        "id": "2",
+        "english": "They have beaten their rivals",
+        "spanish": "Han vencido a sus rivales"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 7,
+    "baseForm": "become",
+    "pastSimple": "became",
+    "pastParticiple": "become",
+    "imagen": "./img/irregularVerbs/become.jpeg",
+    "pronunciation": "bɪˈkʌm",
+    "pronInSpanishBaseForm": "bikám",
+    "pronInSpanishPastSimple": "bikéim",
+    "pronInSpanishPastParticiple": "bikám",
+    "translate": [
+      "convertirse en",
+      "volverse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He will become a doctor",
+        "spanish": "Él se convertirá en doctor"
+      },
+      {
+        "id": "2",
+        "english": "She became very famous",
+        "spanish": "Ella se volvió muy famosa"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 8,
+    "baseForm": "befall",
+    "pastSimple": "befell",
+    "pastParticiple": "befallen",
+    "imagen": "./img/irregularVerbs/befall.jpeg",
+    "pronunciation": "bɪˈfɔːl",
+    "pronInSpanishBaseForm": "bifól",
+    "pronInSpanishPastSimple": "bifél",
+    "pronInSpanishPastParticiple": "bifólen",
+    "translate": [
+      "acontecer",
+      "suceder"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Misfortunes befell him",
+        "spanish": "Desgracias le acontecieron"
+      },
+      {
+        "id": "2",
+        "english": "What will befall us next?",
+        "spanish": "¿Qué nos sucederá a continuación?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 9,
+    "baseForm": "beget",
+    "pastSimple": "begot",
+    "pastParticiple": "begotten",
+    "imagen": "./img/irregularVerbs/beget.jpeg",
+    "pronunciation": "bɪˈɡet",
+    "pronInSpanishBaseForm": "bigét",
+    "pronInSpanishPastSimple": "bɪˈɡɒt",
+    "pronInSpanishPastParticiple": "bɪˈɡɒtn̩",
+    "translate": [
+      "engendrar",
+      "procrear"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He begot three children",
+        "spanish": "Engendró tres hijos"
+      },
+      {
+        "id": "2",
+        "english": "A new era is begotten",
+        "spanish": "Una nueva era está engendrada"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 10,
+    "baseForm": "begin",
+    "pastSimple": "began",
+    "pastParticiple": "begun",
+    "imagen": "./img/irregularVerbs/begin.jpeg",
+    "pronunciation": "bɪˈɡɪn",
+    "pronInSpanishBaseForm": "bɪˈɡɪn",
+    "pronInSpanishPastSimple": "bɪˈɡæn",
+    "pronInSpanishPastParticiple": "bɪˈɡʌn",
+    "translate": [
+      "empezar",
+      "iniciar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They will begin the project soon",
+        "spanish": "Empezarán el proyecto pronto"
+      },
+      {
+        "id": "2",
+        "english": "The concert has begun",
+        "spanish": "El concierto ha comenzado"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 11,
+    "baseForm": "behold",
+    "pastSimple": "beheld",
+    "pastParticiple": "beheld",
+    "imagen": "./img/irregularVerbs/behold.jpeg",
+    "pronunciation": "bɪˈhoʊld",
+    "pronInSpanishBaseForm": "biˈold",
+    "pronInSpanishPastSimple": "biˈheld",
+    "pronInSpanishPastParticiple": "biˈheld",
+    "translate": [
+      "contemplar",
+      "observar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Behold the beauty of nature",
+        "spanish": "Contempla la belleza de la naturaleza"
+      },
+      {
+        "id": "2",
+        "english": "He beheld a magnificent sunset",
+        "spanish": "Él observó una puesta de sol magnífica"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And I beheld, and, lo, in the midst of the throne",
+        "spanish": "Y miré, y he aquí, en medio del trono"
+      },
+      {
+        "id": "2",
+        "english": "And I beheld, and, lo, a Lamb stood on the mount Sion",
+        "spanish": "Y miré, y he aquí, un Cordero que estaba en el monte Sion"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "baseForm": "bend",
+    "pastSimple": "bent",
+    "pastParticiple": "bent",
+    "imagen": "./img/irregularVerbs/bend.jpeg",
+    "pronunciation": "bɛnd",
+    "pronInSpanishBaseForm": "bɛnd",
+    "pronInSpanishPastSimple": "bɛnt",
+    "pronInSpanishPastParticiple": "bɛnt",
+    "translate": [
+      "doblar",
+      "inclinarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She bent the paper",
+        "spanish": "Ella dobló el papel"
+      },
+      {
+        "id": "2",
+        "english": "The tree bent in the wind",
+        "spanish": "El árbol se inclinó con el viento"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And I will make all my mountains a way, and my highways shall be exalted",
+        "spanish": "Y enderezaré todos mis montes como camino, y mis calzadas serán enaltecidas"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "baseForm": "bereave",
+    "pastSimple": "bereft",
+    "pastParticiple": "bereft",
+    "imagen": "./img/irregularVerbs/bereave.jpeg",
+    "pronunciation": "bɪˈriːv",
+    "pronInSpanishBaseForm": "biˈriːv",
+    "pronInSpanishPastSimple": "biˈreft",
+    "pronInSpanishPastParticiple": "biˈreft",
+    "translate": [
+      "desposeer",
+      "privar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The war bereaved him of his family",
+        "spanish": "La guerra lo desposeyó de su familia"
+      },
+      {
+        "id": "2",
+        "english": "They were bereft of hope",
+        "spanish": "Estaban privados de esperanza"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "The Lord gave, and the Lord hath taken away; blessed be the name of the Lord",
+        "spanish": "El Señor dio, y el Señor ha quitado; bendito sea el nombre del Señor"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "baseForm": "beseech",
+    "pastSimple": "besought",
+    "pastParticiple": "besought",
+    "imagen": "./img/irregularVerbs/beseech.jpeg",
+    "pronunciation": "bɪˈsiːtʃ",
+    "pronInSpanishBaseForm": "biˈsich",
+    "pronInSpanishPastSimple": "biˈsɔt",
+    "pronInSpanishPastParticiple": "biˈsɔt",
+    "translate": [
+      "suplicar",
+      "implorar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I beseech you to forgive me",
+        "spanish": "Te suplico que me perdones"
+      },
+      {
+        "id": "2",
+        "english": "They besought mercy",
+        "spanish": "Imploraron misericordia"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Now therefore forgive, I pray thee, my sin only this once",
+        "spanish": "Ahora, pues, te ruego que perdones mi pecado sólo esta vez"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "baseForm": "beset",
+    "pastSimple": "beset",
+    "pastParticiple": "beset",
+    "imagen": "./img/irregularVerbs/beset.jpeg",
+    "pronunciation": "bɪˈsɛt",
+    "pronInSpanishBaseForm": "biˈset",
+    "pronInSpanishPastSimple": "biˈset",
+    "pronInSpanishPastParticiple": "biˈset",
+    "translate": [
+      "asediar",
+      "acosar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The city was beset by enemies",
+        "spanish": "La ciudad estaba asediada por enemigos"
+      },
+      {
+        "id": "2",
+        "english": "She was beset with difficulties",
+        "spanish": "Estaba acosada por dificultades"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "They compassed me about like bees; they are quenched as the fire of thorns",
+        "spanish": "Me rodearon como abejas; fueron apagados como fuego de espinos"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "baseForm": "bespeak",
+    "pastSimple": "bespoke",
+    "pastParticiple": "bespoken",
+    "imagen": "./img/irregularVerbs/bespeak.jpeg",
+    "pronunciation": "bɪˈspiːk",
+    "pronInSpanishBaseForm": "biˈspik",
+    "pronInSpanishPastSimple": "biˈspoʊk",
+    "pronInSpanishPastParticiple": "biˈspoʊkən",
+    "translate": [
+      "encargar",
+      "anunciar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He bespoke a suit for the wedding",
+        "spanish": "Él encargó un traje para la boda"
+      },
+      {
+        "id": "2",
+        "english": "The flowers bespeak the arrival of spring",
+        "spanish": "Las flores anuncian la llegada de la primavera"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And the Lord spake unto Moses, saying",
+        "spanish": "Y el Señor habló a Moisés, diciendo"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "baseForm": "bestride",
+    "pastSimple": "bestrode",
+    "pastParticiple": "bestridden",
+    "imagen": "./img/irregularVerbs/bestride.jpeg",
+    "pronunciation": "bɪˈstraɪd",
+    "pronInSpanishBaseForm": "biˈstraid",
+    "pronInSpanishPastSimple": "biˈstroʊd",
+    "pronInSpanishPastParticiple": "biˈstrɪdən",
+    "translate": [
+      "caber a horcajadas",
+      "montar a horcajadas"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He bestrides the horse with confidence",
+        "spanish": "Cabalea el caballo con confianza"
+      },
+      {
+        "id": "2",
+        "english": "She bestrode the bicycle",
+        "spanish": "Ella montó a horcajadas la bicicleta"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Thy shoes shall be iron and brass",
+        "spanish": "Tus zapatos serán de hierro y bronce"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "baseForm": "bet",
+    "pastSimple": "bet",
+    "pastParticiple": "bet",
+    "imagen": "./img/irregularVerbs/bet.jpeg",
+    "pronunciation": "bɛt",
+    "pronInSpanishBaseForm": "bet",
+    "pronInSpanishPastSimple": "bet",
+    "pronInSpanishPastParticiple": "bet",
+    "translate": [
+      "apostar",
+      "hacer una apuesta"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I bet $10 on that horse",
+        "spanish": "Apuesto $10 a ese caballo"
+      },
+      {
+        "id": "2",
+        "english": "He has bet on the outcome",
+        "spanish": "Él ha apostado por el resultado"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Woe unto them that are wise in their own eyes, and prudent in their own sight",
+        "spanish": "Ay de los que son sabios en sus propios ojos y prudentes delante de sí mismos"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "baseForm": "bid",
+    "pastSimple": "bade/bid",
+    "pastParticiple": "bidden/bid",
+    "imagen": "./img/irregularVerbs/bid.jpeg",
+    "pronunciation": "bɪd",
+    "pronInSpanishBaseForm": "bid",
+    "pronInSpanishPastSimple": "bed/bid",
+    "pronInSpanishPastParticiple": "ˈbɪdən/bɪd",
+    "translate": [
+      "ofrecer",
+      "licitar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He bid farewell to his friends",
+        "spanish": "Se despidió de sus amigos"
+      },
+      {
+        "id": "2",
+        "english": "They have bid for the painting",
+        "spanish": "Han hecho una oferta por la pintura"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And I will give thee the treasures of darkness, and hidden riches of secret places",
+        "spanish": "Y te daré los tesoros de las tinieblas y las riquezas escondidas de los lugares secretos"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "baseForm": "bind",
+    "pastSimple": "bound",
+    "pastParticiple": "bound",
+    "imagen": "./img/irregularVerbs/bind.jpeg",
+    "pronunciation": "baɪnd",
+    "pronInSpanishBaseForm": "baind",
+    "pronInSpanishPastSimple": "baʊnd",
+    "pronInSpanishPastParticiple": "baʊnd",
+    "translate": [
+      "atar",
+      "ligar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She bound the books together",
+        "spanish": "Ella ató los libros juntos"
+      },
+      {
+        "id": "2",
+        "english": "The prisoner was bound in chains",
+        "spanish": "El prisionero estaba atado con cadenas"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes",
+        "spanish": "Y los atarás por señal en tu mano, y serán como frontales entre tus ojos"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "baseForm": "bite",
+    "pastSimple": "bit",
+    "pastParticiple": "bitten",
+    "imagen": "./img/irregularVerbs/bite.jpeg",
+    "pronunciation": "baɪt",
+    "pronInSpanishBaseForm": "báit",
+    "pronInSpanishPastSimple": "bit",
+    "pronInSpanishPastParticiple": "bítn",
+    "translate": [
+      "morder",
+      "picar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The dog bit the mailman",
+        "spanish": "El perro mordió al cartero"
+      },
+      {
+        "id": "2",
+        "english": "The mosquito has bitten me",
+        "spanish": "El mosquito me ha picado"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "But if you bite and devour one another, take heed that you be not consumed one of another",
+        "spanish": "Pero si os mordéis y os devoráis unos a otros, mirad que también no os consumáis uno del otro"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "baseForm": "bleed",
+    "pastSimple": "bled",
+    "pastParticiple": "bled",
+    "imagen": "./img/irregularVerbs/bleed.jpeg",
+    "pronunciation": "bliːd",
+    "pronInSpanishBaseForm": "blíd",
+    "pronInSpanishPastSimple": "bled",
+    "pronInSpanishPastParticiple": "bled",
+    "translate": [
+      "sangrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The wound is bleeding",
+        "spanish": "La herida está sangrando"
+      },
+      {
+        "id": "2",
+        "english": "He bled profusely",
+        "spanish": "Sangró profusamente"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And almost all things are by the law purged with blood; and without shedding of blood is no remission",
+        "spanish": "Y casi todo es purificado, según la ley, con sangre; y sin derramamiento de sangre no hay remisión"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "baseForm": "blow",
+    "pastSimple": "blew",
+    "pastParticiple": "blown",
+    "imagen": "./img/irregularVerbs/blow.jpeg",
+    "pronunciation": "bloʊ",
+    "pronInSpanishBaseForm": "blóu",
+    "pronInSpanishPastSimple": "blú",
+    "pronInSpanishPastParticiple": "blóun",
+    "translate": [
+      "soplar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The wind blows strongly",
+        "spanish": "El viento sopla fuerte"
+      },
+      {
+        "id": "2",
+        "english": "She blew the candles on her birthday cake",
+        "spanish": "Ella sopló las velas de su pastel de cumpleaños"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life",
+        "spanish": "Y el Señor Dios formó al hombre del polvo de la tierra, y sopló en su nariz el aliento de vida"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "baseForm": "break",
+    "pastSimple": "broke",
+    "pastParticiple": "broken",
+    "imagen": "./img/irregularVerbs/break.jpeg",
+    "pronunciation": "breɪk",
+    "pronInSpanishBaseForm": "bréik",
+    "pronInSpanishPastSimple": "brouk",
+    "pronInSpanishPastParticiple": "bróukən",
+    "translate": [
+      "romper"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He accidentally broke the vase",
+        "spanish": "Él rompió accidentalmente el jarrón"
+      },
+      {
+        "id": "2",
+        "english": "The news broke my heart",
+        "spanish": "La noticia rompió mi corazón"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit",
+        "spanish": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "baseForm": "breed",
+    "pastSimple": "bred",
+    "pastParticiple": "bred",
+    "imagen": "./img/irregularVerbs/breed.jpeg",
+    "pronunciation": "briːd",
+    "pronInSpanishBaseForm": "bríd",
+    "pronInSpanishPastSimple": "bred",
+    "pronInSpanishPastParticiple": "bred",
+    "translate": [
+      "criar",
+      "procrear"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They breed rabbits for sale",
+        "spanish": "Crían conejos para la venta"
+      },
+      {
+        "id": "2",
+        "english": "The species is bred in captivity",
+        "spanish": "La especie se cría en cautiverio"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth",
+        "spanish": "Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad las aguas en los mares, y multiplíquense las aves en la tierra"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "baseForm": "bring",
+    "pastSimple": "brought",
+    "pastParticiple": "brought",
+    "imagen": "./img/irregularVerbs/bring.jpeg",
+    "pronunciation": "brɪŋ",
+    "pronInSpanishBaseForm": "brɪŋ",
+    "pronInSpanishPastSimple": "brɔt",
+    "pronInSpanishPastParticiple": "brɔt",
+    "translate": [
+      "traer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Can you bring the drinks to the table?",
+        "spanish": "¿Puedes traer las bebidas a la mesa?"
+      },
+      {
+        "id": "2",
+        "english": "He brought flowers for his mother",
+        "spanish": "Él trajo flores para su madre"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it",
+        "spanish": "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "baseForm": "broadcast",
+    "pastSimple": "broadcast",
+    "pastParticiple": "broadcast",
+    "imagen": "./img/irregularVerbs/broadcast.jpeg",
+    "pronunciation": "ˈbrɑːdˌkæst",
+    "pronInSpanishBaseForm": "bród-kast",
+    "pronInSpanishPastSimple": "bród-kast",
+    "pronInSpanishPastParticiple": "bród-kast",
+    "translate": [
+      "transmitir",
+      "emitir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The radio station broadcasts news every hour",
+        "spanish": "La estación de radio transmite noticias cada hora"
+      },
+      {
+        "id": "2",
+        "english": "They broadcast the live concert",
+        "spanish": "Transmitieron en vivo el concierto"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Go ye into all the world, and preach the gospel to every creature",
+        "spanish": "Id por todo el mundo y predicad el evangelio a toda criatura"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "baseForm": "build",
+    "pastSimple": "built",
+    "pastParticiple": "built",
+    "imagen": "./img/irregularVerbs/build.jpeg",
+    "pronunciation": "bɪld",
+    "pronInSpanishBaseForm": "bild",
+    "pronInSpanishPastSimple": "bilt",
+    "pronInSpanishPastParticiple": "bilt",
+    "translate": [
+      "construir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They are planning to build a new house",
+        "spanish": "Están planeando construir una casa nueva"
+      },
+      {
+        "id": "2",
+        "english": "The ancient Egyptians built the pyramids",
+        "spanish": "Los antiguos egipcios construyeron las pirámides"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock",
+        "spanish": "Así que, cualquiera que oyere estas palabras mías y las hiciere, le compararé a un hombre prudente, que edificó su casa sobre la roca"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "baseForm": "burn",
+    "pastSimple": "burned/burnt",
+    "pastParticiple": "burned/burnt",
+    "imagen": "./img/irregularVerbs/burn.jpeg",
+    "pronunciation": "bɜːrn",
+    "pronInSpanishBaseForm": "bern",
+    "pronInSpanishPastSimple": "bern/bərnt",
+    "pronInSpanishPastParticiple": "bern/bərnt",
+    "translate": [
+      "quemar",
+      "arder"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The fire burned the entire forest",
+        "spanish": "El fuego quemó todo el bosque"
+      },
+      {
+        "id": "2",
+        "english": "She burned the letter in anger",
+        "spanish": "Quemó la carta enojada"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush",
+        "spanish": "Y se le apareció el ángel de Jehová en una llama de fuego en medio de una zarza"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "baseForm": "burst",
+    "pastSimple": "burst",
+    "pastParticiple": "burst",
+    "imagen": "./img/irregularVerbs/burst.jpeg",
+    "pronunciation": "bɜːrst",
+    "pronInSpanishBaseForm": "bɜːrst",
+    "pronInSpanishPastSimple": "bɜːrst",
+    "pronInSpanishPastParticiple": "bɜːrst",
+    "translate": [
+      "estallar",
+      "reventar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The balloon burst with a loud sound",
+        "spanish": "El globo estalló con un sonido fuerte"
+      },
+      {
+        "id": "2",
+        "english": "Her heart felt like it would burst with joy",
+        "spanish": "Su corazón sentía que iba a estallar de alegría"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And it came to pass, when he came nigh to the camp, that he saw the calf, and the dancing",
+        "spanish": "Y aconteció que cuando él llegó cerca del campamento, vio el becerro y las danzas"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "baseForm": "buy",
+    "pastSimple": "bought",
+    "pastParticiple": "bought",
+    "imagen": "./img/irregularVerbs/buy.jpeg",
+    "pronunciation": "baɪ",
+    "pronInSpanishBaseForm": "bái",
+    "pronInSpanishPastSimple": "bot",
+    "pronInSpanishPastParticiple": "bot",
+    "translate": [
+      "comprar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She bought a new dress for the party",
+        "spanish": "Ella compró un vestido nuevo para la fiesta"
+      },
+      {
+        "id": "2",
+        "english": "I have bought a present for you",
+        "spanish": "He comprado un regalo para ti"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding",
+        "spanish": "Compra la verdad y no la vendas; también la sabiduría, la enseñanza y la inteligencia"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "baseForm": "can",
+    "pastSimple": "could",
+    "pastParticiple": "could",
+    "imagen": "./img/irregularVerbs/can.jpeg",
+    "pronunciation": "kæn",
+    "pronInSpanishBaseForm": "kan",
+    "pronInSpanishPastSimple": "kʊd",
+    "pronInSpanishPastParticiple": "kʊd",
+    "translate": [
+      "poder"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She can speak three languages",
+        "spanish": "Ella puede hablar tres idiomas"
+      },
+      {
+        "id": "2",
+        "english": "I could swim when I was a child",
+        "spanish": "Yo podía nadar cuando era niño"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "I can do all things through Christ who strengthens me",
+        "spanish": "Todo lo puedo en Cristo que me fortalece"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "baseForm": "cast",
+    "pastSimple": "cast",
+    "pastParticiple": "cast",
+    "imagen": "./img/irregularVerbs/cast.jpeg",
+    "pronunciation": "kæst",
+    "pronInSpanishBaseForm": "kæst",
+    "pronInSpanishPastSimple": "kæst",
+    "pronInSpanishPastParticiple": "kæst",
+    "translate": [
+      "lanzar",
+      "echar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He cast the fishing line into the water",
+        "spanish": "Él lanzó la línea de pesca al agua"
+      },
+      {
+        "id": "2",
+        "english": "They cast their votes in the election",
+        "spanish": "Ellos emitieron sus votos en las elecciones"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Cast thy burden upon the Lord, and he shall sustain thee",
+        "spanish": "Echa tu carga sobre el Señor, y él te sustentará"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "baseForm": "catch",
+    "pastSimple": "caught",
+    "pastParticiple": "caught",
+    "imagen": "./img/irregularVerbs/catch.jpeg",
+    "pronunciation": "kætʃ",
+    "pronInSpanishBaseForm": "kætʃ",
+    "pronInSpanishPastSimple": "kɔt",
+    "pronInSpanishPastParticiple": "kɔt",
+    "translate": [
+      "atrapar",
+      "coger"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She caught the ball with one hand",
+        "spanish": "Ella atrapó la pelota con una mano"
+      },
+      {
+        "id": "2",
+        "english": "I caught a cold last week",
+        "spanish": "Me resfrié la semana pasada"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And Jesus said unto them, Follow me, and I will make you fishers of men",
+        "spanish": "Y Jesús les dijo: Venid en pos de mí, y os haré pescadores de hombres"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "baseForm": "choose",
+    "pastSimple": "chose",
+    "pastParticiple": "chosen",
+    "imagen": "./img/irregularVerbs/choose.jpeg",
+    "pronunciation": "tʃuːz",
+    "pronInSpanishBaseForm": "chúz",
+    "pronInSpanishPastSimple": "chóuz",
+    "pronInSpanishPastParticiple": "chóuzən",
+    "translate": [
+      "elegir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "You can choose between these options",
+        "spanish": "Puedes elegir entre estas opciones"
+      },
+      {
+        "id": "2",
+        "english": "She chose the blue dress for the party",
+        "spanish": "Ella eligió el vestido azul para la fiesta"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people",
+        "spanish": "Pero vosotros sois linaje escogido, real sacerdocio, nación santa, pueblo adquirido por Dios"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "baseForm": "cling",
+    "pastSimple": "clung",
+    "pastParticiple": "clung",
+    "imagen": "./img/irregularVerbs/cling.jpeg",
+    "pronunciation": "klɪŋ",
+    "pronInSpanishBaseForm": "kling",
+    "pronInSpanishPastSimple": "klʌŋ",
+    "pronInSpanishPastParticiple": "klʌŋ",
+    "translate": [
+      "aferrarse",
+      "adherirse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The wet shirt clung to her body",
+        "spanish": "La camisa mojada se aferraba a su cuerpo"
+      },
+      {
+        "id": "2",
+        "english": "The child clung to his mother during the storm",
+        "spanish": "El niño se aferró a su madre durante la tormenta"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "But cleave unto the Lord your God, as ye have done unto this day",
+        "spanish": "Pero seguían a Jehová vuestro Dios, como lo habían hecho hasta hoy"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "baseForm": "come",
+    "pastSimple": "came",
+    "pastParticiple": "come",
+    "imagen": "./img/irregularVerbs/come.jpeg",
+    "pronunciation": "kʌm",
+    "pronInSpanishBaseForm": "kam",
+    "pronInSpanishPastSimple": "keim",
+    "pronInSpanishPastParticiple": "kam",
+    "translate": [
+      "venir",
+      "llegar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I come from a small town",
+        "spanish": "Vengo de un pueblo pequeño"
+      },
+      {
+        "id": "2",
+        "english": "They came to visit us last summer",
+        "spanish": "Vinieron a visitarnos el verano pasado"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Come unto me, all ye that labour and are heavy laden, and I will give you rest",
+        "spanish": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "baseForm": "cost",
+    "pastSimple": "cost",
+    "pastParticiple": "cost",
+    "imagen": "./img/irregularVerbs/cost.jpeg",
+    "pronunciation": "kɒst",
+    "pronInSpanishBaseForm": "kost",
+    "pronInSpanishPastSimple": "kost",
+    "pronInSpanishPastParticiple": "kost",
+    "translate": [
+      "costar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The dress cost a lot of money",
+        "spanish": "El vestido costó mucho dinero"
+      },
+      {
+        "id": "2",
+        "english": "The repairs to the car will cost more than expected",
+        "spanish": "Las reparaciones del coche costarán más de lo esperado"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 39,
+    "baseForm": "creep",
+    "pastSimple": "crept",
+    "pastParticiple": "crept",
+    "imagen": "./img/irregularVerbs/creep.jpeg",
+    "pronunciation": "kriːp",
+    "pronInSpanishBaseForm": "krip",
+    "pronInSpanishPastSimple": "krept",
+    "pronInSpanishPastParticiple": "krept",
+    "translate": [
+      "arrastrarse",
+      "deslizarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The cat crept silently through the grass",
+        "spanish": "El gato se arrastró silenciosamente por la hierba"
+      },
+      {
+        "id": "2",
+        "english": "A feeling of unease crept over him",
+        "spanish": "Un sentimiento de incomodidad se deslizó sobre él"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And the Lord said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man",
+        "spanish": "Y Jehová le dijo: Ciertamente yo estaré contigo, y derrotarás a Madián como si fuera un solo hombre"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "baseForm": "cut",
+    "pastSimple": "cut",
+    "pastParticiple": "cut",
+    "imagen": "./img/irregularVerbs/cut.jpeg",
+    "pronunciation": "kʌt",
+    "pronInSpanishBaseForm": "kat",
+    "pronInSpanishPastSimple": "kat",
+    "pronInSpanishPastParticiple": "kat",
+    "translate": [
+      "cortar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She cut the paper with scissors",
+        "spanish": "Ella cortó el papel con tijeras"
+      },
+      {
+        "id": "2",
+        "english": "He cut his finger while chopping vegetables",
+        "spanish": "Se cortó el dedo mientras cortaba verduras"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword",
+        "spanish": "Entonces Jesús le dijo: Vuelve tu espada a su lugar, porque todos los que tomen la espada, a espada perecerán"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "baseForm": "deal",
+    "pastSimple": "dealt",
+    "pastParticiple": "dealt",
+    "imagen": "./img/irregularVerbs/deal.jpeg",
+    "pronunciation": "diːl",
+    "pronInSpanishBaseForm": "dil",
+    "pronInSpanishPastSimple": "delt",
+    "pronInSpanishPastParticiple": "delt",
+    "translate": [
+      "tratar",
+      "negociar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She dealt the cards for the game",
+        "spanish": "Ella repartió las cartas para el juego"
+      },
+      {
+        "id": "2",
+        "english": "The company dealt with customer complaints promptly",
+        "spanish": "La empresa trató las quejas de los clientes rápidamente"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful",
+        "spanish": "Bienaventurado el varón que no anduvo en consejo de malos, ni estuvo en camino de pecadores, ni en silla de escarnecedores se ha sentado"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "baseForm": "dig",
+    "pastSimple": "dug",
+    "pastParticiple": "dug",
+    "imagen": "./img/irregularVerbs/dig.jpeg",
+    "pronunciation": "dɪɡ",
+    "pronInSpanishBaseForm": "díg",
+    "pronInSpanishPastSimple": "dəɡ",
+    "pronInSpanishPastParticiple": "dəɡ",
+    "translate": [
+      "cavar",
+      "excavar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He dug a hole in the garden",
+        "spanish": "Él cavó un agujero en el jardín"
+      },
+      {
+        "id": "2",
+        "english": "The dog dug up a bone in the backyard",
+        "spanish": "El perro desenterró un hueso en el patio trasero"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And Abraham digged again the wells of water, which they had digged in the days of Abraham his father",
+        "spanish": "Y Abraham volvió a abrir los pozos de agua que habían cavado en los días de Abraham, su padre"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "baseForm": "do",
+    "pastSimple": "did",
+    "pastParticiple": "done",
+    "imagen": "./img/irregularVerbs/do.jpeg",
+    "pronunciation": "duː",
+    "pronInSpanishBaseForm": "du",
+    "pronInSpanishPastSimple": "did",
+    "pronInSpanishPastParticiple": "dan",
+    "translate": [
+      "hacer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She did her homework in the afternoon",
+        "spanish": "Ella hizo su tarea por la tarde"
+      },
+      {
+        "id": "2",
+        "english": "What have you done to help the community?",
+        "spanish": "¿Qué has hecho para ayudar a la comunidad?"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "I have glorified thee on the earth: I have finished the work which thou gavest me to do",
+        "spanish": "Yo te he glorificado en la tierra; he acabado la obra que me diste que hiciese"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "baseForm": "draw",
+    "pastSimple": "drew",
+    "pastParticiple": "drawn",
+    "imagen": "./img/irregularVerbs/draw.jpeg",
+    "pronunciation": "drɔː",
+    "pronInSpanishBaseForm": "dró",
+    "pronInSpanishPastSimple": "druː",
+    "pronInSpanishPastParticiple": "drɔːn",
+    "translate": [
+      "dibujar",
+      "extraer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She drew a beautiful landscape",
+        "spanish": "Ella dibujó un hermoso paisaje"
+      },
+      {
+        "id": "2",
+        "english": "The magician drew a rabbit out of his hat",
+        "spanish": "El mago sacó un conejo de su sombrero"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And I, if I be lifted up from the earth, will draw all men unto me",
+        "spanish": "Y yo, si fuere levantado de la tierra, atraeré a todos hacia mí"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "baseForm": "dream",
+    "pastSimple": "dreamed/dreamt",
+    "pastParticiple": "dreamed/dreamt",
+    "imagen": "./img/irregularVerbs/dream.jpeg",
+    "pronunciation": "driːm",
+    "pronInSpanishBaseForm": "drim",
+    "pronInSpanishPastSimple": "drimt",
+    "pronInSpanishPastParticiple": "drimt",
+    "translate": [
+      "soñar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Last night, I dreamed about flying",
+        "spanish": "Anoche soñé con volar"
+      },
+      {
+        "id": "2",
+        "english": "She often dreamt of becoming a famous artist",
+        "spanish": "A menudo soñaba con ser una artista famosa"
+      }
+    ],
+    "biblicalExamples": [
+      {
+        "id": "1",
+        "english": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions",
+        "spanish": "Y en los postreros días derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "baseForm": "drink",
+    "pastSimple": "drank",
+    "pastParticiple": "drunk",
+    "imagen": "./img/irregularVerbs/drink.jpeg",
+    "pronunciation": "drɪŋk",
+    "pronInSpanishBaseForm": "drink",
+    "pronInSpanishPastSimple": "dræŋk",
+    "pronInSpanishPastParticiple": "drʌŋk",
+    "translate": [
+      "beber"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He drank a glass of water",
+        "spanish": "Él bebió un vaso de agua"
+      },
+      {
+        "id": "2",
+        "english": "I have never drunk coffee",
+        "spanish": "Nunca he bebido café"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 47,
+    "baseForm": "drive",
+    "pastSimple": "drove",
+    "pastParticiple": "driven",
+    "imagen": "./img/irregularVerbs/drive.jpeg",
+    "pronunciation": "draɪv",
+    "pronInSpanishBaseForm": "draiv",
+    "pronInSpanishPastSimple": "drov",
+    "pronInSpanishPastParticiple": "drɪvən",
+    "translate": [
+      "conducir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She drove us to the airport",
+        "spanish": "Ella nos condujo al aeropuerto"
+      },
+      {
+        "id": "2",
+        "english": "I have never driven a manual car",
+        "spanish": "Nunca he conducido un coche manual"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 48,
+    "baseForm": "dwell",
+    "pastSimple": "dwelled/dwelt",
+    "pastParticiple": "dwelled/dwelt",
+    "imagen": "./img/irregularVerbs/dwell.jpeg",
+    "pronunciation": "dwɛl",
+    "pronInSpanishBaseForm": "dwɛl",
+    "pronInSpanishPastSimple": "dwɛld/dwɛlt",
+    "pronInSpanishPastParticiple": "dwɛld/dwɛlt",
+    "translate": [
+      "morar",
+      "habitar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He dwelled in a small village",
+        "spanish": "Él habitaba en un pequeño pueblo"
+      },
+      {
+        "id": "2",
+        "english": "They have dwelt in that house for years",
+        "spanish": "Han morado en esa casa durante años"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 49,
+    "baseForm": "eat",
+    "pastSimple": "ate",
+    "pastParticiple": "eaten",
+    "imagen": "./img/irregularVerbs/eat.jpeg",
+    "pronunciation": "it",
+    "pronInSpanishBaseForm": "it",
+    "pronInSpanishPastSimple": "eɪt",
+    "pronInSpanishPastParticiple": "ˈiːtən",
+    "translate": [
+      "comer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She ate a delicious meal",
+        "spanish": "Ella comió una comida deliciosa"
+      },
+      {
+        "id": "2",
+        "english": "We have never eaten sushi",
+        "spanish": "Nunca hemos comido sushi"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 50,
+    "baseForm": "interweave",
+    "pastSimple": "interwove",
+    "pastParticiple": "interwoven",
+    "imagen": "./img/irregularVerbs/interweave.jpeg",
+    "pronunciation": "ɪntərˈwiːv",
+    "pronInSpanishBaseForm": "ɪntərˈwiːv",
+    "pronInSpanishPastSimple": "ɪntərˈwoʊv",
+    "pronInSpanishPastParticiple": "ɪntərˈwoʊvən",
+    "translate": [
+      "entrelazar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She interwove different colors into the fabric",
+        "spanish": "Ella entrelazó diferentes colores en la tela"
+      },
+      {
+        "id": "2",
+        "english": "The threads are interwoven to create a pattern",
+        "spanish": "Los hilos están entrelazados para crear un patrón"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 51,
+    "baseForm": "fall",
+    "pastSimple": "fell",
+    "pastParticiple": "fallen",
+    "imagen": "./img/irregularVerbs/fall.jpeg",
+    "pronunciation": "fɔːl",
+    "pronInSpanishBaseForm": "fɔːl",
+    "pronInSpanishPastSimple": "fɛl",
+    "pronInSpanishPastParticiple": "ˈfælən",
+    "translate": [
+      "caer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The leaves fell from the trees",
+        "spanish": "Las hojas cayeron de los árboles"
+      },
+      {
+        "id": "2",
+        "english": "I have never fallen off a bike",
+        "spanish": "Nunca me he caído de una bicicleta"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 52,
+    "baseForm": "feed",
+    "pastSimple": "fed",
+    "pastParticiple": "fed",
+    "imagen": "./img/irregularVerbs/feed.jpeg",
+    "pronunciation": "fiːd",
+    "pronInSpanishBaseForm": "fiːd",
+    "pronInSpanishPastSimple": "fɛd",
+    "pronInSpanishPastParticiple": "fɛd",
+    "translate": [
+      "alimentar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She feeds the birds every morning",
+        "spanish": "Ella alimenta a los pájaros todas las mañanas"
+      },
+      {
+        "id": "2",
+        "english": "We have always fed our pets well",
+        "spanish": "Siempre hemos alimentado bien a nuestras mascotas"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 53,
+    "baseForm": "feel",
+    "pastSimple": "felt",
+    "pastParticiple": "felt",
+    "imagen": "./img/irregularVerbs/feel.jpeg",
+    "pronunciation": "fiːl",
+    "pronInSpanishBaseForm": "fiːl",
+    "pronInSpanishPastSimple": "fɛlt",
+    "pronInSpanishPastParticiple": "fɛlt",
+    "translate": [
+      "sentir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She feels happy today",
+        "spanish": "Ella se siente feliz hoy"
+      },
+      {
+        "id": "2",
+        "english": "I have never felt such excitement",
+        "spanish": "Nunca he sentido tanta emoción"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 54,
+    "baseForm": "fight",
+    "pastSimple": "fought",
+    "pastParticiple": "fought",
+    "imagen": "./img/irregularVerbs/fight.jpeg",
+    "pronunciation": "faɪt",
+    "pronInSpanishBaseForm": "faɪt",
+    "pronInSpanishPastSimple": "fɔt",
+    "pronInSpanishPastParticiple": "fɔt",
+    "translate": [
+      "pelear",
+      "combatir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They fought for their freedom",
+        "spanish": "Pelearon por su libertad"
+      },
+      {
+        "id": "2",
+        "english": "I have never fought in a war",
+        "spanish": "Nunca he combatido en una guerra"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 55,
+    "baseForm": "find",
+    "pastSimple": "found",
+    "pastParticiple": "found",
+    "imagen": "./img/irregularVerbs/find.jpeg",
+    "pronunciation": "faɪnd",
+    "pronInSpanishBaseForm": "faɪnd",
+    "pronInSpanishPastSimple": "faʊnd",
+    "pronInSpanishPastParticiple": "faʊnd",
+    "translate": [
+      "encontrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He found his lost keys",
+        "spanish": "Él encontró sus llaves perdidas"
+      },
+      {
+        "id": "2",
+        "english": "Have you found the solution?",
+        "spanish": "¿Has encontrado la solución?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 56,
+    "baseForm": "flee",
+    "pastSimple": "fled",
+    "pastParticiple": "fled",
+    "imagen": "./img/irregularVerbs/flee.jpeg",
+    "pronunciation": "fliː",
+    "pronInSpanishBaseForm": "fli",
+    "pronInSpanishPastSimple": "flɛd",
+    "pronInSpanishPastParticiple": "flɛd",
+    "translate": [
+      "huir",
+      "escapar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They fled from danger",
+        "spanish": "Huyeron del peligro"
+      },
+      {
+        "id": "2",
+        "english": "She has never fled from a challenge",
+        "spanish": "Nunca ha escapado de un desafío"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 57,
+    "baseForm": "fling",
+    "pastSimple": "flung",
+    "pastParticiple": "flung",
+    "imagen": "./img/irregularVerbs/fling.jpeg",
+    "pronunciation": "flɪŋ",
+    "pronInSpanishBaseForm": "flɪŋ",
+    "pronInSpanishPastSimple": "flʌŋ",
+    "pronInSpanishPastParticiple": "flʌŋ",
+    "translate": [
+      "lanzar",
+      "arrojar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He flung the ball across the room",
+        "spanish": "Él lanzó la pelota al otro lado de la habitación"
+      },
+      {
+        "id": "2",
+        "english": "She has flung her old clothes away",
+        "spanish": "Ella ha arrojado su ropa vieja"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 58,
+    "baseForm": "fly",
+    "pastSimple": "flew",
+    "pastParticiple": "flown",
+    "imagen": "./img/irregularVerbs/fly.jpeg",
+    "pronunciation": "flaɪ",
+    "pronInSpanishBaseForm": "flaɪ",
+    "pronInSpanishPastSimple": "fluː",
+    "pronInSpanishPastParticiple": "floʊn",
+    "translate": [
+      "volar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Birds fly in the sky",
+        "spanish": "Los pájaros vuelan en el cielo"
+      },
+      {
+        "id": "2",
+        "english": "I have never flown in an airplane",
+        "spanish": "Nunca he volado en un avión"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 59,
+    "baseForm": "forbid",
+    "pastSimple": "forbade",
+    "pastParticiple": "forbidden",
+    "imagen": "./img/irregularVerbs/forbid.jpeg",
+    "pronunciation": "fərˈbɪd",
+    "pronInSpanishBaseForm": "fərˈbɪd",
+    "pronInSpanishPastSimple": "fərˈbeɪd",
+    "pronInSpanishPastParticiple": "fərˈbɪdən",
+    "translate": [
+      "prohibir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She forbade him from entering the room",
+        "spanish": "Ella le prohibió entrar en la habitación"
+      },
+      {
+        "id": "2",
+        "english": "It is forbidden to smoke here",
+        "spanish": "Está prohibido fumar aquí"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 60,
+    "baseForm": "forecast",
+    "pastSimple": "forecast",
+    "pastParticiple": "forecast",
+    "imagen": "./img/irregularVerbs/forecast.jpeg",
+    "pronunciation": "ˈfɔːrkæst",
+    "pronInSpanishBaseForm": "ˈfɔːrkæst",
+    "pronInSpanishPastSimple": "ˈfɔːrkæst",
+    "pronInSpanishPastParticiple": "ˈfɔːrkæst",
+    "translate": [
+      "prever",
+      "pronosticar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The weather forecast predicts rain",
+        "spanish": "La previsión del tiempo pronostica lluvia"
+      },
+      {
+        "id": "2",
+        "english": "They have always forecasted economic trends accurately",
+        "spanish": "Siempre han pronosticado con precisión las tendencias económicas"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 61,
+    "baseForm": "forget",
+    "pastSimple": "forgot",
+    "pastParticiple": "forgotten",
+    "imagen": "./img/irregularVerbs/forget.jpeg",
+    "pronunciation": "fərˈɡɛt",
+    "pronInSpanishBaseForm": "fərˈɡɛt",
+    "pronInSpanishPastSimple": "fərˈɡɑt",
+    "pronInSpanishPastParticiple": "fərˈɡɒtən",
+    "translate": [
+      "olvidar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I forgot my keys at home",
+        "spanish": "Olvidé mis llaves en casa"
+      },
+      {
+        "id": "2",
+        "english": "She has forgotten the lyrics to the song",
+        "spanish": "Ella ha olvidado la letra de la canción"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 62,
+    "baseForm": "forgive",
+    "pastSimple": "forgave",
+    "pastParticiple": "forgiven",
+    "imagen": "./img/irregularVerbs/forgive.jpeg",
+    "pronunciation": "fərˈɡɪv",
+    "pronInSpanishBaseForm": "fərˈɡɪv",
+    "pronInSpanishPastSimple": "fərˈɡeɪv",
+    "pronInSpanishPastParticiple": "fərˈɡɪvən",
+    "translate": [
+      "perdonar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He forgave her for the mistake",
+        "spanish": "Él la perdonó por el error"
+      },
+      {
+        "id": "2",
+        "english": "We have forgiven each other many times",
+        "spanish": "Nos hemos perdonado mutuamente muchas veces"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 63,
+    "baseForm": "forsake",
+    "pastSimple": "forsook",
+    "pastParticiple": "forsake",
+    "imagen": "./img/irregularVerbs/forsake.jpeg",
+    "pronunciation": "fərˈseɪk",
+    "pronInSpanishBaseForm": "fərˈseɪk",
+    "pronInSpanishPastSimple": "fərˈsʊk",
+    "pronInSpanishPastParticiple": "fərˈseɪk",
+    "translate": [
+      "abandonar",
+      "desertar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He forsook his old habits",
+        "spanish": "Abandonó sus viejos hábitos"
+      },
+      {
+        "id": "2",
+        "english": "They have forsaken the traditional ways",
+        "spanish": "Han abandonado las formas tradicionales"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 64,
+    "baseForm": "foresee",
+    "pastSimple": "foresaw",
+    "pastParticiple": "foreseen",
+    "imagen": "./img/irregularVerbs/foresee.jpeg",
+    "pronunciation": "fɔːrˈsiː",
+    "pronInSpanishBaseForm": "fɔːrˈsiː",
+    "pronInSpanishPastSimple": "fɔːrˈsɔː",
+    "pronInSpanishPastParticiple": "fɔːrˈsiːn",
+    "translate": [
+      "prever"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She can foresee potential problems",
+        "spanish": "Ella puede prever problemas potenciales"
+      },
+      {
+        "id": "2",
+        "english": "They have foreseen the challenges ahead",
+        "spanish": "Han previsto los desafíos que se avecinan"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 65,
+    "baseForm": "foretell",
+    "pastSimple": "foretold",
+    "pastParticiple": "foretold",
+    "imagen": "./img/irregularVerbs/foretell.jpeg",
+    "pronunciation": "fɔːrˈtɛl",
+    "pronInSpanishBaseForm": "fɔːrˈtɛl",
+    "pronInSpanishPastSimple": "fɔːrˈtoʊld",
+    "pronInSpanishPastParticiple": "fɔːrˈtoʊld",
+    "translate": [
+      "predecir",
+      "anunciar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The prophecy foretold a great event",
+        "spanish": "La profecía predijo un gran evento"
+      },
+      {
+        "id": "2",
+        "english": "He has foretold the outcome of the match",
+        "spanish": "Él ha anunciado el resultado del partido"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 66,
+    "baseForm": "freeze",
+    "pastSimple": "froze",
+    "pastParticiple": "frozen",
+    "imagen": "./img/irregularVerbs/freeze.jpeg",
+    "pronunciation": "friːz",
+    "pronInSpanishBaseForm": "friːz",
+    "pronInSpanishPastSimple": "froʊz",
+    "pronInSpanishPastParticiple": "ˈfroʊzən",
+    "translate": [
+      "congelar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The water in the pond froze overnight",
+        "spanish": "El agua en el estanque se congeló durante la noche"
+      },
+      {
+        "id": "2",
+        "english": "Have you ever frozen food for later?",
+        "spanish": "¿Alguna vez has congelado comida para más tarde?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 67,
+    "baseForm": "get",
+    "pastSimple": "got",
+    "pastParticiple": "got",
+    "imagen": "./img/irregularVerbs/get.jpeg",
+    "pronunciation": "ɡɛt",
+    "pronInSpanishBaseForm": "ɡɛt",
+    "pronInSpanishPastSimple": "ɡɒt",
+    "pronInSpanishPastParticiple": "ɡɒt",
+    "translate": [
+      "obtener",
+      "conseguir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I need to get some groceries",
+        "spanish": "Necesito obtener algunas provisiones"
+      },
+      {
+        "id": "2",
+        "english": "They have got tickets for the concert",
+        "spanish": "Han conseguido boletos para el concierto"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 68,
+    "baseForm": "give",
+    "pastSimple": "gave",
+    "pastParticiple": "given",
+    "imagen": "./img/irregularVerbs/give.jpeg",
+    "pronunciation": "ɡɪv",
+    "pronInSpanishBaseForm": "ɡɪv",
+    "pronInSpanishPastSimple": "ɡeɪv",
+    "pronInSpanishPastParticiple": "ˈɡɪvən",
+    "translate": [
+      "dar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She gave me a beautiful gift",
+        "spanish": "Ella me dio un hermoso regalo"
+      },
+      {
+        "id": "2",
+        "english": "We have given our support to the project",
+        "spanish": "Hemos dado nuestro apoyo al proyecto"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 69,
+    "baseForm": "go",
+    "pastSimple": "went",
+    "pastParticiple": "gone",
+    "imagen": "./img/irregularVerbs/go.jpeg",
+    "pronunciation": "ɡoʊ",
+    "pronInSpanishBaseForm": "ɡoʊ",
+    "pronInSpanishPastSimple": "wɛnt",
+    "pronInSpanishPastParticiple": "ɡɒn",
+    "translate": [
+      "ir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They go to school every day",
+        "spanish": "Van a la escuela todos los días"
+      },
+      {
+        "id": "2",
+        "english": "Have you ever gone to Europe?",
+        "spanish": "¿Alguna vez has ido a Europa?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 70,
+    "baseForm": "grind",
+    "pastSimple": "ground",
+    "pastParticiple": "ground",
+    "imagen": "./img/irregularVerbs/grind.jpeg",
+    "pronunciation": "ɡraɪnd",
+    "pronInSpanishBaseForm": "ɡraɪnd",
+    "pronInSpanishPastSimple": "ɡraʊnd",
+    "pronInSpanishPastParticiple": "ɡraʊnd",
+    "translate": [
+      "moler",
+      "triturar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She grinds coffee beans for the morning brew",
+        "spanish": "Ella muele granos de café para la preparación de la mañana"
+      },
+      {
+        "id": "2",
+        "english": "They have ground spices for the recipe",
+        "spanish": "Han triturado especias para la receta"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 71,
+    "baseForm": "grow",
+    "pastSimple": "grew",
+    "pastParticiple": "grown",
+    "imagen": "./img/irregularVerbs/grow.jpeg",
+    "pronunciation": "ɡroʊ",
+    "pronInSpanishBaseForm": "ɡroʊ",
+    "pronInSpanishPastSimple": "ɡruː",
+    "pronInSpanishPastParticiple": "ɡroʊn",
+    "translate": [
+      "crecer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "Plants grow in the garden",
+        "spanish": "Las plantas crecen en el jardín"
+      },
+      {
+        "id": "2",
+        "english": "He has grown taller since last year",
+        "spanish": "Ha crecido más alto desde el año pasado"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 72,
+    "baseForm": "hang",
+    "pastSimple": "hanged/hung",
+    "pastParticiple": "hanged/hung",
+    "imagen": "./img/irregularVerbs/hang.jpeg",
+    "pronunciation": "hæŋ",
+    "pronInSpanishBaseForm": "hæŋ",
+    "pronInSpanishPastSimple": "hæŋd/hʌŋ",
+    "pronInSpanishPastParticiple": "hæŋd/hʌŋ",
+    "translate": [
+      "colgar",
+      "ahorcar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She hung the painting on the wall",
+        "spanish": "Ella colgó el cuadro en la pared"
+      },
+      {
+        "id": "2",
+        "english": "The criminal was hanged for his crimes",
+        "spanish": "El criminal fue ahorcado por sus crímenes"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 73,
+    "baseForm": "have",
+    "pastSimple": "had",
+    "pastParticiple": "had",
+    "imagen": "./img/irregularVerbs/have.jpeg",
+    "pronunciation": "hæv",
+    "pronInSpanishBaseForm": "hæv",
+    "pronInSpanishPastSimple": "hæd",
+    "pronInSpanishPastParticiple": "hæd",
+    "translate": [
+      "tener",
+      "haber"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I have a car",
+        "spanish": "Tengo un coche"
+      },
+      {
+        "id": "2",
+        "english": "They had a great time at the party",
+        "spanish": "Se divirtieron mucho en la fiesta"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 74,
+    "baseForm": "hear",
+    "pastSimple": "heard",
+    "pastParticiple": "heard",
+    "imagen": "./img/irregularVerbs/hear.jpeg",
+    "pronunciation": "hɪr",
+    "pronInSpanishBaseForm": "hɪr",
+    "pronInSpanishPastSimple": "hɜːrd",
+    "pronInSpanishPastParticiple": "hɜːrd",
+    "translate": [
+      "oír",
+      "escuchar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She heard the music from the next room",
+        "spanish": "Ella oyó la música desde la habitación de al lado"
+      },
+      {
+        "id": "2",
+        "english": "Have you ever heard such a beautiful song?",
+        "spanish": "¿Alguna vez has escuchado una canción tan hermosa?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 75,
+    "baseForm": "hide",
+    "pastSimple": "hid",
+    "pastParticiple": "hidden",
+    "imagen": "./img/irregularVerbs/hide.jpeg",
+    "pronunciation": "haɪd",
+    "pronInSpanishBaseForm": "haɪd",
+    "pronInSpanishPastSimple": "hɪd",
+    "pronInSpanishPastParticiple": "ˈhɪdən",
+    "translate": [
+      "esconder",
+      "ocultar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He hid the treasure in a secret cave",
+        "spanish": "Él escondió el tesoro en una cueva secreta"
+      },
+      {
+        "id": "2",
+        "english": "The magician has hidden the cards well",
+        "spanish": "El mago ha ocultado bien las cartas"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 76,
+    "baseForm": "hit",
+    "pastSimple": "hit",
+    "pastParticiple": "hit",
+    "imagen": "./img/irregularVerbs/hit.jpeg",
+    "pronunciation": "hɪt",
+    "pronInSpanishBaseForm": "hɪt",
+    "pronInSpanishPastSimple": "hɪt",
+    "pronInSpanishPastParticiple": "hɪt",
+    "translate": [
+      "golpear",
+      "pegar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He hit the ball with a powerful swing",
+        "spanish": "Golpeó la pelota con un potente swing"
+      },
+      {
+        "id": "2",
+        "english": "She has hit the target every time",
+        "spanish": "Ella ha dado en el blanco cada vez"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 77,
+    "baseForm": "hold",
+    "pastSimple": "held",
+    "pastParticiple": "held",
+    "imagen": "./img/irregularVerbs/hold.jpeg",
+    "pronunciation": "hoʊld",
+    "pronInSpanishBaseForm": "hoʊld",
+    "pronInSpanishPastSimple": "hɛld",
+    "pronInSpanishPastParticiple": "hɛld",
+    "translate": [
+      "sostener",
+      "agarrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She held the baby in her arms",
+        "spanish": "Sostuvo al bebé en sus brazos"
+      },
+      {
+        "id": "2",
+        "english": "They have held hands for years",
+        "spanish": "Han tomado las manos durante años"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 78,
+    "baseForm": "hurt",
+    "pastSimple": "hurt",
+    "pastParticiple": "hurt",
+    "imagen": "./img/irregularVerbs/hurt.jpeg",
+    "pronunciation": "hɜːrt",
+    "pronInSpanishBaseForm": "hɜːrt",
+    "pronInSpanishPastSimple": "hɜːrt",
+    "pronInSpanishPastParticiple": "hɜːrt",
+    "translate": [
+      "hacer daño",
+      "herir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The fall hurt her ankle",
+        "spanish": "La caída le hizo daño en el tobillo"
+      },
+      {
+        "id": "2",
+        "english": "He has hurt his feelings with harsh words",
+        "spanish": "Le ha herido los sentimientos con palabras duras"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 79,
+    "baseForm": "keep",
+    "pastSimple": "kept",
+    "pastParticiple": "kept",
+    "imagen": "./img/irregularVerbs/keep.jpeg",
+    "pronunciation": "kiːp",
+    "pronInSpanishBaseForm": "kiːp",
+    "pronInSpanishPastSimple": "kɛpt",
+    "pronInSpanishPastParticiple": "kɛpt",
+    "translate": [
+      "guardar",
+      "conservar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She keeps her valuables in a safe",
+        "spanish": "Guarda sus objetos de valor en una caja fuerte"
+      },
+      {
+        "id": "2",
+        "english": "We have kept our promise",
+        "spanish": "Hemos cumplido nuestra promesa"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 80,
+    "baseForm": "kneel",
+    "pastSimple": "knelt",
+    "pastParticiple": "knelt",
+    "imagen": "./img/irregularVerbs/kneel.jpeg",
+    "pronunciation": "niːl",
+    "pronInSpanishBaseForm": "niːl",
+    "pronInSpanishPastSimple": "nɛlt",
+    "pronInSpanishPastParticiple": "nɛlt",
+    "translate": [
+      "arrodillarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "They kneel in prayer",
+        "spanish": "Se arrodillan en oración"
+      },
+      {
+        "id": "2",
+        "english": "He knelt down to propose",
+        "spanish": "Se arrodilló para proponer matrimonio"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 81,
+    "baseForm": "know",
+    "pastSimple": "knew",
+    "pastParticiple": "known",
+    "imagen": "./img/irregularVerbs/know.jpeg",
+    "pronunciation": "noʊ",
+    "pronInSpanishBaseForm": "noʊ",
+    "pronInSpanishPastSimple": "nuː",
+    "pronInSpanishPastParticiple": "noʊn",
+    "translate": [
+      "saber",
+      "conocer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She knows the answer to the question",
+        "spanish": "Sabe la respuesta a la pregunta"
+      },
+      {
+        "id": "2",
+        "english": "Have you ever known such a talented person?",
+        "spanish": "¿Alguna vez has conocido a una persona tan talentosa?"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 82,
+    "baseForm": "lay",
+    "pastSimple": "laid",
+    "pastParticiple": "laid",
+    "imagen": "./img/irregularVerbs/lay.jpeg",
+    "pronunciation": "leɪ",
+    "pronInSpanishBaseForm": "leɪ",
+    "pronInSpanishPastSimple": "leɪd",
+    "pronInSpanishPastParticiple": "leɪd",
+    "translate": [
+      "poner",
+      "colocar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She laid the book on the table",
+        "spanish": "Ella puso el libro sobre la mesa"
+      },
+      {
+        "id": "2",
+        "english": "He has laid the foundation for success",
+        "spanish": "Ha establecido las bases para el éxito"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 83,
+    "baseForm": "lead",
+    "pastSimple": "led",
+    "pastParticiple": "led",
+    "imagen": "./img/irregularVerbs/lead.jpeg",
+    "pronunciation": "liːd",
+    "pronInSpanishBaseForm": "liːd",
+    "pronInSpanishPastSimple": "lɛd",
+    "pronInSpanishPastParticiple": "lɛd",
+    "translate": [
+      "guiar",
+      "llevar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She led the team to victory",
+        "spanish": "Ella guió al equipo hacia la victoria"
+      },
+      {
+        "id": "2",
+        "english": "He has led a successful career",
+        "spanish": "Ha llevado una carrera exitosa"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 84,
+    "baseForm": "lean",
+    "pastSimple": "leaned/leant",
+    "pastParticiple": "leaned/leant",
+    "imagen": "./img/irregularVerbs/lean.jpeg",
+    "pronunciation": "liːn",
+    "pronInSpanishBaseForm": "liːn",
+    "pronInSpanishPastSimple": "liːnd/lɛnt",
+    "pronInSpanishPastParticiple": "liːnd/lɛnt",
+    "translate": [
+      "inclinarse",
+      "apoyarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She leaned against the wall",
+        "spanish": "Ella se inclinó contra la pared"
+      },
+      {
+        "id": "2",
+        "english": "He has leant on his friends for support",
+        "spanish": "Se ha apoyado en sus amigos para obtener apoyo"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 85,
+    "baseForm": "leap",
+    "pastSimple": "leapt",
+    "pastParticiple": "leapt",
+    "imagen": "./img/irregularVerbs/leap.jpeg",
+    "pronunciation": "liːp",
+    "pronInSpanishBaseForm": "liːp",
+    "pronInSpanishPastSimple": "lɛpt",
+    "pronInSpanishPastParticiple": "lɛpt",
+    "translate": [
+      "saltar",
+      "brincar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The cat leapt onto the roof",
+        "spanish": "El gato saltó al tejado"
+      },
+      {
+        "id": "2",
+        "english": "He has leapt over obstacles in his career",
+        "spanish": "Ha saltado obstáculos en su carrera"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 86,
+    "baseForm": "learn",
+    "pastSimple": "learned/learnt",
+    "pastParticiple": "learned/learnt",
+    "imagen": "./img/irregularVerbs/learn.jpeg",
+    "pronunciation": "lɜːrn",
+    "pronInSpanishBaseForm": "lɜːrn",
+    "pronInSpanishPastSimple": "lɜːrnd/lɜːnt",
+    "pronInSpanishPastParticiple": "lɜːrnd/lɜːnt",
+    "translate": [
+      "aprender"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She learned a new language",
+        "spanish": "Ella aprendió un nuevo idioma"
+      },
+      {
+        "id": "2",
+        "english": "He has learnt valuable lessons from his experiences",
+        "spanish": "Ha aprendido lecciones valiosas de sus experiencias"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 87,
+    "baseForm": "leave",
+    "pastSimple": "left",
+    "pastParticiple": "left",
+    "imagen": "./img/irregularVerbs/leave.jpeg",
+    "pronunciation": "liːv",
+    "pronInSpanishBaseForm": "liːv",
+    "pronInSpanishPastSimple": "lɛft",
+    "pronInSpanishPastParticiple": "lɛft",
+    "translate": [
+      "dejar",
+      "partir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She left her keys at home",
+        "spanish": "Dejó sus llaves en casa"
+      },
+      {
+        "id": "2",
+        "english": "They have left for a vacation",
+        "spanish": "Han partido de vacaciones"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 88,
+    "baseForm": "lend",
+    "pastSimple": "lent",
+    "pastParticiple": "lent",
+    "imagen": "./img/irregularVerbs/lend.jpeg",
+    "pronunciation": "lɛnd",
+    "pronInSpanishBaseForm": "lɛnd",
+    "pronInSpanishPastSimple": "lɛnt",
+    "pronInSpanishPastParticiple": "lɛnt",
+    "translate": [
+      "prestar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She lent me her umbrella",
+        "spanish": "Ella me prestó su paraguas"
+      },
+      {
+        "id": "2",
+        "english": "We have lent money to friends in need",
+        "spanish": "Hemos prestado dinero a amigos necesitados"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 89,
+    "baseForm": "let",
+    "pastSimple": "let",
+    "pastParticiple": "let",
+    "imagen": "./img/irregularVerbs/let.jpeg",
+    "pronunciation": "lɛt",
+    "pronInSpanishBaseForm": "lɛt",
+    "pronInSpanishPastSimple": "lɛt",
+    "pronInSpanishPastParticiple": "lɛt",
+    "translate": [
+      "permitir",
+      "dejar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He let us use his car",
+        "spanish": "Nos permitió usar su coche"
+      },
+      {
+        "id": "2",
+        "english": "They have let go of their past mistakes",
+        "spanish": "Han dejado atrás sus errores del pasado"
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 90,
+    "baseForm": "lie",
+    "pastSimple": "lay",
+    "pastParticiple": "lain",
+    "imagen": "./img/irregularVerbs/lie.jpeg",
+    "pronunciation": "laɪ",
+    "pronInSpanishBaseForm": "laɪ",
+    "pronInSpanishPastSimple": "leɪ",
+    "pronInSpanishPastParticiple": "leɪn",
+    "translate": [
+      "mentir",
+      "yacer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She lied about her whereabouts",
+        "spanish": "Mintió acerca de su paradero"
+      },
+      {
+        "id": "2",
+        "english": "The books have lain on the shelf for years",
+        "spanish": "Los libros han yacido en el estante durante años"
+      }
+    ],
+    "biblicalExamples": []
+  }
 ]
