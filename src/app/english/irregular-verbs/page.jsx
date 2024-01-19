@@ -39,6 +39,9 @@ export default function IrregularVerbs() {
         audioRef.current.src = `./activities/irregularVerbs/${id}.mp3`
         audioRef.current.play()
     }
+    const cardStyle = {
+        background:"#f1f8fd"
+    }
 
     return (
 
@@ -74,7 +77,7 @@ export default function IrregularVerbs() {
                             biblicalExamples
 
                         }) => (
-                            <Card key={id} className="p-2 my-4 bg-[#f1f8fd]" sx={{ minWidth: 275 }}>
+                            <Card key={id} style={cardStyle} className="p-2 my-4" sx={{ minWidth: 275 }}>
                                 <div className='font-extrabold text-2xl flex gap-3' onClick={() => handlePlay(id)}>
                                     <div>
                                         <Typography className='text-[#2c4772] font-bold' variant="h5" component="div">{id} - {baseForm} / {pastSimple} / {pastParticiple}</Typography>
