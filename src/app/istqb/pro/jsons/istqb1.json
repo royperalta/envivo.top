@@ -1,0 +1,1040 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Decidir cuánta prueba es suficiente debe tener en cuenta:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li><strong>i. Nivel de Riesgo:</strong> Incluyendo riesgos técnicos y de negocios en el producto y proyecto</li><li><strong>ii. Restricciones del Proyecto:</strong> Como tiempo y presupuesto</li><li><strong>iii. Tamaño del Equipo de Pruebas:</strong> <!-- Agregar información detallada aquí --></li><li><strong>iv. Tamaño del Equipo de Desarrollo:</strong> <!--- Agregar información detallada aquí --></li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i, ii, iii son verdaderas y iv es falsa"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i, iv son verdaderas y ii es falsa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i, ii son verdaderas y iii, iv son falsas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii, iii, iv son verdaderas y i es falsa"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 2,
+      "enunciado": "La planificación de pruebas tiene cuáles de las siguientes tareas principales:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li><strong>i. Determinar el alcance y los riesgos, e identificar los objetivos de prueba.</strong></li><li><strong>ii. Determinar el enfoque de prueba (técnicas, elementos de prueba, cobertura, identificación e interacción de los equipos involucrados en la prueba, testware).</strong></li><li><strong>iii. Revisar la Base de Pruebas (como requisitos, arquitectura, diseño, interfaz).</strong></li><li><strong>iv. Determinar los criterios de salida.</strong></li></ul>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i, ii, iv son verdaderas y iii es falsa"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i, iv son verdaderas y ii es falsa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i, ii son verdaderas y iii, iv son falsas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii, iii, iv son verdaderas y i es falsa"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "enunciado": "Evaluar la testabilidad de los requisitos y del sistema es parte de cuál fase:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Análisis y Diseño de Pruebas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Planificación y Control de Pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Implementación y Ejecución de Pruebas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Evaluar criterios de salida e informar"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 4,
+      "enunciado": "Uno de los campos en un formulario contiene un cuadro de texto que acepta letras en minúsculas o mayúsculas. Identifica el valor de clase de equivalencia no válido.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "CLASS"
+        },
+        {
+          "letra": "b",
+          "descripcion": "cLASS"
+        },
+        {
+          "letra": "c",
+          "descripcion": "CLass"
+        },
+        {
+          "letra": "d",
+          "descripcion": "CLa01ss"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 5,
+      "enunciado": "En un sistema diseñado para calcular el impuesto a pagar: Un empleado tiene £4000 de salario libre de impuestos. Los siguientes £1500 se gravan al 10%. Los siguientes £28000 se gravan al 22%. Cualquier cantidad adicional se grava al 40%. ¿Cuál de estos grupos de números pertenecería a la misma clase de equivalencia?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "£4800; £14000; £28000"
+        },
+        {
+          "letra": "b",
+          "descripcion": "£5200; £5500; £28000"
+        },
+        {
+          "letra": "c",
+          "descripcion": "£28001; £32000; £35000"
+        },
+        {
+          "letra": "d",
+          "descripcion": "£5800; £28000; £32000"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "enunciado": "Cuál de los siguientes tiene el nivel más alto de independencia en el cual los casos de prueba son:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Diseñados por personas que escriben el software bajo prueba"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Diseñados por una persona de una sección diferente"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Diseñados por una persona de una organización diferente"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Diseñados por otra persona"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 7,
+      "enunciado": "Utilizamos la salida del análisis de requisitos, la especificación de requisitos como entrada para escribir:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Casos de Prueba de Aceptación del Usuario"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Casos de Prueba a Nivel de Integración"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Casos de Prueba a Nivel de Unidad"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Especificaciones del Programa"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "enunciado": "La validación involucra cuál de lo siguiente:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li><strong>i. Ayuda a verificar la calidad del producto construido.</strong></li><li><strong>ii. Ayuda a verificar que hemos construido el producto correcto.</strong></li><li><strong>iii. Ayuda en el desarrollo del producto.</strong></li><li><strong>iv. Monitoriza el desperdicio y obsolescencia de las herramientas.</strong></li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i. Ayuda a verificar la calidad del producto construido"
+        },
+        {
+          "letra": "b",
+          "descripcion": "ii. Ayuda a verificar que hemos construido el producto correcto"
+        },
+        {
+          "letra": "c",
+          "descripcion": "iii. Ayuda en el desarrollo del producto"
+        },
+        {
+          "letra": "d",
+          "descripcion": "iv. Monitoreo del desperdicio y obsolescencia de herramientas"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Cuál de lo siguiente utiliza más el Análisis de Impacto?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Pruebas de Componentes"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Pruebas de Sistema No Funcionales"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Pruebas de Aceptación del Usuario"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Pruebas de Mantenimiento"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Cuál es el resultado esperado para cada uno de los siguientes casos de prueba?",
+      "puntos": 1,
+      "contenido_adicional_html": "<table border='1'><tr><th>|cuadro|</th><th>rule 1</th><th>rule 2</th><th>rule 3</th><th>rule 4</th></tr><tr><td>Conditions</td><td></td><td></td><td></td><td></td></tr><tr><td>Citibank Card Member</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td></tr><tr><td>Type of Room</td><td>Silver</td><td>Platinum</td><td>Silver</td><td>Platinum</td></tr><tr><td>Actions</td><td></td><td></td><td></td><td></td></tr><tr><td>Offer upgrade to Gold Luxury</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td>Offer upgrade to Silver</td><td>N/A</td><td>Yes</td><td>N/A</td><td>No</td></tr></table>A. Miembro de Citibank, con una habitación Silver B. No miembro de Citibank, con una habitación Platinum",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "A - No ofrecer ninguna mejora, B - No ofrecer ninguna mejora."
+        },
+        {
+          "letra": "b",
+          "descripcion": "A - No ofrecer ninguna mejora, B - Ofrecer mejora a Oro."
+        },
+        {
+          "letra": "c",
+          "descripcion": "A - Ofrecer mejora a Plata, B - Ofrecer mejora a Plata."
+        },
+        {
+          "letra": "d",
+          "descripcion": "A - Ofrecer mejora a Oro, B - No ofrecer ninguna mejora."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 11,
+      "enunciado": "Pruebas repetidas de un programa ya probado, después de una modificación, para descubrir defectos introducidos o no descubiertos como resultado de los cambios en el software bajo prueba o en otro componente de software relacionado o no relacionado:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Re Testing"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Confirmation Testing"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Regression Testing"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Negative Testing"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 12,
+      "enunciado": "El Análisis de Impacto ayuda a decidir:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Cuánto testing de regresión se debe realizar."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Criterios de Salida"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Cuántos casos de prueba adicionales deben ser escritos."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Diferentes herramientas para realizar pruebas de regresión."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 13,
+      "enunciado": "Las pruebas funcionales del sistema son:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Pruebas para asegurar que el sistema funcione con otros sistemas."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Pruebas para asegurar que los componentes que conforman el sistema funcionen juntos."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Pruebas de la funcionalidad de extremo a extremo del sistema en su totalidad."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Pruebas para asegurar que el sistema realiza funciones dentro de los tiempos de respuesta especificados."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 14,
+      "enunciado": "Considera el diagrama de transición de estados de un interruptor anterior. ¿Cuál de lo siguiente representa una transición de estado no válida?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "OFF a ON"
+        },
+        {
+          "letra": "b",
+          "descripcion": "ON a OFF"
+        },
+        {
+          "letra": "c",
+          "descripcion": "FAULT a ON"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 15,
+      "enunciado": "Las revisiones entre compañeros también se llaman:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Inspección"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Revisión detallada"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Revisión Técnica"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Revisión Formal"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 16,
+      "enunciado": "Considera las siguientes afirmaciones: i. Cobertura de declaración del 100% garantiza cobertura de ramificación del 100%. ii. Cobertura de ramificación del 100% garantiza cobertura de declaración del 100%. iii. Cobertura de ramificación del 100% garantiza cobertura de decisión del 100%. iv. Cobertura de decisión del 100% garantiza cobertura de ramificación del 100%. v. Cobertura de declaración del 100% garantiza cobertura de decisión del 100%. ¿Cuál de lo siguiente es verdadero?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "ii es Verdadero; i, iii, iv & v son Falsos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i & v son Verdaderos; ii, iii & iv son Falsos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii & iii son Verdaderos; i, iv & v son Falsos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii, iii & iv son Verdaderos; i & v son Falsos"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 17,
+      "enunciado": "La fase de inicio (Kick Off) de una revisión formal incluye lo siguiente:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Explicar el objetivo"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Corregir defectos encontrados típicamente realizados por el autor"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Seguimiento"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Preparativos para la reunión individual"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 18,
+      "enunciado": "Relaciona cada etapa del Ciclo de Vida del Desarrollo de Software con el Ciclo de Vida de Pruebas:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ol><li>i. Diseño de alto nivel - Pruebas unitarias</li><li>ii. Código - Pruebas de aceptación</li><li>iii. Diseño de bajo nivel - Pruebas de sistema</li><li>iv. Requisitos de negocio - Pruebas de integración</li></ol>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i-d , ii-a , iii-c , iv-b"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i-c , ii-d , iii-a , iv-b"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i-b , ii-a , iii-d , iv-c"
+        },
+        {
+          "letra": "d",
+          "descripcion": "i-c , ii-a , iii-d , iv-b"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 19,
+      "enunciado": "¿Cuál de lo siguiente no es una fase del Proceso Fundamental de Pruebas?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Planificación y Control de Pruebas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Implementación y Ejecución de Pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Análisis de Requisitos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Evaluar criterios de salida e informar"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 20,
+      "enunciado": "¿Cuál de las siguientes técnicas NO es una técnica de caja negra?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Pruebas de Transición de Estado"
+        },
+        {
+          "letra": "b",
+          "descripcion": "LCSAJ (Secuencia Lineal de Código y Salto)"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Pruebas de Sintaxis"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Análisis de Valor Límite"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 21,
+      "enunciado": "Los factores de éxito para una revisión incluyen:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Cada revisión no tiene un objetivo predefinido</li><li>ii. Se dan la bienvenida y expresan objetivamente los defectos encontrados</li><li>iii. La dirección apoya un buen proceso de revisión</li><li>iv. Se pone énfasis en el aprendizaje y la mejora del proceso</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "ii, iii, iv son correctos e i es incorrecto"
+        },
+        {
+          "letra": "b",
+          "descripcion": "iii, i, iv son correctos e ii es incorrecto"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i, iii, iv, ii son incorrectos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii es correcto"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 22,
+      "enunciado": "Defectos descubiertos por herramientas de análisis estático incluyen:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Variables que nunca se utilizan</li><li>ii. Vulnerabilidades de seguridad</li><li>iii. Violaciones de normas de programación</li><li>iv. Funciones y procedimientos no llamados</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i , ii, iii, iv son correctos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "iii, es correcto i, ii, iv son incorrectos."
+        },
+        {
+          "letra": "c",
+          "descripcion": "i, ii, iii y iv son incorrectos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "iv, ii es correcto"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 23,
+      "enunciado": "Las condiciones de prueba se derivan de:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Especificaciones"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Casos de Prueba"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Datos de Prueba"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Diseño de Pruebas"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 24,
+      "enunciado": "¿Cuál de lo siguiente es verdad acerca de las Técnicas de Pruebas de Caja Blanca y Negra?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Partición por Equivalencia, Tabla de Decisión y Flujo de Control son Técnicas de Pruebas de Caja Blanca."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Partición por Equivalencia, Análisis de Valor Límite, Flujo de Datos son Técnicas de Pruebas de Caja Negra."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Partición por Equivalencia, Transición de Estado, Pruebas de Casos de Uso son Técnicas de Pruebas de Caja Negra."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Partición por Equivalencia, Transición de Estado, Pruebas de Casos de Uso y Tabla de Decisión son Técnicas de Pruebas de Caja Blanca."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 25,
+      "enunciado": "Las pruebas de regresión deberían realizarse:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Cada semana</li><li>ii. Después de que el software ha cambiado</li><li>iii. Tan a menudo como sea posible</li><li>iv. Cuando el entorno ha cambiado</li><li>v. Cuando el director del proyecto lo indique</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i y ii son verdaderos, iii, iv & v son falsos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "ii, iii & iv son verdaderos, i & v son falsos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii & iv son verdaderos, i, iii & v son falsos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii es verdadero, i, iii, iv & v son falsos"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 26,
+      "enunciado": "Beneficios de las Pruebas Independientes:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Los probadores independientes son mucho más calificados que los desarrolladores."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Los probadores independientes encuentran defectos diferentes y son imparciales."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Los probadores independientes no pueden identificar defectos."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Los probadores independientes pueden probar mejor que los desarrolladores."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 27,
+      "enunciado": "Número mínimo de pruebas requeridas para cobertura de declaración y cobertura de ramificación: Leer P Leer Q Si p+q > 100 entonces Imprimir “Grande” Fin si Si p > 50 entonces Imprimir “pGrande” Fin si",
+      "puntos": 1,
+      "contenido_adicional_html": "<pre>Read P \nRead Q \nIf P + Q > 100 then \n    Print “Large” \nEnd If \nIf P > 50 then \n    Print “pLarge” \nEnd If</pre>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La cobertura de declaración es 2, la cobertura de ramificación es 2."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La cobertura de declaración es 3 y la cobertura de ramificación es 2."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La cobertura de declaración es 1 y la cobertura de ramificación es 2."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La cobertura de declaración es 4 y la cobertura de ramificación es 2."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 28,
+      "enunciado": "Número mínimo de pruebas requeridas para cobertura de declaración: Disc = 0 Order-qty = 0 Leer Order-qty Si Order-qty >=20 entonces Disc = 0.05 Si Order-qty >=100 entonces Disc =0.1 Fin si Fin si",
+      "puntos": 1,
+      "contenido_adicional_html": "<pre>Disc = 0 \nOrder_qty = 0 \nRead Order_qty \nIf Order_qty >= 20 then \n    Disc = 0.05 \n    If Order_qty >= 100 then \n        Disc = 0.1 \n    End if \nEnd if</pre>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La cobertura de declaración es 4."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La cobertura de declaración es 1."
+        },
+        {
+          "letra": "c",
+          "descripcion": "La cobertura de declaración es 3."
+        },
+        {
+          "letra": "d",
+          "descripcion": "La cobertura de declaración es 2."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 29,
+      "enunciado": "La estructura de un informe de incidentes está cubierta en el Estándar para la Documentación de Pruebas de Software IEEE 829 y se llama:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Informe de Anomalías"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Informe de Defectos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Informe de Defectos de Pruebas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Informe de Incidentes de Pruebas"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 30,
+      "enunciado": "¿Cuál de lo siguiente es una tarea de un Líder de Pruebas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Interacción con el proveedor de la herramienta de prueba para identificar las mejores formas de aprovechar la herramienta en el proyecto.</li><li>ii. Escribir Informes Resumen de Pruebas basados en la información recopilada durante las pruebas.</li><li>iii. Decidir qué debería ser automatizado, en qué medida y cómo.</li><li>iv. Crear las Especificaciones de Pruebas.</li></ul>",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i, ii, iii son verdaderos y iv es falso"
+        },
+        {
+          "letra": "b",
+          "descripcion": "ii, iii, iv son verdaderos y i es falso"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i es verdadero y ii, iii, iv son falsos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "iii y iv son correctos y i y ii son incorrectos"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 31,
+      "enunciado": "Características de la Técnica de Pruebas de Caja Blanca:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Utilizamos conocimiento explícito de los funcionamientos internos del elemento que se está probando para seleccionar los datos de prueba.</li><li>ii. Utiliza conocimiento específico del código de programación para examinar las salidas y asume que el probador conoce la lógica de una unidad o un programa.</li><li>iii. Verificación del rendimiento de la aplicación.</li><li>iv. También verifica la funcionalidad.</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i, ii son verdaderos y iii y iv son falsos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "iii es verdadero y i, ii, iv son falsos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii, iii son verdaderos y i, iv son falsos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "iii y iv son verdaderos y i, ii son falsos"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 32,
+      "enunciado": "¿Cuál de lo siguiente es parte de las Actividades de Cierre de Pruebas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Verificación de qué entregables planificados han sido entregados.</li><li>ii. Análisis de informes de defectos.</li><li>iii. Finalización y archivado de los artefactos de prueba.</li><li>iv. Análisis de lecciones aprendidas.</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i , ii , iv son verdaderos y iii es falso"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i , ii , iii son verdaderos y iv es falso"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i , iii , iv son verdaderos y ii es falso"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todos los anteriores son verdaderos"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 33,
+      "enunciado": "¿Cuál de lo siguiente sería la mejor definición para las Pruebas?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "El objetivo / propósito de las pruebas es demostrar que el programa funciona."
+        },
+        {
+          "letra": "b",
+          "descripcion": "El propósito de las pruebas es demostrar que el programa está libre de defectos."
+        },
+        {
+          "letra": "c",
+          "descripcion": "El propósito de las pruebas es demostrar que el programa hace lo que se supone que debe hacer."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Las pruebas consisten en ejecutar software con el propósito de encontrar defectos."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 34,
+      "enunciado": "¿Cuál de lo siguiente no es un tipo de enfoque de pruebas incrementales?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Top-down"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Big-bang"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Bottom-up"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Incrementación funcional."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 35,
+      "enunciado": "Los Drivers también son conocidos como:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Espada</li><li>ii. Artilugio de prueba</li><li>iii. Andamiaje</li><li>a) i, ii son verdaderos y iii es falso</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i , ii son verdaderos y iii es falso"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i , iii son verdaderos y ii es falso"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii , iii son verdaderos y i es falso"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todos los anteriores son verdaderos"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 36,
+      "enunciado": "Los Criterios de Salida pueden consistir en:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Medidas de exhaustividad, como cobertura de código, funcionalidad o riesgo.</li><li>ii. Estimaciones de densidad de defectos o medidas de confiabilidad.</li><li>iii. Riesgo residual como defectos no corregidos o falta de cobertura de prueba en ciertas áreas.</li><li>iv. Verificación del Entorno de Prueba.</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "iv es correcto e i,ii,iii son incorrectos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "i,ii,iii son correctos y iv es incorrecto"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii es correcto y i,ii,iii son incorrectos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "iii y iv son correctos y i,ii son incorrectos"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },    
+    {
+      "id": 37,
+      "enunciado": "¿Cuál de lo siguiente ayuda en monitorear el progreso de las pruebas?",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Porcentaje de ejecución de casos de prueba.</li><li>ii. Porcentaje de trabajo realizado en la preparación del entorno de prueba.</li><li>iii. Información de defectos, por ejemplo, densidad de defectos, defectos encontrados y corregidos.</li><li>iv. Tamaño del equipo de pruebas y habilidades de los ingenieros.</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "iv es correcto e i,ii,iii son incorrectos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "i,ii,iii son correctos y iv es incorrecto"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i,ii son correctos y iii,iv son incorrectos"
+        },
+        {
+          "letra": "d",
+          "descripcion": "i,iv son correctos y ii , iii son incorrectos"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 38,
+      "enunciado": "La selección de un enfoque de prueba debe considerar el contexto:",
+      "puntos": 1,
+      "contenido_adicional_html": "<ul><li>i. Riesgo de fallo del proyecto, peligros para el producto y riesgos de fallo del producto para los humanos.</li><li>ii. Habilidades y experiencia de las personas en la técnica, herramientas y métodos propuestos.</li><li>iii. El objetivo del esfuerzo de prueba y la misión del equipo de prueba.</li><li>iv. Tamaño del equipo de pruebas.</li></ul>      ",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i,ii,iii,iv son verdaderos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i,ii,iii son verdaderos y iv es falso."
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii,iii,iv son verdaderos y i es falso."
+        },
+        {
+          "letra": "d",
+          "descripcion": "i,iv son verdaderos y ii, iii son falsos."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 39,
+      "enunciado": "En caso de Sistemas Grandes:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Solo se deben ejecutar unos pocos tests."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Las pruebas deben basarse en el riesgo."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Solo se deben ejecutar Buenas Casos de Pruebas."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Deben ejecutarse Casos de Pruebas escritos por buenos ingenieros de pruebas."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 40,
+      "enunciado": "La provisión y gestión de una biblioteca controlada que contiene todos los elementos de configuración se llama:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Control de Configuración"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Contabilidad de Estado"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Identificación de Configuración"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Identificación de Configuración"
+        }
+      ],
+      "respuesta_correcta": "a"
+    }
+  ]
+}
