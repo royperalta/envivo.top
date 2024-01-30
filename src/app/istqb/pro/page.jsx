@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import JSON1 from './jsons/istqb1.json'
 import JSON2 from './jsons/istqb2.json'
+import JSON3 from './jsons/istqb3.json'
 import Preguntas from './Preguntas'
 export default function Exam() {
 
@@ -12,11 +13,12 @@ export default function Exam() {
 
   const lista = [
     { id: 1, json: JSON1 },
-    { id: 2, json: JSON2 }
+    { id: 2, json: JSON2 },
+    { id: 3, json: JSON3 }
   ]
 
   const fetchData = (number) => {
-    const jsons = [null, JSON1, JSON2]
+    const jsons = [null, JSON1, JSON2, JSON3]
     setDatos(jsons[number])
   }
 
@@ -26,7 +28,7 @@ export default function Exam() {
 
   const handleReset = (number) => {
     setDatos([]);
-    const jsons = [null, JSON1, JSON2]
+    const jsons = [null, JSON1, JSON2, JSON3]
     setDatos(jsons[number])
     setNumberExam(number)
   }

@@ -49,7 +49,7 @@ const Question = ({ questionData, handleAnswer, limpiar }) => {
                 <div className='px-10 '>
                     {questionData.opciones.map((opcion, index) => (
                         <div key={index}
-                            className={`flex items-center rounded p-1 cursor-pointer ${answerClassName(opcion.letra)} text-sm mb-2  transition-colors duration-300`}
+                            className={`flex items-center rounded p-1 cursor-pointer ${answerClassName(opcion.letra)} text-sm mb-2 transition-colors duration-300`}
                             onClick={() => handleChangeAnswer(opcion.letra)}
                         >
                             <h3>{opcion.letra})  </h3>

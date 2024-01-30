@@ -1,0 +1,1204 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "Cuando lo que es visible para los usuarios finales es una desviación del comportamiento específico o esperado, esto se llama:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "un error"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "una falla"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "un fallo"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "un defecto"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "un error"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 2,
+            "enunciado": "La prueba de regresión debe realizarse:",
+            "puntos": 1,
+            "contenido_adicional_html": "<ul><li>v) cada semana</li><li>w) después de que el software ha cambiado</li><li>x) tan a menudo como sea posible</li><li>y) cuando el entorno ha cambiado</li><li>z) cuando el gerente del proyecto lo indica</li></ul>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "cada semana"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "después de que el software ha cambiado"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "tan frecuentemente como sea posible"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "cuando el entorno ha cambiado"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "cuando el jefe de proyecto lo indique"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 3,
+            "enunciado": "El estándar de documentación de plan de pruebas IEEE 829 contiene todo lo siguiente excepto:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "elementos de prueba"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "entregables de prueba"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "tareas de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "entorno de prueba"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "especificación de prueba"
+                }
+            ],
+            "respuesta_correcta": "e"
+        },
+        {
+            "id": 4,
+            "enunciado": "Las pruebas deben detenerse cuando:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "todas las pruebas planificadas se hayan ejecutado"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "se haya agotado el tiempo"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "todos los defectos se hayan corregido correctamente"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "tanto a) como c)"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "depende de los riesgos para el sistema que se está probando"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 5,
+            "enunciado": "Los números de orden en un sistema de control de inventario pueden variar entre 10000 y 99999, inclusive. ¿Cuál de las siguientes entradas podría ser el resultado de diseñar pruebas solo para clases de equivalencia válidas y límites válidos?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "1000, 5000, 99999"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "9999, 50000, 100000"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "10000, 50000, 99999"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "10000, 99999"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "9999, 10000, 50000, 99999, 10000"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 6,
+            "enunciado": "Considera las siguientes afirmaciones sobre el diseño temprano de pruebas:",
+            "puntos": 1,
+            "contenido_adicional_html": "<ul><li>i. el diseño temprano de pruebas puede prevenir la multiplicación de fallos</li><li>ii. los fallos encontrados durante el diseño temprano de pruebas son más caros de corregir</li><li>iii. el diseño temprano de pruebas puede encontrar fallos</li><li>iv. el diseño temprano de pruebas puede provocar cambios en los requisitos</li><li>v. el diseño temprano de pruebas requiere más esfuerzo</li></ul>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "i, iii y iv son verdaderas. ii y v son falsas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "iii es verdadera, i, ii, iv y v son falsas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "iii y iv son verdaderas. i, ii y v son falsas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "i, iii, iv y v son verdaderas, ii es falsa"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "i y iii son verdaderas, ii, iv y v son falsas"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 7,
+            "enunciado": "Las pruebas no funcionales del sistema incluyen:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "pruebas para ver dónde el sistema no funciona correctamente"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "pruebas de atributos de calidad del sistema, incluyendo rendimiento y usabilidad"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "pruebas de una característica del sistema utilizando solo el software requerido para esa acción"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "pruebas de una característica del sistema utilizando solo el software requerido para esa función"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "pruebas de funciones que no deberían existir"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 8,
+            "enunciado": "Cuál de las siguientes opciones NO es parte de la gestión de configuración:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "contabilidad de estado de los elementos de configuración"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "auditoría de conformidad con ISO9001"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "identificación de versiones de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "registro de cambios en la documentación a lo largo del tiempo"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "acceso controlado a la biblioteca"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 9,
+            "enunciado": "Cuál es el propósito principal de la estrategia de integración para las pruebas de integración en pequeño:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "asegurarse de que todos los módulos pequeños se prueben adecuadamente"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "asegurarse de que el sistema se conecta a otros sistemas y redes"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "especificar qué módulos combinar, cuándo y cuántos a la vez"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "asegurarse de que las pruebas de integración puedan ser realizadas por un equipo pequeño"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "especificar cómo se debe dividir el software en módulos"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 10,
+            "enunciado": "Cuál es el propósito de los criterios de finalización de las pruebas en un plan de pruebas:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "saber cuándo una prueba específica ha terminado su ejecución"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "asegurarse de que la especificación del caso de prueba esté completa"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "establecer los criterios utilizados para generar entradas de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "saber cuándo se ha completado la planificación de pruebas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "planificar cuándo detener las pruebas"
+                }
+            ],
+            "respuesta_correcta": "e"
+        },
+        {
+            "id": 11,
+            "enunciado": "Considera las siguientes afirmaciones:",
+            "puntos": 1,
+            "contenido_adicional_html": "<ul><li>i. un incidente puede cerrarse sin ser corregido</li><li>ii. los incidentes no pueden ser reportados contra la documentación</li><li>iii. la etapa final del seguimiento de incidentes es la corrección</li><li>iv. el registro de incidentes no incluye información sobre entornos de prueba</li><li>v. los incidentes deben ser reportados cuando alguien que no sea el autor del software realiza</li></ul>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "ii y v son verdaderas, i, iii y iv son falsas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "i y v son verdaderas, ii, iii y iv son falsas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "i, iv y v son verdaderas, ii y iii son falsas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "i y ii son verdaderas, iii, iv y v son falsas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "i es verdadera, ii, iii, iv y v son falsas"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 12,
+            "enunciado": "Dado el siguiente código, ¿cuál es verdadero acerca del número mínimo de casos de prueba requeridos para una cobertura total de declaraciones y ramas?",
+            "puntos": 1,
+            "contenido_adicional_html": "<code>Read P Read Q IF P+Q &gt; 100 THEN Print “Large” ENDIF If P &gt; 50 THEN Print “P Large” ENDIF</code>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 2 para cobertura de ramas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 1 para cobertura de ramas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 2 para cobertura de ramas"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 13,
+            "enunciado": "Dado lo siguiente:",
+            "puntos": 1,
+            "contenido_adicional_html": "<code>Switch PC on Start “outlook” IF outlook appears THEN Send an email Close outlook</code>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 1 para cobertura de ramas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 2 para cobertura de ramas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 2 para cobertura de ramas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 3 para cobertura de ramas"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 14,
+            "enunciado": "Dado el siguiente código, ¿cuál es verdadero?",
+            "puntos": 1,
+            "contenido_adicional_html": "<code>IF A &gt; B THEN C = A – B ELSE C = A + B ENDIF Read D IF C = D THEN Print “Error” ENDIF</code>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "1 prueba para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 2 para cobertura de ramas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "2 pruebas para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "3 pruebas para cobertura de declaraciones, 3 para cobertura de ramas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "3 pruebas para cobertura de declaraciones, 2 para cobertura de ramas"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 15,
+            "enunciado": "Considera lo siguiente:",
+            "puntos": 1,
+            "contenido_adicional_html": "<code>Recoge y lee el periódico Mira lo que hay en la televisión Si hay un programa que te interesa ver, enciende la televisión y mira el programa De lo contrario, continúa leyendo el periódico Si hay un crucigrama en el periódico, intenta completarlo</code>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "SC = 1 y DC = 1"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "SC = 1 y DC = 2"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "SC = 1 y DC = 3"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "SC = 2 y DC = 2"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "SC = 2 y DC = 3"
+                }
+            ],
+            "respuesta_correcta": "e"
+        },
+        {
+            "id": 16,
+            "enunciado": "El lugar para comenzar si quieres una nueva herramienta de prueba es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Asistir a una exposición de herramientas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Invitar a un proveedor para dar una demostración"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Analizar tus necesidades y requisitos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Descubrir cuál sería tu presupuesto para la herramienta"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Buscar en internet"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 17,
+            "enunciado": "Cuando se compra una nueva herramienta de prueba, debería ser utilizada primero por:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Un pequeño equipo para establecer la mejor manera de usar la herramienta"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Todos los que eventualmente puedan tener algún uso para la herramienta"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "El equipo de pruebas independiente"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los gerentes para ver en qué proyectos debería usarse la herramienta"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "El contratista del proveedor para escribir los scripts iniciales"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 18,
+            "enunciado": "¿Qué NO puede encontrar el análisis estático?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "El uso de una variable antes de que haya sido definida"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Código inalcanzable ('muerto')"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Si el valor almacenado en una variable es correcto"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "La redefinición de una variable antes de que haya sido utilizada"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Violaciones de límites de matriz"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 19,
+            "enunciado": "¿Cuál de los siguientes NO es una técnica de caja negra?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Partition de equivalencia"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de transición de estado"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "LCSAJ"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de sintaxis"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Análisis de valores límite"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 20,
+            "enunciado": "La prueba beta es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Realizada por los clientes en su propio sitio"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Realizada por los clientes en el sitio del desarrollador de software"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Realizada por un equipo de pruebas independiente"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Útil para probar software personalizado"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Realizada tan pronto como sea posible en el ciclo de vida"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 21,
+            "enunciado": "Dado los siguientes tipos de herramientas, ¿cuáles herramientas típicamente usarían los desarrolladores y cuáles usaría un equipo de prueba independiente?",
+            "puntos": 1,
+            "contenido_adicional_html": "<ul><li>i. análisis estático</li><li>ii. pruebas de rendimiento</li><li>iii. gestión de pruebas</li><li>iv. análisis dinámico</li><li>v. ejecución de pruebas</li><li>vi. preparación de datos de prueba</li></ul>            ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "los desarrolladores usarían típicamente i, iv y vi; el equipo de prueba ii, iii y v"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "los desarrolladores usarían típicamente i y iv; el equipo de prueba ii, iii, v y vi"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "los desarrolladores usarían típicamente i, ii, iii y iv; el equipo de prueba v y vi"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "los desarrolladores usarían típicamente ii, iv y vi; el equipo de prueba i, ii y v"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "los desarrolladores usarían típicamente i, iii, iv y v; el equipo de prueba ii y vi"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 22,
+            "enunciado": "El enfoque principal de las pruebas de aceptación es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "encontrar defectos en el sistema"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "asegurarse de que el sistema sea aceptable para todos los usuarios"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "probar el sistema con otros sistemas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "probar desde una perspectiva comercial"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "realizar pruebas por un equipo de prueba independiente"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 23,
+            "enunciado": "¿Cuál de las siguientes afirmaciones sobre la norma de pruebas de componentes es falsa?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "las técnicas de diseño de caja negra tienen todas una técnica de medición asociada"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "las técnicas de diseño de caja blanca tienen todas una técnica de medición asociada"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "la complejidad ciclomática no es una técnica de medición de pruebas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "las técnicas de medición de caja negra tienen todas una técnica de diseño de pruebas asociada"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "las técnicas de medición de caja blanca tienen todas una técnica de diseño de pruebas asociada"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 24,
+            "enunciado": "¿Cuál de las siguientes afirmaciones NO es verdadera?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "la inspección es el proceso de revisión más formal"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "las inspecciones deben ser lideradas por un líder capacitado"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "los gerentes pueden realizar inspecciones en documentos de gestión"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "la inspección es apropiada incluso cuando no hay documentos escritos"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "la inspección compara documentos con documentos predecesores (fuente)"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 25,
+            "enunciado": "Una herramienta típica de ejecución de pruebas comerciales podría hacer todo lo siguiente EXCEPTO:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "generar salidas esperadas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "reproducir entradas según un guión programado"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "comparar resultados esperados con resultados reales"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "grabar entradas de prueba"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "leer valores de prueba desde un archivo de datos"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 26,
+            "enunciado": "La diferencia entre la repetición de pruebas y las pruebas de regresión es",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "la repetición de pruebas es volver a ejecutar una prueba; las pruebas de regresión buscan efectos secundarios inesperados"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "la repetición de pruebas busca efectos secundarios inesperados; las pruebas de regresión son la repetición de esas pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "la repetición de pruebas se realiza después de corregir fallos; las pruebas de regresión se realizan antes"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "la repetición de pruebas utiliza entornos diferentes, las pruebas de regresión utilizan el mismo entorno"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "la repetición de pruebas es realizada por desarrolladores, las pruebas de regresión son realizadas por probadores independientes"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 27,
+            "enunciado": "Los resultados esperados son:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "solo importantes en las pruebas del sistema"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "solo se utilizan en las pruebas de componentes"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "nunca se especifican de antemano"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "son más útiles cuando se especifican de antemano"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "se derivan del código"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 28,
+            "enunciado": "Los gerentes de pruebas no deben:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "informar sobre desviaciones del plan del proyecto"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "firmar la liberación del sistema para su lanzamiento"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "reubicar recursos para cumplir con los planes originales"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "levantar incidentes sobre fallos que han encontrado"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "proporcionar información para el análisis de riesgos y la mejora de la calidad"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 29,
+            "enunciado": "El código inalcanzable se encontraría mejor usando:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "revisiones de código"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "inspecciones de código"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "una herramienta de cobertura"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "una herramienta de gestión de pruebas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "una herramienta de análisis estático"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 30,
+            "enunciado": "Una herramienta que admite trazabilidad, registro de incidentes o programación de pruebas se llama:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "una herramienta de análisis dinámico"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "una herramienta de ejecución de pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "una herramienta de depuración"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "una herramienta de gestión de pruebas"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "una herramienta de gestión de configuración"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 31,
+            "enunciado": "¿Qué información no debe incluirse en un informe de incidente de prueba?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "cómo solucionar el fallo"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "cómo reproducir el fallo"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "detalles del entorno de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "gravedad, prioridad"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "los resultados reales y esperados"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 32,
+            "enunciado": "¿Qué expresión se ajusta mejor a las siguientes características o procesos de revisión:",
+            "puntos": 1,
+            "contenido_adicional_html": "<ul><li>1. dirigido por el autor</li><li>2. no documentado</li><li>3. sin participación de la gerencia</li><li>4. dirigido por un moderador o líder capacitado</li><li>5. utiliza criterios de entrada y salida</li><li>s) inspección</li><li>t) revisión entre pares</li><li>u) revisión informal</li><li>v) revisión detallada</li></ul>      ",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "s = 4, t = 3, u = 2 y 5, v = 1"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "s = 4 y 5, t = 3, u = 2, v = 1"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "s = 1 y 5, t = 3, u = 2, v = 4"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "s = 5, t = 4, u = 3, v = 1 y 2"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "s = 4 y 5, t = 1, u = 2, v = 3"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 33,
+            "enunciado": "¿Cuál de las siguientes opciones NO forma parte de las pruebas del sistema?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "pruebas basadas en procesos comerciales"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "pruebas de rendimiento, carga y estrés"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "pruebas basadas en requisitos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "pruebas de usabilidad"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "pruebas de integración de arriba hacia abajo"
+                }
+            ],
+            "respuesta_correcta": "e"
+        },
+        {
+            "id": 34,
+            "enunciado": "La afirmación falsa sobre resultados esperados es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "los resultados esperados están definidos por el comportamiento del software"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "los resultados esperados se derivan de una especificación, no del código"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "los resultados esperados incluyen salidas a una pantalla y cambios en archivos y bases de datos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "los resultados esperados deben preverse antes de ejecutar una prueba"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "los resultados esperados pueden incluir restricciones de tiempo, como los tiempos de respuesta"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 35,
+            "enunciado": "La norma que proporciona definiciones de términos de prueba es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "ISO/IEC 12207"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "BS7925-1"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "BS7925-2"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "ANSI/IEEE 829"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "ANSI/IEEE 729"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 36,
+            "enunciado": "El costo de corregir un fallo:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "no es importante"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "aumenta a medida que llevamos el producto hacia el uso en vivo"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "disminuye a medida que llevamos el producto hacia el uso en vivo"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "es más caro si se encuentra en los requisitos que en el diseño funcional"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "nunca se puede determinar"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 37,
+            "enunciado": "¿Cuál de los siguientes elementos NO se incluye en el documento del Plan de Pruebas según la Norma de Documentación de Pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Elementos de prueba (es decir, versiones de software)"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Lo que no se va a probar"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Entornos de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Planes de calidad"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Calendarios y plazos"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 38,
+            "enunciado": "¿Podrían considerarse las revisiones o inspecciones como parte de las pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "No, porque se aplican a la documentación de desarrollo"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "No, porque normalmente se aplican antes de las pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "No, porque no se aplican a la documentación de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Sí, porque ambos ayudan a detectar fallos y mejorar la calidad"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Sí, porque las pruebas incluyen todas las actividades no constructivas"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 39,
+            "enunciado": "¿Cuál de las siguientes opciones NO es parte de las pruebas de rendimiento?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Medir el tiempo de respuesta"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Medir las tasas de transacción"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de recuperación"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Simular muchos usuarios"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "Generar muchas transacciones"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 40,
+            "enunciado": "La suposición de errores es mejor utilizada",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "como enfoque inicial para derivar casos de prueba"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "después de que se hayan aplicado técnicas más formales"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "por probadores inexpertos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "después de que el sistema ha entrado en producción"
+                },
+                {
+                    "letra": "e",
+                    "descripcion": "solo por usuarios finales"
+                }
+            ],
+            "respuesta_correcta": "b"
+        }
+    ]
+}
