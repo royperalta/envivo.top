@@ -1,0 +1,1020 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "Es una prueba injusta realizar pruebas de estrés al mismo tiempo que se realizan pruebas de carga.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Verdadero"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Falso"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 2,
+            "enunciado": "Las pruebas de mensajes de error caen bajo la categoría de pruebas de __________.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas Incrementales"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de Hilos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de Documentación"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de Estrés"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 3,
+            "enunciado": "El término 'defecto' está relacionado con el término 'fallo' porque un 'fallo' es un defecto que aún no ha sido identificado.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Verdadero"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Falso"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 4,
+            "enunciado": "¿Qué cualidades debe poseer un individuo para probar efectivamente una aplicación de software?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Buena habilidad de comunicación"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Buena suposición de errores"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Buena habilidad analítica"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Todas las anteriores"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 5,
+            "enunciado": "Los defectos son menos costosos en qué etapa del ciclo de desarrollo.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Análisis y Diseño"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Construcción"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Requisitos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Implementación"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 6,
+            "enunciado": "QC es",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Actividad de construcción de fase"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Actividad intermedia"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Actividad al final de la fase"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Actividad de diseño"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 7,
+            "enunciado": "________ es monitorear defectos desde el momento de su registro hasta que se determine una resolución satisfactoria.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Medición de calidad"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Medición de defectos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Seguimiento de defectos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Ninguna de las anteriores"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 8,
+            "enunciado": "La causa más común de defectos es",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Falla al estimar"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Falla al evaluar riesgos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Requisitos ambiguos o incompletos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Comunicación débil"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 9,
+            "enunciado": "Las actividades de verificación durante las etapas de diseño son",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Revisión e Inspección"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Inspección y Pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Revisión y Pruebas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Revisión, Inspección y Pruebas"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 10,
+            "enunciado": "La decisión de detener las pruebas debe basarse en",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Uso exitoso de metodologías de diseño de casos de prueba específicos"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Un porcentaje de cobertura para cada categoría de cobertura"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "La tasa de detección de errores cae por debajo de un umbral especificado"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Todas las anteriores"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 11,
+            "enunciado": "La prueba que se realiza sin un diseño de caso de prueba reconocido es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Falla"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba Ad Hoc"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba Exhaustiva"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Caso de Prueba Vacío"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 12,
+            "enunciado": "Una técnica de diseño de casos de prueba para un componente en el que los casos de prueba están diseñados para ejecutar instrucciones se llama:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Transición de Estado"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba Estática"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba de Transición"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Instrucción"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 13,
+            "enunciado": "Esta prueba es un mecanismo que simula problemas en el entorno original para que se pueda probar un entorno de procesamiento alternativo.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Desastre"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba Funcional"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba de Regresión"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Cumplimiento"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 14,
+            "enunciado": "Los informes de estado en Test Director se pueden generar mediante",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Visor de Documentos"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Generador de Documentos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Seguimiento de Documentos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Ninguna de las anteriores"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 15,
+            "enunciado": "Las siguientes cinco tareas son necesarias para desarrollar, utilizar y mantener scripts de prueba.",
+            "puntos": 1,
+            "contenido_adicional_html": "<p>Unit scripting<br>Pseudo concurrency scripting<br>Integration scripting<br>Regression scripting<br>Stress/Performance scripting</p>",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "1, 2 y 3"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "2 y 4"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "1, 2 y 5"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "1, 2, 3, 4 y 5"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 16,
+            "enunciado": "Prueba donde el sistema se somete a un gran número de ideas.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Sistema"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba de Volumen"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba Estadística"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Instrucción"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 17,
+            "enunciado": "Prueba de integración donde no se realiza ninguna prueba incremental antes de que todos los componentes del sistema se combinen para formar el sistema.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Sistema"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba de Componente"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba Incremental"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Big Bang"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 18,
+            "enunciado": "La prueba de recuperación tiene como objetivo verificar la capacidad del sistema para recuperarse de diferentes grados de falla.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Verdadero"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Falso"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 19,
+            "enunciado": "¿Qué métodos de prueba utilizan los usuarios finales que prueban realmente el software antes de usarlo?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas Alfa y Beta"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de Caja Blanca"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de Caja Negra"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de Ensayo y Error"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 20,
+            "enunciado": "Las pruebas intentan violar aquellos procedimientos, que deberían probar la adecuación de los procedimientos de seguridad.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de Desastre"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba Funcional"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba de Regresión"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de Cumplimiento"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 21,
+            "enunciado": "¿Cuál de los siguientes NO es un estándar relacionado con pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "IEEE829"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "IEEE610"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "BS7925-1"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "BS7925-2"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 22,
+            "enunciado": "¿Cuál de los siguientes es el estándar de prueba de componentes?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "IEEE 829"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "IEEE 610"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "BS7925-1"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "BS7925-2"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 23,
+            "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Los fallos en las especificaciones del programa son los más costosos de corregir."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Los fallos en el código son los más costosos de corregir."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los fallos en los requisitos son los más costosos de corregir."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los fallos en los diseños son los más costosos de corregir."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 24,
+            "enunciado": "¿Cuál de los siguientes NO es una estrategia de integración?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Basada en el diseño"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Big-bang"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Bottom-up"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Top-down"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 25,
+            "enunciado": "¿Cuál de los siguientes es una técnica de diseño de caja negra?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de declaración"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Partitioning de equivalencia"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Suposición de errores"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de usabilidad"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 26,
+            "enunciado": "Un programa con una complejidad ciclomática alta es casi seguro que será:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Grande"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pequeño"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Difícil de escribir"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Difícil de probar"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 27,
+            "enunciado": "¿Cuál de las siguientes es una prueba estática?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Inspección de código"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Análisis de cobertura"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Evaluación de usabilidad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de instalación"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 28,
+            "enunciado": "¿Cuál de los siguientes es el que no encaja?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Caja blanca"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Caja de cristal"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Estructural"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Funcional"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 29,
+            "enunciado": "Un programa valida un campo numérico de la siguiente manera:",
+            "puntos": 1,
+            "contenido_adicional_html": "<p>Los valores menores que 10 son rechazados, los valores entre 10 y 21 son aceptados, los valores mayores o iguales a 22 son rechazados;</p>",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "10, 11, 21"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "3, 20, 21"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "3, 10, 22"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "10, 21, 22"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 30,
+            "enunciado": "Usando las mismas especificaciones que en la pregunta 29, ¿cuál de las siguientes opciones cubre la MAYOR cantidad de valores límite?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "9, 10, 11, 22"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "9, 10, 21, 22"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "10, 11, 21, 22"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "10, 11, 20, 21"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 31,
+            "enunciado": "¿Cuál de las siguientes NO es un objetivo de prueba razonable?",
+            "puntos": 1,
+            "contenido_adicional_html": "<p>Descarga más ejemplos de exámenes en - istqbExamCertification.com</p>",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Encontrar fallos en el software"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Demostrar que el software no tiene fallos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Dar confianza en el software"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Encontrar problemas de rendimiento"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 32,
+            "enunciado": "¿Qué expresión coincide mejor con las siguientes características de los procesos de revisión?:\n1. Liderado por el autor\n2. No documentado\n3. Sin participación de la gerencia\n4. Liderado por un moderador o líder\n5. Utiliza criterios de entrada y salida",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "s = 4 y 5, t = 3, u = 2, v = 1"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "s = 4, t = 3, u = 2 y 5, v = 1"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "s = 1 y 5, t = 3, u = 2, v = 4"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "s = 4 y 5, t = 1, u= 2, v = 3"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 33,
+            "enunciado": "¿Cuál de los siguientes NO es parte de las pruebas de sistema?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas basadas en procesos de negocio"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de rendimiento, carga y estrés"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de usabilidad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de integración de arriba hacia abajo"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 34,
+            "enunciado": "¿Cuál afirmación sobre los resultados esperados es FALSA?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Los resultados esperados están definidos por el comportamiento del software"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Los resultados esperados se derivan de una especificación, no del código"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los resultados esperados deben predecirse antes de ejecutar una prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los resultados esperados pueden incluir restricciones de tiempo, como tiempos de respuesta"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 35,
+            "enunciado": "El estándar que proporciona definiciones de términos de prueba es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "ISO/IEC 12207"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "BS 7925-1"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "ANSI/IEEE 829"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "ANSI/IEEE 729"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 36,
+            "enunciado": "El costo de corregir un fallo:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "No es importante"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Aumenta cuanto más tarde se encuentra un fallo"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Disminuye cuanto más tarde se encuentra un fallo"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Nunca se puede determinar"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 37,
+            "enunciado": "¿Qué NO está incluido en el documento del Plan de Pruebas del Estándar de Documentación de Pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Qué no se va a probar"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Propiedades del entorno de pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Planes de calidad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Calendarios y plazos"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 38,
+            "enunciado": "¿Podrían las revisiones o inspecciones considerarse parte de las pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "No, porque se aplican a la documentación de desarrollo"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "No, porque normalmente se aplican antes de las pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Sí, porque ambas ayudan a detectar fallos y mejorar la calidad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Sí, porque las pruebas incluyen todas las actividades no constructivas"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 39,
+            "enunciado": "¿Cuál de los siguientes NO es parte de las pruebas de rendimiento?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Medir los tiempos de respuesta"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba de recuperación"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Simular muchos usuarios"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Generar muchas transacciones"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 40,
+            "enunciado": "Adivinar errores es mejor usarlo:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Después de aplicar técnicas más formales"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Como el primer enfoque para derivar casos de prueba"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Por probadores inexpertos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Después de que el sistema haya sido puesto en producción"
+                }
+            ],
+            "respuesta_correcta": "a"
+        }
+    ]
+}
