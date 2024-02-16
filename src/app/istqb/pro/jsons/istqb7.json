@@ -1,0 +1,967 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "___________ La prueba será realizada por las personas en las ubicaciones propias del cliente (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba Alfa"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de Campo"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de Rendimiento"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de Sistema"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 2,
+            "enunciado": "La prueba de sistema debe investigar (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Solo requisitos no funcionales, no requisitos funcionales"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Solo requisitos funcionales, no requisitos no funcionales"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Requisitos no funcionales y requisitos funcionales"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Requisitos no funcionales o requisitos funcionales"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 3,
+            "enunciado": "Cuál es la prueba no funcional (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba de Rendimiento"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba Unitaria"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de Regresión"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de Cordura"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 4,
+            "enunciado": "¿Quién es responsable de documentar todos los problemas, problemas y puntos abiertos que se identificaron durante la reunión de revisión? (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Moderador"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Escriba"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Revisores"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Autor"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 5,
+            "enunciado": "¿Cuál es el objetivo principal de la revisión informal? (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Forma económica de obtener algún beneficio"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Encontrar defectos"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Aprender, adquirir comprensión, efecto de encontrar"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Discutir, tomar decisiones, resolver problemas técnicos"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 6,
+            "enunciado": "El propósito de la técnica de diseño de pruebas es (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Identificar solo condiciones de prueba, no identificar casos de prueba"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "No identificar condiciones de prueba, identificar solo casos de prueba"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Identificar condiciones de prueba e identificar casos de prueba"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Identificar condiciones de prueba o identificar casos de prueba"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 7,
+            "enunciado": "La técnica ___________ se puede utilizar para lograr cobertura de entrada y salida (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Análisis de valores límite"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Partitioning de equivalencia"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de tabla de decisiones"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de transición de estados"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 8,
+            "enunciado": "Los casos de uso se pueden realizar para probar (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba de rendimiento"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba Unitaria"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Escenarios de negocio"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba Estática"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 9,
+            "enunciado": "La prueba de ________________ se realiza en el sitio de la organización desarrolladora (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba Unitaria"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de Regresión"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba Alfa"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de Integración"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 10,
+            "enunciado": "El propósito de los criterios de salida es (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Definir cuándo detener las pruebas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Fin del nivel de prueba"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Cuando un conjunto de pruebas ha alcanzado una condición previa específica"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Todas las anteriores"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 11,
+            "enunciado": "Cuál no es un riesgo del proyecto (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Problemas de proveedores"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Factores organizacionales"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Problemas técnicos"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Software propenso a errores entregado"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 12,
+            "enunciado": "Las características de un software deficiente son (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Solo riesgos del proyecto"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Solo riesgos del producto"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Riesgos del proyecto y riesgos del producto"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Riesgos del proyecto o riesgos del producto"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 13,
+            "enunciado": "________ y ________ se utilizan dentro de los bancos de trabajo individuales para producir los productos de salida correctos. (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Herramientas y técnicas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Procedimientos y estándares"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Procesos y revisiones"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Revisiones y actualizaciones"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 14,
+            "enunciado": "El papel del ingeniero de software en la selección de herramientas es (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Identificar, evaluar y clasificar herramientas, y recomendar herramientas a la dirección"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Determinar qué tipo de herramienta se necesita, luego encontrarla y comprarla"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Iniciar la búsqueda de herramientas y presentar un caso a la dirección"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Identificar, evaluar y seleccionar las herramientas"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 15,
+            "enunciado": "Un _____ es el método paso a paso seguido para garantizar que se cumplan los estándares (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "SDLC"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Plan del proyecto"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Política"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Procedimiento"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 16,
+            "enunciado": "Cuál de los siguientes es el estándar para la calidad del producto de software (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "ISO 1926"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "ISO 829"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "ISO 1012"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "ISO 1028"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 17,
+            "enunciado": "Cuál no es el objetivo de la prueba (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Encontrar defectos"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Ganar confianza sobre el nivel de calidad y proporcionar información"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prevenir defectos"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Depurar defectos"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 18,
+            "enunciado": "Ciclo de vida de un error (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Abierto, Asignado, Corregido, Cerrado"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Abierto, Corregido, Asignado, Cerrado"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Asignado, Abierto, Cerrado, Corregido"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Asignado, Abierto, Corregido, Cerrado"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 19,
+            "enunciado": "Cuál no es una característica del software (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Fiabilidad"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Usabilidad"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Escalabilidad"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Mantenibilidad"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 20,
+            "enunciado": "Cuál no es un principio de prueba (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Pruebas tempranas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Agrupamiento de defectos"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Paradoja del pesticida"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba exhaustiva"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 21,
+            "enunciado": "'X' ha dado datos sobre la edad de una persona, que debe estar entre 1 y 99. Usando BVA, ¿cuál es el adecuado? (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "0,1,2,99"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "1, 99, 100, 98"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "0, 1, 99, 100"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "-1, 0, 1, 99"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 22,
+            "enunciado": "Cuál no es un proceso fundamental de prueba (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Planificación y control"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Actividades de cierre de prueba"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Análisis y diseño"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Ninguno"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 23,
+            "enunciado": "Cuál no es una prueba de componente (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Verificar las fugas de memoria"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Verificar la robustez"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Verificar la cobertura de ramas"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Verificar las tablas de decisión"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 24,
+            "enunciado": "PDCA es conocido como (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Planificar, Hacer, Verificar, Actuar"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Planificar, Hacer, Corregir, Actuar"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Planificar, Depurar, Verificar, Actuar"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Planificar, Hacer, Verificar, Aceptar"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 25,
+            "enunciado": "Las pruebas de contrato y regulación forman parte de (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Pruebas de sistema"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Pruebas de aceptación"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Pruebas de integración"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Pruebas de humo"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 26,
+            "enunciado": "Cuál no es una técnica de prueba de caja negra (1M)",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Partitioning de equivalencia"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Tablas de decisión"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Diagramas de transacción"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de decisión"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 27,
+            "enunciado": "Arc testing se conoce como (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba de ramas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba ágil"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba beta"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba ad-hoc"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 28,
+            "enunciado": "Un modelo de software que no se puede usar en pruebas funcionales (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Modelo de flujo de proceso"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Modelo de transacción de estado"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Modelo de estructura de menú"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Modelo de especificación en lenguaje claro"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 29,
+            "enunciado": "Encuentra la discrepancia (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Herramientas de preparación de datos de prueba: Manipular bases de datos"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Herramientas de diseño de pruebas: Generar entradas de prueba"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Herramientas de gestión de requisitos: Permite que las pruebas individuales sean rastreables"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Herramientas de gestión de configuración: Verificar la consistencia"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 30,
+            "enunciado": "El principio de complejidad ciclomática, considerando L como arcos o enlaces, N como nodos, P como caminos independientes (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "L-N +2P"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "N-L +2P"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "N-L +P"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "N-L +P"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 31,
+            "enunciado": "FPA se utiliza para (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Medir los requisitos funcionales del proyecto"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Medir el tamaño de la funcionalidad de un sistema de información"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Medir el esfuerzo de pruebas funcionales"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Medir el flujo funcional"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 32,
+            "enunciado": "Cuál no es un oráculo de prueba (2M)",
+            "puntos": 2,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "El sistema existente (para un punto de referencia)"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "El código"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Conocimiento individual"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Manual de usuario"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 33,
+            "enunciado": "Encuentra el flujo correcto de las fases de una revisión formal (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Planificación, Reunión de revisión, Rework, Inicio"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Planificación, Preparación individual, Inicio, Rework"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Planificación, Reunión de revisión, Rework, Seguimiento"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Planificación, Preparación individual, Seguimiento, Inicio"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 34,
+            "enunciado": "La prueba estocástica utilizando información estadística o perfiles operativos utiliza el siguiente método (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Enfoque de prueba heurística"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Enfoque de prueba metodológica"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Enfoque de prueba basado en modelos"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Enfoque de prueba conforme a procesos o estándares"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 35,
+            "enunciado": "Un proyecto que está en la fase de implementación está seis semanas retrasado en el cronograma. La fecha de entrega del producto está a cuatro meses de distancia. No se permite que el proyecto retrase la fecha de entrega o comprometa los estándares de calidad establecidos para este producto. ¿Cuál de las siguientes acciones llevaría este proyecto de vuelta al cronograma? (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Eliminar algunos de los requisitos que aún no se han implementado."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Agregar más ingenieros al proyecto para compensar el trabajo perdido."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Pedir a los desarrolladores actuales que trabajen horas extras hasta que se recupere el trabajo perdido."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Contratar más personal de aseguramiento de calidad de software."
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 36,
+            "enunciado": "Una persona ha estado dominando la reunión actual de mejora del proceso de software. ¿Qué técnicas debería utilizar el facilitador para llevar a otros miembros del equipo a la discusión? (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Confrontar a la persona y pedir que otros miembros del equipo puedan expresar sus opiniones."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Esperar a que la persona haga una pausa, reconocer la opinión de la persona y pedir la opinión de otra persona."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Cambiar el tema a un problema sobre el cual la persona no tenga una opinión fuerte."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Expresar una opinión que difiera de la opinión de la persona para animar a otros a expresar sus ideas."
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 37,
+            "enunciado": "Las versiones de mantenimiento y los centros de asistencia técnica son ejemplos de cuál de los siguientes costos de calidad? (3M)",
+            "puntos": 3,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+              {
+                "letra": "A",
+                "descripcion": "Fallo externo"
+              },
+              {
+                "letra": "B",
+                "descripcion": "Fallo interno"
+              },
+              {
+                "letra": "C",
+                "descripcion": "Evaluación"
+              },
+              {
+                "letra": "D",
+                "descripcion": "Prevención"
+              }
+            ],
+            "respuesta_correcta": "A"
+          }
+          
+    ]
+}
