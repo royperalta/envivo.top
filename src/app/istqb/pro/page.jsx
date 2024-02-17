@@ -7,6 +7,9 @@ import JSON4 from './jsons/istqb4.json'
 import JSON5 from './jsons/istqb5.json'
 import JSON6 from './jsons/istqb6.json'
 import JSON7 from './jsons/istqb7.json'
+import JSON8 from './jsons/istqb8.json'
+import JSON9 from './jsons/istqb9.json'
+import JSON10 from './jsons/istqb10.json'
 import Preguntas from './Preguntas'
 export default function Exam() {
 
@@ -22,11 +25,14 @@ export default function Exam() {
     { id: 4, json: JSON4 },
     { id: 5, json: JSON5 },
     { id: 6, json: JSON6 },
-    { id: 7, json: JSON7 }
+    { id: 7, json: JSON7 },
+    { id: 8, json: JSON8 },
+    { id: 9, json: JSON9 },
+    { id: 10, json: JSON10 }
   ]
 
   const fetchData = (number) => {
-    const jsons = [null, JSON1, JSON2, JSON3,JSON4,JSON5,JSON6,JSON7]
+    const jsons = [null, JSON1, JSON2, JSON3,JSON4,JSON5,JSON6,JSON7,JSON8,JSON9,JSON10]
     setDatos(jsons[number])
   }
 
@@ -36,7 +42,7 @@ export default function Exam() {
 
   const handleReset = (number) => {
     setDatos([]);
-    const jsons = [null, JSON1, JSON2, JSON3,JSON4,JSON5,JSON6,JSON7]
+    const jsons = [null, JSON1, JSON2, JSON3,JSON4,JSON5,JSON6,JSON7,JSON8,JSON9,JSON10]
     setDatos(jsons[number])
     setNumberExam(number)
   }

@@ -1,0 +1,1049 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Diseñar la configuración del entorno de prueba e identificar cualquier infraestructura y herramientas necesarias son parte de qué fase",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Implementación y ejecución de pruebas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Análisis y diseño de pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Evaluar los criterios de salida e informar"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Actividades de cierre de pruebas"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "enunciado": "La implementación y ejecución de pruebas tiene cuáles de las siguientes tareas principales?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i,ii,iii son verdaderas y iv es falsa"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i,,iv son verdaderas y ii es falsa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i,ii son verdaderas y iii,iv son falsas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ii,iii,iv son verdaderas y i es falsa"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "enunciado": "Un esquema de plan de pruebas contiene cuál de los siguientes elementos:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i,ii,iii son verdaderas y iv es falsa"
+        },
+        {
+          "letra": "b",
+          "descripcion": "i,iii,iv son verdaderas y ii es falsa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "ii,iii son verdaderas y i y iv son falsas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "i,ii son falsas y iii , iv son verdaderas"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "enunciado": "Uno de los campos en un formulario contiene un cuadro de texto que acepta valores numéricos en el rango de 18 a 25. Identificar la clase de equivalencia no válida",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "17"
+        },
+        {
+          "letra": "b",
+          "descripcion": "19"
+        },
+        {
+          "letra": "c",
+          "descripcion": "24"
+        },
+        {
+          "letra": "d",
+          "descripcion": "21"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "enunciado": "En un examen, un candidato debe obtener un mínimo de 24 puntos para aprobar el examen. El máximo que puede obtener es de 40 puntos. Identificar los valores de equivalencia válidos si el estudiante aprueba el examen.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "22,23,26"
+        },
+        {
+          "letra": "b",
+          "descripcion": "21,39,40"
+        },
+        {
+          "letra": "c",
+          "descripcion": "29,30,31"
+        },
+        {
+          "letra": "d",
+          "descripcion": "0,15,22"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 6,
+      "enunciado": "Cuál de las siguientes afirmaciones sobre las pruebas estáticas es falsa:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Las pruebas estáticas requieren la ejecución de pruebas a través del código"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Las pruebas estáticas incluyen la revisión en el escritorio"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Las pruebas estáticas incluyen técnicas como revisiones e inspecciones"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Las pruebas estáticas pueden proporcionar mediciones como la complejidad ciclomática"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "enunciado": "La verificación involucra cuál de los siguientes:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Ayuda a verificar que hemos construido el producto correctamente."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Ayuda a verificar que hemos construido el producto correcto."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ayuda en el desarrollo del producto"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Monitorear el desperdicio y la obsolescencia de herramientas."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "enunciado": "La Prueba de Componentes también se llama:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prueba Unitaria"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Prueba de Programa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Prueba de Módulo"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Prueba de Componente del Sistema"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "enunciado": "La Prueba de Enlace también se llama:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prueba de Integración de Componentes"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Prueba de Sistema de Componentes"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Prueba de Subsistema de Componentes"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Prueba de Mantenimiento"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "enunciado": "Cuál es el resultado esperado para cada uno de los siguientes casos de prueba?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "A - Emitir membresía, 10% de descuento, B - Emitir membresía, no ofrecer descuento. B"
+        },
+        {
+          "letra": "b",
+          "descripcion": "A - No emitir membresía, B - No ofrecer descuento. C"
+        },
+        {
+          "letra": "c",
+          "descripcion": "A - Emitir membresía, no ofrecer descuento, B - No emitir membresía."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Emitir membresía, no ofrecer descuento, B - Emitir membresía con 10% de descuento."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 11,
+      "enunciado": "Metodologías adoptadas durante la realización de pruebas de mantenimiento:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prueba de Amplitud y Prueba de Profundidad"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Retesting"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Prueba de Confirmación"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Prueba de Sanidad"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 12,
+      "enunciado": "Cuál de los siguientes es verdadero acerca de la Revisión Formal o Inspección:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Dirigido por un Moderador Entrenado (no el autor)."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Sin Preparaciones Previas a la Reunión"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Proceso Formal de Seguimiento."
+        },
+        {
+          "letra": "d",
+          "descripcion": "El objetivo principal es encontrar defectos."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 13,
+      "enunciado": "Las fases del proceso de revisión formal se mencionan a continuación, ordénelas en el orden correcto.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "i,ii,iii,iv,v,vi"
+        },
+        {
+          "letra": "b",
+          "descripcion": "vi,i,ii,iii,iv,v"
+        },
+        {
+          "letra": "c",
+          "descripcion": "i,v,iv,ii,iii,vi"
+        },
+
+
+        {
+          "letra": "d",
+          "descripcion": "i,ii,iii,v,iv,vi"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 14,
+      "enunciado": "Considere el siguiente diagrama de transición de estado de un secador de pelo de dos velocidades, que se opera presionando un botón. La primera presión del botón lo enciende en Velocidad 1, la segunda presión en Velocidad 2 y la tercera presión lo apaga. ¿Cuál de las siguientes series de transiciones de estado proporcionará una cobertura de 0-switch?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "A,C,B"
+        },
+        {
+          "letra": "b",
+          "descripcion": "B,C,A"
+        },
+        {
+          "letra": "c",
+          "descripcion": "A,B,C"
+        },
+        {
+          "letra": "d",
+          "descripcion": "C,B,A"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },   
+    {
+      "id": 15,
+      "enunciado": "Las técnicas de Caja Blanca también se llaman:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Pruebas Estructurales"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Pruebas Basadas en el Diseño"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Técnica de Adivinanza de Errores"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Técnica Basada en la Experiencia"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 16,
+      "enunciado": "¿Qué es una partición de equivalencia (también conocida como una clase de equivalencia)?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Un conjunto de casos de prueba para probar clases de objetos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Un rango de valores de entrada o salida tal que solo un valor en el rango se convierte en un caso de prueba."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Un rango de valores de entrada o salida tal que cada valor en el rango se convierte en un caso de prueba."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Un rango de valores de entrada o salida tal que cada décimo valor en el rango se convierte en un caso de prueba."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 17,
+      "enunciado": "Los Casos de Prueba Derivados de casos de uso",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Son más útiles para descubrir defectos en los flujos de procesos durante el uso del sistema en el mundo real."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Son más útiles para descubrir defectos en los flujos de procesos durante el uso de prueba del sistema."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Son más útiles para cubrir los defectos en los flujos de procesos durante el uso del sistema en el mundo real."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Son más útiles para cubrir los defectos en el nivel de Integración."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 18,
+      "enunciado": "Las pruebas exhaustivas son",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Es impráctico pero posible."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Es prácticamente posible."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Es impráctico e imposible."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Siempre es posible."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 19,
+      "enunciado": "Cuál de las siguientes opciones NO es parte de la Fase de Implementación y Ejecución de Pruebas",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Crear conjuntos de pruebas a partir de los casos de prueba."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Ejecutar casos de prueba ya sea manualmente o mediante herramientas de ejecución de pruebas."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Comparar resultados reales."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Diseñar las pruebas."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 20,
+      "enunciado": "Cuál de las siguientes técnicas NO es una técnica de Caja Blanca?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Prueba de Sentencia y Cobertura."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Prueba de Decisión y Cobertura."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Cobertura de Condición."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Análisis de Valores Límite."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+
+
+      "id": 21,
+      "enunciado": "Un riesgo de proyecto incluye cuál de los siguientes:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Factores Organizacionales."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Malas características del software."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Software propenso a errores entregado."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Software que no realiza sus funciones previstas."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 22,
+      "enunciado": "En un enfoque basado en riesgos, los riesgos identificados pueden ser utilizados para:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Determinar la técnica de prueba a emplear."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Determinar la extensión de las pruebas a realizar."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Priorizar las pruebas en un intento de encontrar defectos críticos lo antes posible."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Determinar el costo del proyecto."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 23,
+      "enunciado": "Cuál de las siguientes es la tarea de un Tester?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Interactuar con el proveedor de la herramienta de prueba para identificar las mejores formas de aprovechar la herramienta de prueba en el proyecto."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Preparar y adquirir datos de prueba."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Implementar pruebas en todos los niveles de prueba, ejecutar y registrar las pruebas."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Crear las Especificaciones de Pruebas."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 24,
+      "enunciado": "La fase de Planificación de una revisión formal incluye lo siguiente:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Explicar los objetivos."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Seleccionar al personal, asignar roles."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Seguimiento."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Preparativos individuales para la reunión."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 25,
+      "enunciado": "Una persona que documenta todos los problemas, problemas y puntos abiertos que se identificaron durante una revisión formal.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Moderador."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Secretario."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Autor."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Gerente."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 26,
+      "enunciado": "Quiénes son las personas involucradas en una Revisión Formal:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Gerente, Moderador, Secretario / Registrador, Gerente Asistente."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Gerente, Moderador, Secretario / Registrador."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Moderador, Secretario / Registrador, Gerente Asistente."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Gerente, Moderador, Secretario / Registrador, Gerente Asistente."
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+        "id": 27,
+        "enunciado": "Cuál de los siguientes es una Característica Clave de la Revisión Formal:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Escenario, Simulacro, Grupo de Pares."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Preparativos previos a la reunión."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Proceso Formal de Seguimiento."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Incluye Métricas."
+          }
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "id": 28,
+        "enunciado": "Qué no puede encontrar el análisis estático?",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "El uso de una variable antes de que se haya definido."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Código inalcanzable ('muerto')."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Fugas de memoria."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Violaciones de límites de arrays."
+          }
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "id": 29,
+        "enunciado": "Los incidentes no se levantarían contra:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Requisitos."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Documentación."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Casos de prueba."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Mejoras sugeridas por los usuarios."
+          }
+        ],
+        "respuesta_correcta": "d"
+      },
+      {
+        "id": 30,
+        "enunciado": "Un tipo de Pruebas Funcionales, que investiga las funciones relacionadas con la detección de amenazas, como virus de maliciosos desde el exterior.",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Prueba de Seguridad."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Prueba de Recuperación."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Prueba de Rendimiento."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Prueba de Funcionalidad."
+          }
+        ],
+        "respuesta_correcta": "d"
+      },
+      {
+        "id": 31,
+        "enunciado": "Cuál de los siguientes no es una tarea principal de los criterios de salida?",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Verificar los registros de prueba con los criterios de salida especificados en la planificación de la prueba."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Registrar el resultado de la ejecución de las pruebas."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Evaluar si se necesitan más pruebas."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Escribir un informe resumido de pruebas para las partes interesadas."
+          }
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "id": 32,
+        "enunciado": "La prueba donde se somete al objetivo de la prueba, a cargas de trabajo variables para medir y evaluar los comportamientos de rendimiento y la capacidad del objetivo y de la prueba de seguir funcionando correctamente bajo estas diferentes cargas de trabajo.",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Prueba de Carga."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Prueba de Integración."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Prueba de Sistema."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Prueba de Usabilidad."
+          }
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "id": 33,
+        "enunciado": "La actividad de prueba que se realiza para exponer defectos en las interfaces y en la interacción entre componentes integrados es:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Prueba a Nivel de Sistema."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Prueba a Nivel de Integración."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Prueba a Nivel de Unidad."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Prueba de Componentes."
+          }
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "id": 34,
+        "enunciado": "El análisis estático se describe mejor como:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "El análisis de programas por lotes."
+          },
+          {
+            "letra": "b",
+            "descripcion": "La revisión de planes de prueba."
+          },
+          {
+            "letra": "c",
+            "descripcion": "El análisis de código de programa."
+          },
+          {
+            "letra": "d",
+            "descripcion": "El uso de pruebas de caja negra."
+          }
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "id": 35,
+        "enunciado": "Uno de los campos en un formulario contiene un cuadro de texto que acepta valores alfanuméricos. Identifica la Clase de Equivalencia Válida",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "BOOK"
+          },
+          {
+            "letra": "b",
+            "descripcion": "Book"
+          },
+          {
+            "letra": "c",
+            "descripcion": "Boo01k"
+          },
+          {
+            "letra": "d",
+            "descripcion": "book"
+          }
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "id": 36,
+        "enunciado": "Revisar la Base de Pruebas es parte de cuál fase",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Análisis y Diseño de Pruebas."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Implementación y Ejecución de Pruebas."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Actividades de Cierre de Pruebas."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Evaluación de Criterios de Salida e Informe."
+          }
+        ],
+        "respuesta_correcta": "a"
+      },
+      {
+        "id": 37,
+        "enunciado": "Reportar Discrepancias como incidentes es parte de cuál fase:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Análisis y Diseño de Pruebas."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Implementación y Ejecución de Pruebas."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Actividades de Cierre de Pruebas."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Evaluación de Criterios de Salida e Informe."
+          }
+        ],
+        "respuesta_correcta": "b"
+      },
+      {
+        "id": 38,
+        "enunciado": "Cuál de los siguientes ítems no estaría bajo Gestión de Configuración:",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Sistemas Operativos."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Documentación de Pruebas."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Datos en vivo."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Documento de Requisitos del Usuario."
+          }
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "id": 39,
+        "enunciado": "Entrega de Pruebas es parte de cuál Fase",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "Análisis y Diseño de Pruebas."
+          },
+          {
+            "letra": "b",
+            "descripcion": "Planificación y Control de Pruebas."
+          },
+          {
+            "letra": "c",
+            "descripcion": "Actividades de Cierre de Pruebas."
+          },
+          {
+            "letra": "d",
+            "descripcion": "Evaluación de Criterios de Salida e Informe."
+          }
+        ],
+        "respuesta_correcta": "c"
+      },
+      {
+        "id": 40,
+        "enunciado": "El Interruptor se apaga una vez que la temperatura cae por debajo de 18 y luego se enciende cuando la temperatura es superior a 21. Cuando la temperatura es superior a 21. Identifica los Valores de Equivalencia que pertenecen a la misma clase.",
+        "puntos": 1,
+        "contenido_adicional_html": "",
+        "imagen": "",
+        "opciones": [
+          {
+            "letra": "a",
+            "descripcion": "12, 16, 22"
+          },
+          {
+            "letra": "b",
+            "descripcion": "24, 27, 17"
+          },
+          {
+            "letra": "c",
+            "descripcion": "22, 23, 24"
+          },
+          {
+            "letra": "d",
+            "descripcion": "14, 15, 19"
+          }
+        ],
+        "respuesta_correcta": "c"
+      }   
+
+  ]
+}

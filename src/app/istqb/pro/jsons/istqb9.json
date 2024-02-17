@@ -1,0 +1,690 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Los entregables de la fase de diseño de pruebas incluyen todo lo siguiente excepto (Artefactos de prueba)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Datos de prueba"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Plan de datos de prueba"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Informe resumen de pruebas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Plan de procedimiento de prueba"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál de lo siguiente no se decide en la fase de planificación de pruebas? (Artefactos de prueba)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Cronogramas y entregables"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Hardware y software"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Criterios de entrada y salida"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Tipos de casos de prueba"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 3,
+      "enunciado": "Los defectos típicos que son más fáciles de encontrar en revisiones que en pruebas dinámicas son:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Desviaciones de estándares"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Defectos de requisitos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Defectos de diseño"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Mantenibilidad insuficiente y especificaciones de interfaz incorrectas"
+        },
+        {
+          "letra": "e",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "e"
+    },
+    {
+      "id": 4,
+      "enunciado": "Herramientas de prueba de carga (Prueba de rendimiento)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Reduce el tiempo que los probadores pasan"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Reduce los recursos utilizados (hardware)"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Mayormente utilizado en pruebas web"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 5,
+      "enunciado": "Revisiones, análisis estático y pruebas dinámicas tienen el mismo objetivo –",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Identificar defectos"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Corregir defectos"
+        },
+        {
+          "letra": "c",
+          "descripcion": "1 y 2"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Ninguno"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 6,
+      "enunciado": "Curva de tasa de llegada de defectos:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Muestra el número de defectos recién descubiertos por unidad de tiempo"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Muestra el número de defectos abiertos por unidad de tiempo"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Muestra el número total acumulado de defectos encontrados hasta este momento"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Cualquiera de estos, dependiendo de la empresa"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cuáles son los 2 componentes principales considerados en el análisis de riesgos? (Gestión de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La probabilidad de que ocurra el evento negativo"
+        },
+        {
+          "letra": "b",
+          "descripcion": "La pérdida potencial o impacto asociado con el evento"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ambos a y b"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Ni a ni b"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 8,
+      "enunciado": "Podemos lograr una cobertura de declaración completa pero aún perder errores porque:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "La falla ocurre solo si alcanzas una declaración tomando la rama VERDADERA de un IF declaración, y llegaste a la declaración con una prueba que pasó por la rama FALSA."
+        },
+        {
+          "letra": "b",
+          "descripcion": "La falla depende de la incapacidad del programa para manejar valores de datos específicos, en lugar del flujo de control del programa."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ambos A y B"
+        },
+        {
+          "letra": "d",
+          "descripcion": "No estamos obligados a probar el código que es poco probable que los clientes ejecuten."
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Quién es responsable de llevar a cabo la revisión de preparación para la prueba? (Realización de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Gerente de pruebas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Ingeniero de pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ambos A y B"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Gerente de proyecto"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Qué pasa si el proyecto no es lo suficientemente grande como para justificar pruebas extensas? (Gestión de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Utilice un análisis basado en riesgos para averiguar qué áreas deben ser probadas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Utilice una herramienta de automatización para las pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "a y b"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 11,
+      "enunciado": "¿Cuáles son las características clave en las que se debe concentrar al hacer pruebas para sitios web de todo el mundo (Ejecución de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Interacción entre páginas html"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Rendimiento en el lado del cliente"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Aspectos de seguridad"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 12,
+      "enunciado": "¿Qué se puede hacer si los requisitos cambian continuamente? (Gestión de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Trabajar con las partes interesadas del proyecto desde el principio para comprender cómo los requisitos podrían cambiar para que se puedan elaborar planes y estrategias de prueba alternativos con anticipación, si es posible."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Negociar para permitir solo nuevos requisitos de implementación fácil en el proyecto, mientras se trasladan los nuevos requisitos más difíciles a futuras versiones de la aplicación"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ambos a y b"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 13,
+      "enunciado": "La selección de casos de prueba para pruebas de regresión (Artefactos de prueba)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Requiere conocimiento sobre las correcciones de errores y cómo afectan al sistema"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Incluye el área de defectos frecuentes"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Incluye el área que ha experimentado muchos/cambios de código recientes"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 14,
+      "enunciado": "La disfunción de la medición es un problema porque:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Aunque los números que se ven parecen mejores, para lograr estos números, las personas están haciendo otros aspectos de su trabajo mucho peor."
+        },
+        {
+          "letra": "b",
+          "descripcion": "No sabemos cómo medir una variable (nuestra medición es disfuncional) y por lo tanto, no sabemos cómo interpretar el resultado."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Estás midiendo algo incorrecto y por lo tanto, llegando a conclusiones incorrectas."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores."
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 15,
+      "enunciado": "¿Qué significa 'Tener que decir NO' (proceso de planificación de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "No, el problema no son los probadores"
+        },
+        {
+          "letra": "b",
+          "descripcion": "No, el software no está listo para producción"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Ambos a & b"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ninguno de los anteriores"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },    
+
+    {
+      "id": 16,
+      "enunciado": "Según la conferencia, existen varios riesgos al gestionar el cronograma de su proyecto con un modelo de confiabilidad estadística. Estos incluyen (elija uno o más de los siguientes):",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Los probadores gastan más energía al principio del producto tratando de encontrar errores que preparándose para hacer el resto del trabajo del proyecto de manera más eficiente"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Los gerentes podrían no darse cuenta de que el esfuerzo de prueba es ineficaz, al final del proyecto, porque esperan una baja tasa de detección de errores, por lo que la baja tasa lograda no les alarma."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Puede aumentar la presión al final del proyecto sobre los probadores para que no encuentren errores, o para que no informen errores."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 17,
+      "enunciado": "Las pruebas de operaciones son (Realización de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "pruebas de cumplimiento"
+        },
+        {
+          "letra": "b",
+          "descripcion": "pruebas de desastre"
+        },
+        {
+          "letra": "c",
+          "descripcion": "verificación del cumplimiento de reglas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "pruebas funcionales"
+        },
+        {
+          "letra": "e",
+          "descripcion": "facilidad de operaciones"
+        }
+      ],
+      "respuesta_correcta": "e"
+    },
+    {
+      "id": 18,
+      "enunciado": "Herramientas como Change Man, Clear case se utilizan como (proceso de planificación de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "herramientas de automatización funcional"
+        },
+        {
+          "letra": "b",
+          "descripcion": "herramientas de prueba de rendimiento"
+        },
+        {
+          "letra": "c",
+          "descripcion": "herramientas de gestión de configuración"
+        },
+        {
+          "letra": "d",
+          "descripcion": "ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 19,
+      "enunciado": "Las consecuencias importantes de la imposibilidad de realizar pruebas completas son (Elija una o más respuestas):",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Nunca podemos estar seguros de que el programa esté libre de errores."
+        },
+        {
+          "letra": "b",
+          "descripcion": "No tenemos un punto de finalización definitivo para las pruebas, lo que facilita que algunos gerentes argumenten a favor de muy pocas pruebas."
+        },
+        {
+          "letra": "c",
+          "descripcion": "No tenemos una respuesta fácil para qué tareas de prueba siempre deben ser requeridas, porque cada tarea lleva tiempo que podría gastarse en otras tareas de alta importancia."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Todas las anteriores"
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 20,
+      "enunciado": "¿Cuál no está en secuencia en el proceso de prueba de software de 11 pasos (Rol del probador SDLC)?",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Evaluar el plan de desarrollo y el estado"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Desarrollar el plan de pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Probar el diseño de software"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Probar los requisitos de software"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 21,
+      "enunciado": "En el estudio de caso MASPAR: A. Las fallas de seguridad fueron el resultado de partes no probadas del código. B. El equipo de desarrollo logró una cobertura completa de declaraciones y ramas pero no detectó un error grave en el sistema operativo MASPAR. C. Un error en el código era tan oscuro que tenías que probar la función con casi todos los valores de entrada para encontrar sus dos fallas en casos especiales. D. Todas las anteriores.",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Verdadero"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Falso"
+        }
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 22,
+      "enunciado": "Cobertura completa de declaraciones y ramas significa:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Que has probado cada declaración en el programa."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Que has probado cada declaración y cada rama en el programa."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Que has probado cada declaración IF en el programa."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Que has probado cada combinación de valores de declaraciones IF en el programa"
+        }
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 23,
+      "enunciado": "¿Qué pasa si el proyecto no es lo suficientemente grande como para justificar pruebas extensas? (Gestión de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Utilice un análisis basado en riesgos para averiguar qué áreas deben ser probadas"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Utilice una herramienta de automatización para las pruebas"
+        },
+        {
+          "letra": "c",
+          "descripcion": "a y b"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Ninguna de las anteriores"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 24,
+      "enunciado": "La seguridad cae bajo (Realización de pruebas)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "pruebas de cumplimiento"
+        },
+        {
+          "letra": "b",
+          "descripcion": "pruebas de desastre"
+        },
+        {
+          "letra": "c",
+          "descripcion": "verificación del cumplimiento de reglas"
+        },
+        {
+          "letra": "d",
+          "descripcion": "pruebas funcionales"
+        },
+        {
+          "letra": "e",
+          "descripcion": "facilidad de operaciones"
+        }
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 25,
+      "enunciado": "¿Cuál es la mejor definición de pruebas completas:",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Has descubierto cada error en el programa."
+        },
+        {
+          "letra": "b",
+          "descripcion": "Has probado cada declaración, rama y combinación de ramas en el programa."
+        },
+        {
+          "letra": "c",
+          "descripcion": "Has completado cada prueba en el plan de pruebas."
+        },
+        {
+          "letra": "d",
+          "descripcion": "Has alcanzado la fecha de envío programada."
+        }
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 26,
+      "enunciado": "¿Cuál es el concepto de introducir un pequeño cambio en el programa y que los efectos de ese cambio aparezcan en alguna prueba? (Conceptos de prueba)",
+      "puntos": 1,
+      "contenido_adicional_html": "",
+      "imagen": "",
+      "opciones": [
+        {
+          "letra": "a",
+          "descripcion": "Revisión en el escritorio"
+        },
+        {
+          "letra": "b",
+          "descripcion": "Depuración de un programa"
+        },
+        {
+          "letra": "c",
+          "descripcion": "Un error de mutación"
+        },
+        {
+          "letra": "d",
+          "descripcion": "Prueba de rendimiento"
+        },
+        {
+          "letra": "e",
+          "descripcion": "Introducción de mutaciones"
+        }
+      ],
+      "respuesta_correcta": "e"
+    }
+
+  ]
+}
