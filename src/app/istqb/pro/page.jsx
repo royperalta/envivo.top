@@ -13,7 +13,16 @@ import JSON9 from './jsons/istqb9.json';
 import JSON10 from './jsons/istqb10.json';
 import Preguntas from './Preguntas';
 
+
+
 export default function Exam() {
+  if (process.env.NODE_ENV === 'production') {
+    axios.defaults.baseURL = 'https://envivo.top:9300'
+  } else {
+    axios.defaults.baseURL = 'http://localhost:9300'
+  }
+
+
   const [datos, setDatos] = useState([]);
   const [numberExam, setNumberExam] = useState(1);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -55,7 +64,7 @@ export default function Exam() {
 
   const handleLogin = async () => {
     try {
-      const response = await axios.post('http://localhost:9300/api/user/login', { email, password }, { withCredentials: true });
+      const response = await axios.post('/api/user/login', { email, password }, { withCredentials: true });
       if (response.status === 200) {
         setIsLoggedIn(true);
         localStorage.setItem('isLoggedIn', 'true');
@@ -72,7 +81,7 @@ export default function Exam() {
 
   const handleLogout = async () => {
     try {
-      await axios.post('http://localhost:9300/api/user/logout', {}, { withCredentials: true });
+      await axios.post('/api/user/logout', {}, { withCredentials: true });
       setIsLoggedIn(false);
       localStorage.setItem('isLoggedIn', 'false');
     } catch (error) {
