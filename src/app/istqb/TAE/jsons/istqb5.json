@@ -1,0 +1,524 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "Un campo de entrada toma el año de nacimiento entre 1900 y 2004. Los valores límite para probar este campo son",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "0, 1900, 2004, 2005"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "1900, 2004"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "1899, 1900, 2004, 2005"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "1899, 1900, 1901, 2003, 2004, 2005"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 2,
+            "enunciado": "¿Cuál de los siguientes son métodos de pruebas no funcionales?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas de sistema"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de usabilidad"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de rendimiento"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Ambos b y c"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 3,
+            "enunciado": "¿Qué herramientas estarían involucradas en la automatización de pruebas de regresión?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Probador de datos"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Probador de límites"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Captura/Reproducción"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Comparador de resultados"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 4,
+            "enunciado": "¿Cuál es la forma incorrecta de cobertura lógica?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Cobertura de instrucciones"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Cobertura de polo"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Cobertura de condiciones"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Cobertura de camino"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 5,
+            "enunciado": "¿Cuál de las siguientes características no está en la norma ISO 9126?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Funcionalidad"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Usabilidad"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Soportabilidad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Mantenibilidad"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 6,
+            "enunciado": "Para probar una función, el programador tiene que escribir un _________, que llama a la función a probar y le pasa datos de prueba.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Stub"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Driver"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Proxy"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Ninguna de las anteriores"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 7,
+            "enunciado": "La prueba de valores límite",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Es lo mismo que las pruebas de partición de equivalencia"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba las condiciones límite en, por debajo y por encima de los límites de las clases de equivalencia de entrada y salida"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba combinaciones de circunstancias de entrada"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Se utiliza en la estrategia de pruebas de caja blanca"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 8,
+            "enunciado": "Escoge la mejor definición de calidad",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "La calidad es el trabajo número uno"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Cero defectos"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Conformidad con los requisitos"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Funciona como se diseñó"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 9,
+            "enunciado": "¿Qué es el enmascaramiento de fallas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Una condición de error que oculta otra condición de error"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Crear un caso de prueba que no revele una falla"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Enmascarar una falla por parte del desarrollador"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Enmascarar una falla por parte de un probador"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 10,
+            "enunciado": "Una razón clave por la que los desarrolladores tienen dificultades para probar su propio trabajo es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Falta de documentación técnica"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Falta de herramientas de prueba en el mercado para desarrolladores"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Falta de entrenamiento"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Falta de objetividad"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 11,
+            "enunciado": "Durante el proceso de desarrollo de software, ¿en qué momento puede comenzar el proceso de prueba?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Cuando el código está completo."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Cuando el diseño está completo."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Cuando los requisitos de software han sido aprobados."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Cuando el primer módulo de código está listo para la prueba unitaria."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 12,
+            "enunciado": "En una reunión de revisión, un moderador es una persona que",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Toma notas de la reunión."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Media entre las personas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Atiende llamadas telefónicas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Escribe los documentos que se van a revisar."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 13,
+            "enunciado": "Dado el siguiente programa\nIF X < Y\nTHEN Declaración 1;\nELSE IF Y >= Z\nTHEN Declaración 2;\nFIN\nLa complejidad ciclomática de McCabe es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "2"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "3"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "4"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "5"
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 14,
+            "enunciado": "¿Cuántos casos de prueba son necesarios para cubrir todas las secuencias posibles de instrucciones (caminos) para el siguiente fragmento de programa? Asume que las dos condiciones son independientes entre sí:\nif (Condición 1)\nthen instrucción 1\nelse instrucción 2\nfi\nif (Condición 2)\nthen instrucción 3\nfi",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "2 casos de prueba"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "3 casos de prueba"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "4 casos de prueba"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "No alcanzable"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 15,
+            "enunciado": "Los casos de prueba de aceptación se basan en qué?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Requisitos"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Diseño"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Código"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Tabla de decisiones"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 16,
+            "enunciado": "¿Cuánto es suficiente probar?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Esta pregunta es imposible de responder"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Esta pregunta es fácil de responder"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "La respuesta depende del riesgo para su industria, contrato y requisitos especiales"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "La respuesta depende de la madurez de sus desarrolladores"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 17,
+            "enunciado": "Una técnica de prueba común durante la prueba de componentes es",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas de declaración y de ramas"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de usabilidad"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de seguridad"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de rendimiento"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 18,
+            "enunciado": "La cobertura de instrucciones no verificará lo siguiente.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Instrucciones faltantes"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Ramas no utilizadas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Código muerto"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Instrucciones no utilizadas"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 19,
+            "enunciado": "La Verificación y Validación Independiente es",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Realizado por el desarrollador"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Realizado por los ingenieros de pruebas"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Realizado por la gerencia"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Realizado por una entidad fuera de la esfera de influencia del proyecto"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 20,
+            "enunciado": "La cobertura de código se utiliza como medida de qué?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Defectos"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Análisis de tendencias"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Efectividad de las pruebas"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Tiempo invertido en las pruebas"
+                }
+            ],
+            "respuesta_correcta": "c"
+        }
+    ]
+}

@@ -1,0 +1,1044 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "Dividimos las pruebas en etapas distintas principalmente porque:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Cada etapa de prueba tiene un propósito diferente."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Es más fácil gestionar las pruebas en etapas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Podemos ejecutar diferentes pruebas en diferentes entornos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Cuanto más etapas tengamos, mejor serán las pruebas."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 2,
+            "enunciado": "¿Cuál de lo siguiente se beneficiaría más del uso de herramientas de prueba que proporcionan instalaciones de captura y reproducción de pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas de regresión"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de integración"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas del sistema"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de aceptación del usuario"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 3,
+            "enunciado": "¿Cuál de las siguientes afirmaciones NO es correcta?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Un conjunto mínimo de pruebas que logra una cobertura del 100% LCSAJ también logrará una cobertura del 100% de ramas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Un conjunto mínimo de pruebas que logra una cobertura del 100% de camino también logrará una cobertura del 100% de sentencias."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Un conjunto mínimo de pruebas que logra una cobertura del 100% de camino generalmente detectará más fallos que uno que logra una cobertura del 100% de sentencias."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Un conjunto mínimo de pruebas que logra una cobertura del 100% de sentencias generalmente detectará más fallos que uno que logra una cobertura del 100% de ramas."
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 4,
+            "enunciado": "¿Cuál de los siguientes requisitos es comprobable?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "El sistema debe ser fácil de usar."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Las partes críticas para la seguridad del sistema deben contener 0 fallos."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "El tiempo de respuesta debe ser inferior a un segundo para la carga de diseño especificada."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "El sistema debe ser construido para ser portátil."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 5,
+            "enunciado": "Analiza el siguiente procedimiento altamente simplificado:\n\nPregunta: '¿Qué tipo de boleto necesitas, sencillo o de regreso?'\nSI el cliente quiere 'de regreso'\nPregunta: '¿Qué tarifa, Estándar o Día barato?'\nSI el cliente responde 'Día barato'\nDecir: 'Eso serán £11:20'\nSINO\nDecir: 'Eso serán £19:50'\nFIN-SI\nSINO\nDecir: 'Eso serán £9:75'\nFIN-SI\nAhora decide el número mínimo de pruebas que se necesitan para asegurar que todas las preguntas hayan sido hechas, todas las combinaciones hayan ocurrido y todas las respuestas hayan sido dadas.",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "3"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "4"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "5"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "6"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 6,
+            "enunciado": "El error guessing:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Complementa las técnicas formales de diseño de pruebas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Solo se puede utilizar en pruebas de componentes, integración y sistema."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Solo se realiza en las pruebas de aceptación del usuario."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "No es repetible y no debe usarse."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 7,
+            "enunciado": "¿Cuál de lo siguiente NO es cierto sobre los criterios de cobertura de pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Los criterios de cobertura de pruebas se pueden medir en términos de elementos ejercitados por un conjunto de pruebas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Una medida de los criterios de cobertura de pruebas es el porcentaje de requisitos de usuario cubiertos."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Una medida de los criterios de cobertura de pruebas es el porcentaje de fallos encontrados."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los criterios de cobertura de pruebas a menudo se utilizan al especificar los criterios de finalización de las pruebas."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 8,
+            "enunciado": "Al priorizar qué probar, el objetivo más importante es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Encontrar tantos fallos como sea posible."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Probar áreas de alto riesgo."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Obtener una buena cobertura de pruebas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Probar lo que sea más fácil de probar."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 9,
+            "enunciado": "Dado los siguientes conjuntos de términos de gestión de pruebas (v-z) y descripciones de actividades (1-5), ¿cuál de las siguientes opciones empareja mejor los dos conjuntos?\nv – control de pruebas\nw – monitoreo de pruebas\nx - estimación de pruebas\ny - gestión de incidentes\nz - control de configuración\n1 - cálculo de recursos de prueba requeridos\n2 - mantenimiento de registro de resultados de prueba\n3 - reasignación de recursos cuando las pruebas se exceden\n4 - informe sobre desviación del plan de pruebas\n5 - seguimiento de resultados de prueba anómalos",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "v-3,w-2,x-1,y-5,z-4"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "v-2,w-5,x-1,y-4,z-3"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "v-3,w-4,x-1,y-5,z-2"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "v-2,w-1,x-4,y-3,z-5"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 10,
+            "enunciado": "¿Cuál de las siguientes afirmaciones sobre las pruebas de sistema NO es verdadera?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Las pruebas de sistema a menudo son realizadas por equipos independientes."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Las pruebas funcionales se utilizan más que las pruebas estructurales."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los fallos encontrados durante las pruebas de sistema pueden ser muy costosos de corregir."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los usuarios finales deben estar involucrados en las pruebas de sistema."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 11,
+            "enunciado": "¿Cuál de lo siguiente es falso?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Los incidentes siempre deben ser corregidos."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Un incidente ocurre cuando los resultados esperados y reales difieren."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los incidentes pueden ser analizados para ayudar en la mejora del proceso de prueba."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Un incidente puede ser levantado contra la documentación."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 12,
+            "enunciado": "Se ha realizado suficiente prueba cuando:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Se acaba el tiempo."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Se ha alcanzado el nivel de confianza requerido."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "No se encuentran más fallos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los usuarios no encontrarán más fallos graves."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 13,
+            "enunciado": "¿Cuál de lo siguiente NO es cierto sobre los incidentes?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "La resolución de incidentes es responsabilidad del autor del software en prueba."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Los incidentes pueden ser levantados contra los requisitos de usuario."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los incidentes requieren investigación y/o corrección."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Los incidentes se levantan cuando los resultados esperados y reales difieren."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 14,
+            "enunciado": "¿Cuál de lo siguiente no está descrito en un estándar de pruebas unitarias?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas de sintaxis"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "División de particiones de equivalencia"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de estrés"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Cobertura de decisión/condición modificada"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 15,
+            "enunciado": "¿Cuál de lo siguiente es falso?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "En un sistema, dos fallos diferentes pueden tener diferentes severidades."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Un sistema es necesariamente más confiable después de depurar para eliminar un fallo."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Un fallo no necesita afectar la confiabilidad de un sistema."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Errores no detectados pueden llevar a fallos y eventualmente a un comportamiento incorrecto."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 16,
+            "enunciado": "¿Cuál de las siguientes afirmaciones, sobre herramientas de captura-reproducción, NO es correcta?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Se utilizan para apoyar las pruebas multiusuario."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Se utilizan para capturar y animar los requisitos del usuario."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Son los tipos de herramientas de CAST más frecuentemente compradas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Capturan aspectos del comportamiento del usuario."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 17,
+            "enunciado": "¿Cómo estimaría la cantidad de pruebas de repetición que probablemente se requerirán?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Métricas de proyectos similares anteriores."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Discusiones con el equipo de desarrollo."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Tiempo asignado para pruebas de regresión."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "a y b"
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 18,
+            "enunciado": "¿Cuál de lo siguiente es cierto sobre el modelo V?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Afirma que los módulos son probados contra los requisitos del usuario."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Solo modela la fase de pruebas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Especifica las técnicas de prueba a utilizar."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Incluye la verificación de diseños."
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 19,
+            "enunciado": "La suposición del oráculo:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Es que existe algún sistema existente contra el cual se puede verificar la salida de la prueba."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Es que el probador puede identificar rutinariamente el resultado correcto de una prueba."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Es que el probador conoce todo sobre el software bajo prueba."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Es que las pruebas son revisadas por probadores experimentados."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 20,
+            "enunciado": "¿Cuál de lo siguiente caracteriza el costo de los fallos?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Son más baratos de encontrar en las fases tempranas de desarrollo y más caros de corregir en las últimas fases de prueba."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Son más fáciles de encontrar durante las pruebas de sistema pero más caros de corregir entonces."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los fallos son más baratos de encontrar en las fases tempranas de desarrollo pero más caros de corregir entonces."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Aunque los fallos son más caros de encontrar durante las fases tempranas de desarrollo, son más baratos de corregir entonces."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 21,
+            "enunciado": "¿Cuál de lo siguiente normalmente NO debería ser un objetivo para una prueba?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Encontrar fallos en el software."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Evaluar si el software está listo para su lanzamiento."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Demostrar que el software no funciona."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Demostrar que el software es correcto."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 22,
+            "enunciado": "¿Cuál de lo siguiente es una forma de pruebas funcionales?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Análisis de valores límite."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pruebas de usabilidad."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas de rendimiento."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas de seguridad."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 23,
+            "enunciado": "¿Cuál de lo siguiente normalmente NO formaría parte de un plan de pruebas?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Funcionalidades a ser probadas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Informes de incidentes."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Riesgos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Programa."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 24,
+            "enunciado": "¿Cuál de estas actividades proporciona el mayor ahorro potencial de costos por el uso de CAST?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Gestión de pruebas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Diseño de pruebas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Ejecución de pruebas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Planificación de pruebas."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 25,
+            "enunciado": "¿Cuál de lo siguiente NO es una técnica de caja blanca?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueba de declaración."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueba de camino."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Prueba de flujo de datos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueba de transición de estado."
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 26,
+            "enunciado": "El análisis de flujo de datos estudia:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Posibles cuellos de botella de comunicación en un programa."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "La tasa de cambio de valores de datos mientras un programa se ejecuta."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "El uso de datos en los caminos a través del código."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "La complejidad intrínseca del código."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 27,
+            "enunciado": "En un sistema diseñado para calcular los impuestos a pagar:\nUn empleado tiene £4000 de salario libre de impuestos. Los siguientes £1500 se gravan al 10%\nLos siguientes £28000 se gravan al 22%\nCualquier cantidad adicional se grava al 40%\nAl valor más cercano de la libra, ¿cuál de estos es un caso de prueba de análisis de límites válido?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "£1500"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "£32001"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "£33501"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "£28000"
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 28,
+            "enunciado": "Un beneficio importante de las inspecciones de código es que:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Permiten que el código se pruebe antes de que el entorno de ejecución esté listo."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Pueden ser realizadas por la persona que escribió el código."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pueden ser realizadas por personal inexperto."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Son baratas de realizar."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 29,
+            "enunciado": "¿Cuál de lo siguiente es la mejor fuente de resultados esperados para los scripts de pruebas de aceptación del usuario?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Resultados actuales."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Especificación del programa."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Requisitos del usuario."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Especificación del sistema."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 30,
+            "enunciado": "¿Cuál es la principal diferencia entre una revisión y una inspección?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Una inspección es liderada por el autor, mientras que una revisión es liderada por un moderador capacitado."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Una inspección tiene un líder capacitado, mientras que una revisión no tiene líder."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Los autores no están presentes durante las inspecciones, mientras que sí lo están durante las revisiones."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Una revisión es liderada por el autor, mientras que una inspección es liderada por un moderador capacitado."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 31,
+            "enunciado": "¿Cuál de lo siguiente describe el mayor beneficio de la verificación temprana en el ciclo de vida?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Permite la identificación de cambios en los requisitos del usuario."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Facilita la configuración oportuna del entorno de prueba."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Reduce la multiplicación de defectos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Permite que los probadores se involucren temprano en el proyecto."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 32,
+            "enunciado": "Las pruebas de integración en pequeña escala:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Prueban los componentes individuales que se han desarrollado."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Prueban las interacciones entre módulos o subsistemas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Solo usan componentes que forman parte del sistema en vivo."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Prueban las interfaces con otros sistemas."
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 33,
+            "enunciado": "El análisis estático se describe mejor como:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "El análisis de programas por lotes."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "La revisión de planes de prueba."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "El análisis de código de programa."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "El uso de pruebas de caja negra."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 34,
+            "enunciado": "La prueba alfa es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Pruebas post-lanzamiento por representantes de usuarios finales en el sitio del desarrollador."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "La primera prueba que se realiza."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Pruebas pre-lanzamiento por representantes de usuarios finales en el sitio del desarrollador."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Pruebas pre-lanzamiento por representantes de usuarios finales en sus sitios."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 35,
+            "enunciado": "Una falla es:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Se encuentra en el software; el resultado de un error."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Desviación del comportamiento especificado."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Un paso incorrecto, proceso o definición de datos en un programa de computadora."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Una acción humana que produce un resultado incorrecto."
+                }
+            ],
+            "respuesta_correcta": "b"
+        },
+        {
+            "id": 36,
+            "enunciado": "En un sistema diseñado para calcular los impuestos a pagar:\nUn empleado tiene £4000 de salario libre de impuestos. Los siguientes £1500 se gravan al 10%\nLos siguientes £28000 se gravan al 22%\nCualquier cantidad adicional se grava al 40%\n¿Cuál de estos grupos de números estaría en la misma clase de equivalencia?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "£4800; £14000; £28000"
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "£5200; £5500; £28000"
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "£28001; £32000; £35000"
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "£5800; £28000; £32000"
+                }
+            ],
+            "respuesta_correcta": "a"
+        },
+        {
+            "id": 37,
+            "enunciado": "Lo más importante sobre el diseño temprano de pruebas es que:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Facilita la preparación de las pruebas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Significa que no se requieren inspecciones."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Puede prevenir la multiplicación de fallos."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Encontrará todos los fallos."
+                }
+            ],
+            "respuesta_correcta": "c"
+        },
+        {
+            "id": 38,
+            "enunciado": "¿Cuál de las siguientes afirmaciones sobre las revisiones es verdadera?",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Las revisiones no se pueden realizar en especificaciones de requisitos de usuario."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Las revisiones son la forma menos efectiva de probar código."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Es improbable que las revisiones encuentren fallos en los planes de pruebas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Las revisiones deben realizarse en especificaciones, código y planes de pruebas."
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 39,
+            "enunciado": "Los casos de prueba se diseñan durante:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Grabación de pruebas."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Planificación de pruebas."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Configuración de pruebas."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Especificación de pruebas."
+                }
+            ],
+            "respuesta_correcta": "d"
+        },
+        {
+            "id": 40,
+            "enunciado": "Un sistema de gestión de configuración normalmente NO proporcionaría:",
+            "puntos": 1,
+            "contenido_adicional_html": "",
+            "imagen": "",
+            "opciones": [
+                {
+                    "letra": "a",
+                    "descripcion": "Vinculación de los requisitos del cliente con números de versión."
+                },
+                {
+                    "letra": "b",
+                    "descripcion": "Facilidades para comparar resultados de pruebas con resultados esperados."
+                },
+                {
+                    "letra": "c",
+                    "descripcion": "Las diferencias precisas en las versiones del código fuente de los componentes de software."
+                },
+                {
+                    "letra": "d",
+                    "descripcion": "Acceso restringido a la biblioteca de código fuente."
+                }
+            ],
+            "respuesta_correcta": "b"
+        }
+    ]
+}

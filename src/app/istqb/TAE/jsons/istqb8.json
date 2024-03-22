@@ -1,0 +1,892 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "enunciado": "COTS se conoce como",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Software comercial fuera de la estantería"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Cumplimiento del software"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Control de cambios del software"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Software capaz fuera de la estantería"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 2,
+            "enunciado": "De las siguientes opciones, ¿cuál es la 'prueba de confianza'?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba de cordura"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba del sistema"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de humo"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de regresión"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 3,
+            "enunciado": "'Densidad de defectos' calculada en términos de",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "El número de defectos identificados en un componente o sistema dividido por el tamaño del componente o del sistema"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "El número de defectos encontrados por una fase de prueba dividido por el número encontrado por esa fase de prueba y cualquier otro medio después"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "El número de defectos identificados en el componente o sistema dividido por el número de defectos encontrados por una fase de prueba"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "El número de defectos encontrados por una fase de prueba dividido por el número encontrado por el tamaño del sistema"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 4,
+            "enunciado": "'Bicharraco' se conoce como",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prevenir los defectos mediante la inspección"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Corregir los defectos mediante la depuración"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Agregar defectos conocidos mediante la siembra"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Un proceso de corregir los defectos por el probador"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 5,
+            "enunciado": "Una estimación de prueba basada en expertos también se conoce como",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Delphi de banda estrecha"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Delphi de banda ancha"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Delphi a medida"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Delphi robusto"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 6,
+            "enunciado": "Al probar un sistema de cálculo de calificaciones, un probador determina que todas las calificaciones de 90 a 100 darán como resultado una calificación de A, pero las calificaciones por debajo de 90 no lo harán. Este análisis se conoce como:",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Partición de equivalencia"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Análisis de valor límite"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Tabla de decisiones"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Análisis híbrido"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 7,
+            "enunciado": "Todo lo siguiente podría hacerse durante la prueba de unidad, excepto",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Comprobación de escritorio"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Pruebas de soporte manual"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Recorrido"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Pruebas basadas en el compilador"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 8,
+            "enunciado": "¿Cuál es el concepto de introducir un pequeño cambio en el programa y que los efectos de ese cambio aparezcan en alguna prueba?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Introducir mutaciones"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de rendimiento"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Un error de mutación"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Depuración de un programa"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 9,
+            "enunciado": "¿Cuál de las siguientes características está principalmente asociada con la reutilización de software?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "La medida en que el software se puede utilizar en otras aplicaciones"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "La medida en que el software se puede utilizar por muchos usuarios diferentes"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "La capacidad del software para ser trasladado a una plataforma diferente"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "La capacidad de un sistema de acoplarse con otro sistema"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 10,
+            "enunciado": "¿Cuál de las siguientes actividades de gestión de cambios de software es la más vital para evaluar el impacto de las modificaciones de software propuestas?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Identificación de línea base"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Auditoría de configuración"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Control de cambios"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Control de versiones"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 11,
+            "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera sobre un programa de verificación y validación de software?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Se esfuerza por asegurar que la calidad esté integrada en el software."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Proporciona a la dirección información sobre el estado de un proyecto de software."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Garantiza que se realicen pruebas alfa, beta y de sistema."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Se ejecuta en paralelo con las actividades de desarrollo de software."
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 12,
+            "enunciado": "¿Cuál de las siguientes es un requisito de un entorno de software efectivo?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Facilidad de uso"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Capacidad para la implementación incremental"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Capacidad de evolucionar con las necesidades de un proyecto"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Inclusión de herramientas avanzadas"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 13,
+            "enunciado": "Un gerente de pruebas quiere utilizar los recursos disponibles para la prueba automatizada de una aplicación web. La mejor opción es",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Automatizador de pruebas, especialista en web, DBA, líder de pruebas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Probador, automatizador de pruebas, especialista en web, DBA"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Probador, líder de pruebas, automatizador de pruebas, DBA"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Probador, especialista en web, líder de pruebas, automatizador de pruebas"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 14,
+            "enunciado": "Un gerente de proyecto ha sido transferido a un importante proyecto de desarrollo de software que se encuentra en la fase de implementación. La máxima prioridad para este gerente de proyecto debería ser",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Establecer una relación con el cliente"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Conocer los objetivos del proyecto y el plan de proyecto existente."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Modificar la estructura organizativa del proyecto para cumplir con el estilo de gestión del gerente."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Asegurar que el proyecto avance a su ritmo actual"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 15,
+            "enunciado": "El Cambio X requiere un nivel superior de autoridad que el Cambio Y en cuál de los siguientes pares?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Código en desarrollo - Código en producción"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Especificaciones durante el análisis de requisitos - Especificaciones durante la prueba de sistemas"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Documentos solicitados por el grupo de desarrollo técnico - Documentos solicitados por los clientes"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Un producto distribuido en varios sitios - Un producto con un único usuario"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 16,
+            "enunciado": "¿Cuál de las siguientes funciones es típicamente compatible con un sistema de información de calidad de software?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Mantenimiento de registros"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Diseño de sistema"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Programación de evaluaciones"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Reporte de errores"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 17,
+            "enunciado": "Durante la prueba de un módulo, el probador 'X' encuentra un error y lo asigna al desarrollador. Pero el desarrollador lo rechaza, diciendo que no es un error. ¿Qué debería hacer 'X'?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Informar del problema al gerente de pruebas e intentar llegar a un acuerdo con el desarrollador."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Volver a probar el módulo y confirmar el error."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Asignar el mismo error a otro desarrollador."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Enviar la información detallada del error encontrado y verificar la reproducibilidad."
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 18,
+            "enunciado": "El objetivo principal de comparar un manual de usuario con el comportamiento real del programa en ejecución durante la prueba del sistema es",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Encontrar errores en el programa"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Verificar la precisión técnica del documento"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Asegurar la facilidad de uso del documento"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Asegurar que el programa sea la última versión"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 19,
+            "enunciado": "Un tipo de prueba de integración en el que los elementos de software, los elementos de hardware o ambos se combinan de una vez en un componente o un sistema general, en lugar de en etapas.",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba del sistema"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de Big-Bang"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de integración"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba unitaria"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 20,
+            "enunciado": "En la práctica, ¿qué modelo de ciclo de vida puede tener más, menos o diferentes niveles de desarrollo y pruebas, dependiendo del proyecto y del producto de software? Por ejemplo, puede haber pruebas de integración de componentes después de las pruebas de componentes y pruebas de integración de sistemas después de las pruebas de sistemas.",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Modelo en cascada"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Modelo V"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Modelo en espiral"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Modelo RAD"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 21,
+            "enunciado": "¿Qué técnica se puede utilizar para lograr la cobertura de entrada y salida? Se puede aplicar a la entrada humana, la entrada a través de interfaces a un sistema o parámetros de interfaz en pruebas de integración.",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Adivinanza de errores"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Análisis de valores límite"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de tabla de decisiones"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Partitioning de equivalencia"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 22,
+            "enunciado": "Hay una aplicación que se ejecuta en un solo terminal. Hay otra aplicación que funciona en varios terminales. ¿Qué técnicas de prueba utilizarías en la segunda aplicación que no harías en la primera aplicación?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Integridad, Tiempo de respuesta"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de concurrencia, Escalabilidad"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Actualización y Reversión, Tiempo de respuesta"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de concurrencia, Integridad"
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 23,
+            "enunciado": "Eres el gerente de pruebas y estás a punto de comenzar las pruebas del sistema. El equipo de desarrollo dice que debido a un cambio en los requisitos, podrán entregarte el sistema para pruebas 5 días hábiles después de la fecha de vencimiento. No puedes cambiar los recursos (horas de trabajo, herramientas de prueba, etc.). ¿Qué pasos tomarás para poder terminar las pruebas a tiempo?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Decir al equipo de desarrollo que entregue el sistema a tiempo para que la actividad de prueba termine a tiempo."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Extender el plan de pruebas para poder acomodar el retraso que va a ocurrir."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Clasificar la funcionalidad según el riesgo y concentrarse más en la prueba de la funcionalidad crítica."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Agregar más recursos para evitar el retraso."
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 24,
+            "enunciado": "El informe de transmisión de ítems también se conoce como",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Informe de incidentes"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Nota de lanzamiento"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Informe de revisión"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Informe de auditoría"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 25,
+            "enunciado": "Pruebas de software utilizadas para convertir datos de sistemas existentes para su uso en sistemas de reemplazo",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Prueba impulsada por datos"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Prueba de migración"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Prueba de configuración"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Prueba de ida y vuelta"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 26,
+            "enunciado": "El enfoque Big Bang está relacionado con",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Pruebas de regresión"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Pruebas entre sistemas"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Re-pruebas"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Pruebas de integración"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 27,
+            "enunciado": "La elaboración de gráficos causa-efecto está relacionada con la norma estándar",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "BS7799"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "BS 7925/2"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "ISO/IEC 926/1"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "ISO/IEC 2382/1"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 28,
+            "enunciado": "La trazabilidad de requisitos para un nivel de prueba a través de las capas de documentación de prueba se hace mediante",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Trazabilidad horizontal"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Trazabilidad de profundidad"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Trazabilidad vertical"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Trazabilidad horizontal y vertical"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 29,
+            "enunciado": "Un arnés de prueba es un",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Un documento de alto nivel que describe los principios, enfoque y objetivos principales de la organización con respecto a las pruebas."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Un conjunto de actividades de prueba recolectadas en una fase manejable de un proyecto."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Un entorno de prueba compuesto por elementos de relleno y controladores necesarios para llevar a cabo una prueba."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Un conjunto de varios casos de prueba para un componente o sistema bajo prueba."
+                }
+            ],
+            "respuesta_correcta": "C"
+        },
+        {
+            "id": 30,
+            "enunciado": "Eres un probador para probar un sistema grande. El modelo de datos del sistema es muy grande con muchos atributos y hay muchas interdependencias dentro de los campos. ¿Qué pasos usarías para probar el sistema y también cuál es el esfuerzo de la prueba que has tomado en el plan de pruebas?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Mejorar la supervisión, Más revisiones de artefactos o programas significa la contención de errores en etapas."
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Extender el plan de pruebas para poder probar todas las interdependencias."
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Dividir el sistema grande en módulos pequeños y probar la funcionalidad."
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Probar primero las interdependencias, después verificar el sistema como un todo."
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 31,
+            "enunciado": "La solicitud de cambio debe enviarse a través del desarrollo o la administración de programas. Una solicitud de cambio debe estar escrita y debe incluir los siguientes criterios.",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "I, III y IV"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "I, II y III"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "II, III y IV"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "I, II y IV"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 32,
+            "enunciado": "'Criterios de entrada' debería abordar preguntas como",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "I, II y IV"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "I, II y III"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "I, II, III y IV"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "II, III y IV"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 33,
+            "enunciado": "Este modelo de ciclo de vida está impulsado principalmente por los riesgos de cronograma y presupuesto. Esta afirmación es más adecuada para",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Modelo en cascada"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Modelo en espiral"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Modelo incremental"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Modelo V"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 34,
+            "enunciado": "El sistema de seguimiento de errores deberá capturar estas fases para cada error.",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "I, II y III"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "I, II y IV"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "II, III y IV"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "I, III y IV"
+                }
+            ],
+            "respuesta_correcta": "B"
+        },
+        {
+            "id": 35,
+            "enunciado": "Uno de los desafíos más desalentadores de gestionar un proyecto de prueba es que tantas dependencias convergen en la ejecución de la prueba. Un archivo de configuración faltante o un dispositivo de hardware puede hacer que todos sus resultados de prueba no tengan sentido. Puede terminar con un pelotón entero de probadores sentados durante días. ¿Quién es responsable de este incidente?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Solo fallos del gerente de pruebas"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Solo fallos del líder de pruebas"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Fallos del gerente de pruebas y del director de proyecto"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "Solo fallos de los probadores"
+                }
+            ],
+            "respuesta_correcta": "A"
+        },
+        {
+            "id": 36,
+            "enunciado": "¿Cuándo puede comenzar la prueba del sistema?",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Solo I y II"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Solo II y III"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "Solo I y III"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "I, II y III"
+                }
+            ],
+            "respuesta_correcta": "D"
+        },
+        {
+            "id": 37,
+            "enunciado": "Los charters de prueba se utilizan en la prueba ________",
+            "puntos": 1,
+            "opciones": [
+                {
+                    "letra": "A",
+                    "descripcion": "Exploratoria"
+                },
+                {
+                    "letra": "B",
+                    "descripcion": "Usabilidad"
+                },
+                {
+                    "letra": "C",
+                    "descripcion": "De componentes"
+                },
+                {
+                    "letra": "D",
+                    "descripcion": "De mantenibilidad"
+                }
+            ],
+            "respuesta_correcta": "A"
+        }
+    ]
+}
