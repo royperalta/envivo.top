@@ -18,7 +18,7 @@ export default function Page() {
   const [estadoDescargar, setEstadoDescargar] = useState(false)
   const [estadoImagen, setEstadoImagen] = useState(false)
   const [messageError, setMessageError] = useState(false)
-  const [loading,setLoading] = useState(false)
+  const [loading, setLoading] = useState(false)
 
   const [mp3, setMp3] = useState(false)
 
@@ -45,7 +45,7 @@ export default function Page() {
       })
       setImage(responseImage.data.img)
       setEstadoImagen(true)
-      if(responseImage.status==200){
+      if (responseImage.status == 200) {
         setLoading(true)
       }
 
@@ -83,7 +83,7 @@ export default function Page() {
         mp3, mp3
       })
       if (download.status === 200) {
-        
+
         const download2 = await axios.get(`/api/download/${download.data.id}/${download.data.idCarpeta}/${mp3}`, {
           responseType: 'blob'
         })
@@ -139,6 +139,22 @@ export default function Page() {
 
   return (
     <div className="flex justify-center items-center">
+      <Head>
+        <title>Descargar videos de TikTok, YouTube e Instagram</title>
+        <meta name="description" content="Descarga videos de TikTok, twitter, YouTube e Instagram de forma fácil y rápida. ¡Prueba nuestra herramienta gratuita ahora mismo!" />
+        <meta name="keywords" content="descargar videos, TikTok, YouTube, twitter, Instagram, mp3, descarga de videos" />
+        <meta name="author" content="envivo.top" />
+        <meta name="robots" content="index, follow" />
+        <meta property="og:title" content="Descargar videos de TikTok, twitter, YouTube e Instagram" />
+        <meta property="og:description" content="Descarga videos de TikTok, twitter, YouTube e Instagram de forma fácil y rápida. ¡Prueba nuestra herramienta gratuita ahora mismo!" />
+        <meta property="og:url" content="https://envivo.top/yt" />
+        <meta property="og:image" content="https://envivo.top/logoenvivo.png" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:title" content="Descargar videos de TikTok, YouTube e Instagram" />
+        <meta name="twitter:description" content="Descarga videos de TikTok, YouTube e Instagram de forma fácil y rápida. ¡Prueba nuestra herramienta gratuita ahora mismo!" />
+        <meta name="twitter:image" content="Descargar videos de TikTok, YouTube e Instagram, twitter" />
+        <meta name="twitter:card" content="Descargar videos de TikTok, YouTube e Instagram, twitter" />
+      </Head>
       <div className="flex flex-col items-center">
         <h1 className="my-5 text-2xl text-center font-extrabold">Download Youtube Tiktok</h1>
         <div className="flex justify-between items-center" >
@@ -161,7 +177,7 @@ export default function Page() {
               </label>
 
               <label className={`flex ${estadoDescargar === false ? 'cursor-pointer bg-red-600' : ' bg-gray-600'} text-white p-2 my-5 rounded-full p-2`}>
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style={{ fill: 'white',margin:'0 0px 0 2px' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style={{ fill: 'white', margin: '0 0px 0 2px' }}>
                   <path d="M19 9h-4V3H9v6H5l7 8zM4 19h16v2H4z"></path>
                 </svg>
                 <input
@@ -192,15 +208,15 @@ export default function Page() {
           <div className="relative inset-0 flex items-center justify-center">
             {estadoImagen ? (
               <div className="flex py-4 justify-center items-center animate__animated animate__fadeIn">
-              <Image
-                className="animate__animated animate__fadeIn shadow-[0_2.8px_2.2px_rgba(0,_0,_0,_0.034),_0_6.7px_5.3px_rgba(0,_0,_0,_0.048),_0_12.5px_10px_rgba(0,_0,_0,_0.06),_0_22.3px_17.9px_rgba(0,_0,_0,_0.072),_0_41.8px_33.4px_rgba(0,_0,_0,_0.086),_0_100px_80px_rgba(0,_0,_0,_0.12)]"
-                src={image}
-                alt=""
-                width={300}
-                height={300}
-              />
-            </div>
-            
+                <Image
+                  className="animate__animated animate__fadeIn shadow-[0_2.8px_2.2px_rgba(0,_0,_0,_0.034),_0_6.7px_5.3px_rgba(0,_0,_0,_0.048),_0_12.5px_10px_rgba(0,_0,_0,_0.06),_0_22.3px_17.9px_rgba(0,_0,_0,_0.072),_0_41.8px_33.4px_rgba(0,_0,_0,_0.086),_0_100px_80px_rgba(0,_0,_0,_0.12)]"
+                  src={image}
+                  alt=""
+                  width={300}
+                  height={300}
+                />
+              </div>
+
             ) : ""}
             {loading && !messageError ? (
               <div className="absolute inset-0 flex items-center justify-center">

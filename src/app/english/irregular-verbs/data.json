@@ -2711,5 +2711,2383 @@
       }
     ],
     "biblicalExamples": []
+  },
+  {
+    "id": 91,
+    "baseForm": "lose",
+    "pastSimple": "lost",
+    "pastParticiple": "lost",
+    "imagen": "./img/irregularVerbs/lose.jpeg",
+    "pronunciation": "luːz",
+    "pronInSpanishBaseForm": "luːz",
+    "pronInSpanishPastSimple": "lɒst",
+    "pronInSpanishPastParticiple": "lɒst",
+    "translate": [
+      "perder"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She lost her keys yesterday.",
+        "spanish": "Ella perdió sus llaves ayer."
+      },
+      {
+        "id": "2",
+        "english": "He always loses his phone.",
+        "spanish": "Él siempre pierde su teléfono."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 92,
+    "baseForm": "make",
+    "pastSimple": "made",
+    "pastParticiple": "made",
+    "imagen": "./img/irregularVerbs/make.jpeg",
+    "pronunciation": "meɪk",
+    "pronInSpanishBaseForm": "meɪk",
+    "pronInSpanishPastSimple": "meɪd",
+    "pronInSpanishPastParticiple": "meɪd",
+    "translate": [
+      "hacer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She made a delicious cake for her friend's birthday.",
+        "spanish": "Ella hizo un delicioso pastel para el cumpleaños de su amigo."
+      },
+      {
+        "id": "2",
+        "english": "He made a lot of money last year.",
+        "spanish": "Él ganó mucho dinero el año pasado."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 93,
+    "baseForm": "mean",
+    "pastSimple": "meant",
+    "pastParticiple": "meant",
+    "imagen": "./img/irregularVerbs/mean.jpeg",
+    "pronunciation": "miːn",
+    "pronInSpanishBaseForm": "miːn",
+    "pronInSpanishPastSimple": "ment",
+    "pronInSpanishPastParticiple": "ment",
+    "translate": [
+      "significar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "His silence meant that he was not happy.",
+        "spanish": "Su silencio significaba que no estaba feliz."
+      },
+      {
+        "id": "2",
+        "english": "I meant to call you yesterday.",
+        "spanish": "Tenía la intención de llamarte ayer."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 94,
+    "baseForm": "meet",
+    "pastSimple": "met",
+    "pastParticiple": "met",
+    "imagen": "./img/irregularVerbs/meet.jpeg",
+    "pronunciation": "miːt",
+    "pronInSpanishBaseForm": "miːt",
+    "pronInSpanishPastSimple": "met",
+    "pronInSpanishPastParticiple": "met",
+    "translate": [
+      "encontrar",
+      "conocer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "We met for lunch yesterday.",
+        "spanish": "Nos encontramos para almorzar ayer."
+      },
+      {
+        "id": "2",
+        "english": "She met her new neighbor this morning.",
+        "spanish": "Ella conoció a su nueva vecina esta mañana."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 95,
+    "baseForm": "pay",
+    "pastSimple": "paid",
+    "pastParticiple": "paid",
+    "imagen": "./img/irregularVerbs/pay.jpeg",
+    "pronunciation": "peɪ",
+    "pronInSpanishBaseForm": "peɪ",
+    "pronInSpanishPastSimple": "peɪd",
+    "pronInSpanishPastParticiple": "peɪd",
+    "translate": [
+      "pagar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He paid the bill at the restaurant.",
+        "spanish": "Él pagó la cuenta en el restaurante."
+      },
+      {
+        "id": "2",
+        "english": "She paid for the groceries with her credit card.",
+        "spanish": "Ella pagó los comestibles con su tarjeta de crédito."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 96,
+    "baseForm": "mistake",
+    "pastSimple": "mistook",
+    "pastParticiple": "mistaken",
+    "imagen": "./img/irregularVerbs/mistake.jpeg",
+    "pronunciation": "mɪˈsteɪk",
+    "pronInSpanishBaseForm": "mɪˈsteɪk",
+    "pronInSpanishPastSimple": "mɪˈstʊk",
+    "pronInSpanishPastParticiple": "mɪˈsteɪkən",
+    "translate": [
+      "equivocarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She mistook him for her brother.",
+        "spanish": "Ella lo confundió con su hermano."
+      },
+      {
+        "id": "2",
+        "english": "He has mistaken my intentions.",
+        "spanish": "Él ha malinterpretado mis intenciones."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 97,
+    "baseForm": "overhear",
+    "pastSimple": "overheard",
+    "pastParticiple": "overheard",
+    "imagen": "./img/irregularVerbs/overhear.jpeg",
+    "pronunciation": "ˌəʊvəˈhɪə",
+    "pronInSpanishBaseForm": "ˌoʊvərˈhɪr",
+    "pronInSpanishPastSimple": "ˌoʊvərˈhɜrd",
+    "pronInSpanishPastParticiple": "ˌoʊvərˈhɜrd",
+    "translate": [
+      "oír por casualidad"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "I overheard their conversation.",
+        "spanish": "Oí su conversación por casualidad."
+      },
+      {
+        "id": "2",
+        "english": "She overheard her name being mentioned.",
+        "spanish": "Ella oyó su nombre siendo mencionado por casualidad."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 98,
+    "baseForm": "oversleep",
+    "pastSimple": "overslept",
+    "pastParticiple": "overslept",
+    "imagen": "./img/irregularVerbs/oversleep.jpeg",
+    "pronunciation": "ˌəʊvəˈsliːp",
+    "pronInSpanishBaseForm": "ˌoʊvərˈslip",
+    "pronInSpanishPastSimple": "ˌoʊvərˈslept",
+    "pronInSpanishPastParticiple": "ˌoʊvərˈslept",
+    "translate": [
+      "dormir demasiado"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He overslept and missed his train.",
+        "spanish": "Él durmió demasiado y perdió su tren."
+      },
+      {
+        "id": "2",
+        "english": "She tends to oversleep on weekends.",
+        "spanish": "Ella tiende a dormir demasiado los fines de semana."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 99,
+    "baseForm": "put",
+    "pastSimple": "put",
+    "pastParticiple": "put",
+    "imagen": "./img/irregularVerbs/put.jpeg",
+    "pronunciation": "pʊt",
+    "pronInSpanishBaseForm": "pʊt",
+    "pronInSpanishPastSimple": "pʊt",
+    "pronInSpanishPastParticiple": "pʊt",
+    "translate": [
+      "poner",
+      "colocar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He put the book on the table.",
+        "spanish": "Él puso el libro en la mesa."
+      },
+      {
+        "id": "2",
+        "english": "She put her keys in her bag.",
+        "spanish": "Ella puso sus llaves en su bolso."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 100,
+    "baseForm": "read",
+    "pastSimple": "read",
+    "pastParticiple": "read",
+    "imagen": "./img/irregularVerbs/read.jpeg",
+    "pronunciation": "riːd",
+    "pronInSpanishBaseForm": "riːd",
+    "pronInSpanishPastSimple": "rɛd",
+    "pronInSpanishPastParticiple": "rɛd",
+    "translate": [
+      "leer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She read a novel last night.",
+        "spanish": "Ella leyó una novela anoche."
+      },
+      {
+        "id": "2",
+        "english": "He reads the newspaper every morning.",
+        "spanish": "Él lee el periódico todas las mañanas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 101,
+    "baseForm": "rend",
+    "pastSimple": "rended/rent",
+    "pastParticiple": "rended/rent",
+    "imagen": "./img/irregularVerbs/rend.jpeg",
+    "pronunciation": "rɛnd",
+    "pronInSpanishBaseForm": "rɛnd",
+    "pronInSpanishPastSimple": "rɛndɪd",
+    "pronInSpanishPastParticiple": "rɛndɪd",
+    "translate": [
+      "desgarrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She rended the fabric in frustration.",
+        "spanish": "Ella desgarró la tela por frustración."
+      },
+      {
+        "id": "2",
+        "english": "He rent his shirt while climbing.",
+        "spanish": "Él rasgó su camisa mientras escalaba."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 102,
+    "baseForm": "rid",
+    "pastSimple": "rid",
+    "pastParticiple": "rid",
+    "imagen": "./img/irregularVerbs/rid.jpeg",
+    "pronunciation": "rɪd",
+    "pronInSpanishBaseForm": "rɪd",
+    "pronInSpanishPastSimple": "rɪd",
+    "pronInSpanishPastParticiple": "rɪd",
+    "translate": [
+      "librar",
+      "desembarazarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She rid herself of all unnecessary belongings.",
+        "spanish": "Ella se deshizo de todas sus pertenencias innecesarias."
+      },
+      {
+        "id": "2",
+        "english": "He rid the house of pests.",
+        "spanish": "Él liberó la casa de plagas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 103,
+    "baseForm": "ride",
+    "pastSimple": "rode",
+    "pastParticiple": "ridden",
+    "imagen": "./img/irregularVerbs/ride.jpeg",
+    "pronunciation": "raɪd",
+    "pronInSpanishBaseForm": "raɪd",
+    "pronInSpanishPastSimple": "roʊd",
+    "pronInSpanishPastParticiple": "ˈrɪd.ən",
+    "translate": [
+      "montar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She rode her bike to work.",
+        "spanish": "Ella montó en bicicleta al trabajo."
+      },
+      {
+        "id": "2",
+        "english": "He has never ridden a horse before.",
+        "spanish": "Él nunca ha montado un caballo antes."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 104,
+    "baseForm": "ring",
+    "pastSimple": "rang",
+    "pastParticiple": "rung",
+    "imagen": "./img/irregularVerbs/ring.jpeg",
+    "pronunciation": "rɪŋ",
+    "pronInSpanishBaseForm": "rɪŋ",
+    "pronInSpanishPastSimple": "ræŋ",
+    "pronInSpanishPastParticiple": "rʌŋ",
+    "translate": [
+      "llamar",
+      "sonar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She rang the bell.",
+        "spanish": "Ella sonó la campana."
+      },
+      {
+        "id": "2",
+        "english": "He has rung the doorbell three times.",
+        "spanish": "Él ha tocado el timbre tres veces."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 105,
+    "baseForm": "rise",
+    "pastSimple": "rose",
+    "pastParticiple": "risen",
+    "imagen": "./img/irregularVerbs/rise.jpeg",
+    "pronunciation": "raɪz",
+    "pronInSpanishBaseForm": "raɪz",
+    "pronInSpanishPastSimple": "roʊz",
+    "pronInSpanishPastParticiple": "ˈrɪz.ən",
+    "translate": [
+      "levantarse",
+      "subir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The sun rises in the east.",
+        "spanish": "El sol se levanta en el este."
+      },
+      {
+        "id": "2",
+        "english": "He has risen from poverty to success.",
+        "spanish": "Él ha pasado de la pobreza al éxito."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 106,
+    "baseForm": "run",
+    "pastSimple": "ran",
+    "pastParticiple": "run",
+    "imagen": "./img/irregularVerbs/run.jpeg",
+    "pronunciation": "rʌn",
+    "pronInSpanishBaseForm": "rʌn",
+    "pronInSpanishPastSimple": "ræn",
+    "pronInSpanishPastParticiple": "rʌn",
+    "translate": [
+      "correr"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She ran five miles this morning.",
+        "spanish": "Ella corrió cinco millas esta mañana."
+      },
+      {
+        "id": "2",
+        "english": "He has run a marathon before.",
+        "spanish": "Él ha corrido un maratón antes."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 107,
+    "baseForm": "say",
+    "pastSimple": "said",
+    "pastParticiple": "said",
+    "imagen": "./img/irregularVerbs/say.jpeg",
+    "pronunciation": "seɪ",
+    "pronInSpanishBaseForm": "seɪ",
+    "pronInSpanishPastSimple": "sɛd",
+    "pronInSpanishPastParticiple": "sɛd",
+    "translate": [
+      "decir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She said she would come later.",
+        "spanish": "Ella dijo que vendría más tarde."
+      },
+      {
+        "id": "2",
+        "english": "He has said nothing about the incident.",
+        "spanish": "Él no ha dicho nada sobre el incidente."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 108,
+    "baseForm": "see",
+    "pastSimple": "saw",
+    "pastParticiple": "seen",
+    "imagen": "./img/irregularVerbs/see.jpeg",
+    "pronunciation": "siː",
+    "pronInSpanishBaseForm": "siː",
+    "pronInSpanishPastSimple": "sɔː",
+    "pronInSpanishPastParticiple": "siːn",
+    "translate": [
+      "ver"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She saw a shooting star last night.",
+        "spanish": "Ella vio una estrella fugaz anoche."
+      },
+      {
+        "id": "2",
+        "english": "He has never seen such a beautiful sunset.",
+        "spanish": "Él nunca ha visto un atardecer tan hermoso."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 109,
+    "baseForm": "seek",
+    "pastSimple": "sought",
+    "pastParticiple": "sought",
+    "imagen": "./img/irregularVerbs/seek.jpeg",
+    "pronunciation": "siːk",
+    "pronInSpanishBaseForm": "siːk",
+    "pronInSpanishPastSimple": "sɔːt",
+    "pronInSpanishPastParticiple": "sɔːt",
+    "translate": [
+      "buscar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sought advice from her friend.",
+        "spanish": "Ella buscó consejo de su amiga."
+      },
+      {
+        "id": "2",
+        "english": "He sought refuge in the church.",
+        "spanish": "Él buscó refugio en la iglesia."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 110,
+    "baseForm": "sell",
+    "pastSimple": "sold",
+    "pastParticiple": "sold",
+    "imagen": "./img/irregularVerbs/sell.jpeg",
+    "pronunciation": "sɛl",
+    "pronInSpanishBaseForm": "sɛl",
+    "pronInSpanishPastSimple": "soʊld",
+    "pronInSpanishPastParticiple": "soʊld",
+    "translate": [
+      "vender"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sold her old car last week.",
+        "spanish": "Ella vendió su coche viejo la semana pasada."
+      },
+      {
+        "id": "2",
+        "english": "He has sold his house and moved to the countryside.",
+        "spanish": "Él ha vendido su casa y se ha mudado al campo."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 111,
+    "baseForm": "send",
+    "pastSimple": "sent",
+    "pastParticiple": "sent",
+    "imagen": "./img/irregularVerbs/send.jpeg",
+    "pronunciation": "sɛnd",
+    "pronInSpanishBaseForm": "sɛnd",
+    "pronInSpanishPastSimple": "sɛnt",
+    "pronInSpanishPastParticiple": "sɛnt",
+    "translate": [
+      "enviar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sent an email to her boss.",
+        "spanish": "Ella envió un correo electrónico a su jefe."
+      },
+      {
+        "id": "2",
+        "english": "He has sent flowers to apologize.",
+        "spanish": "Él ha enviado flores para disculparse."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 112,
+    "baseForm": "set",
+    "pastSimple": "set",
+    "pastParticiple": "set",
+    "imagen": "./img/irregularVerbs/set.jpeg",
+    "pronunciation": "sɛt",
+    "pronInSpanishBaseForm": "sɛt",
+    "pronInSpanishPastSimple": "sɛt",
+    "pronInSpanishPastParticiple": "sɛt",
+    "translate": [
+      "establecer",
+      "poner"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She set the table for dinner.",
+        "spanish": "Ella puso la mesa para la cena."
+      },
+      {
+        "id": "2",
+        "english": "He has set a new record.",
+        "spanish": "Él ha establecido un nuevo récord."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 113,
+    "baseForm": "shake",
+    "pastSimple": "shook",
+    "pastParticiple": "shaken",
+    "imagen": "./img/irregularVerbs/shake.jpeg",
+    "pronunciation": "ʃeɪk",
+    "pronInSpanishBaseForm": "ʃeɪk",
+    "pronInSpanishPastSimple": "ʃʊk",
+    "pronInSpanishPastParticiple": "ˈʃeɪ.kən",
+    "translate": [
+      "agitar",
+      "temblar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He shook his head in disbelief.",
+        "spanish": "Él sacudió la cabeza incrédulo."
+      },
+      {
+        "id": "2",
+        "english": "She has shaken hands with the president.",
+        "spanish": "Ella ha estrechado la mano del presidente."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 114,
+    "baseForm": "shed",
+    "pastSimple": "shed",
+    "pastParticiple": "shed",
+    "imagen": "./img/irregularVerbs/shed.jpeg",
+    "pronunciation": "ʃɛd",
+    "pronInSpanishBaseForm": "ʃɛd",
+    "pronInSpanishPastSimple": "ʃɛd",
+    "pronInSpanishPastParticiple": "ʃɛd",
+    "translate": [
+      "derramar",
+      "desprender"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The tree shed its leaves in autumn.",
+        "spanish": "El árbol dejó caer sus hojas en otoño."
+      },
+      {
+        "id": "2",
+        "english": "She shed tears of joy.",
+        "spanish": "Ella derramó lágrimas de alegría."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 115,
+    "baseForm": "shine",
+    "pastSimple": "shone",
+    "pastParticiple": "shone",
+    "imagen": "./img/irregularVerbs/shine.jpeg",
+    "pronunciation": "ʃaɪn",
+    "pronInSpanishBaseForm": "ʃaɪn",
+    "pronInSpanishPastSimple": "ʃoʊn",
+    "pronInSpanishPastParticiple": "ʃoʊn",
+    "translate": [
+      "brillar",
+      "iluminar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The sun shone brightly.",
+        "spanish": "El sol brillaba intensamente."
+      },
+      {
+        "id": "2",
+        "english": "She has shone in many movies.",
+        "spanish": "Ella ha brillado en muchas películas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 116,
+    "baseForm": "shit",
+    "pastSimple": "shit/shat",
+    "pastParticiple": "shit/shat",
+    "imagen": "./img/irregularVerbs/shit.jpeg",
+    "pronunciation": "ʃɪt",
+    "pronInSpanishBaseForm": "ʃɪt",
+    "pronInSpanishPastSimple": "ʃɪt",
+    "pronInSpanishPastParticiple": "ʃɪt",
+    "translate": [
+      "cagar",
+      "defecar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She shat herself laughing.",
+        "spanish": "Ella se cagó de risa."
+      },
+      {
+        "id": "2",
+        "english": "He has shit his pants before.",
+        "spanish": "Él se ha cagado en los pantalones antes."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 117,
+    "baseForm": "shoot",
+    "pastSimple": "shot",
+    "pastParticiple": "shot",
+    "imagen": "./img/irregularVerbs/shoot.jpeg",
+    "pronunciation": "ʃuːt",
+    "pronInSpanishBaseForm": "ʃuːt",
+    "pronInSpanishPastSimple": "ʃɑt",
+    "pronInSpanishPastParticiple": "ʃɑt",
+    "translate": [
+      "disparar",
+      "lanzar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She shot the target with perfect accuracy.",
+        "spanish": "Ella disparó al blanco con precisión perfecta."
+      },
+      {
+        "id": "2",
+        "english": "He has shot many photographs in his career.",
+        "spanish": "Él ha sacado muchas fotografías en su carrera."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 118,
+    "baseForm": "show",
+    "pastSimple": "showed",
+    "pastParticiple": "shown",
+    "imagen": "./img/irregularVerbs/show.jpeg",
+    "pronunciation": "ʃoʊ",
+    "pronInSpanishBaseForm": "ʃoʊ",
+    "pronInSpanishPastSimple": "ʃoʊd",
+    "pronInSpanishPastParticiple": "ʃoʊn",
+    "translate": [
+      "mostrar",
+      "enseñar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She showed him the way to the station.",
+        "spanish": "Ella le mostró el camino a la estación."
+      },
+      {
+        "id": "2",
+        "english": "He has shown great courage in difficult times.",
+        "spanish": "Él ha mostrado gran valentía en tiempos difíciles."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 119,
+    "baseForm": "shrink",
+    "pastSimple": "shrank",
+    "pastParticiple": "shrunk",
+    "imagen": "./img/irregularVerbs/shrink.jpeg",
+    "pronunciation": "ʃrɪŋk",
+    "pronInSpanishBaseForm": "ʃrɪŋk",
+    "pronInSpanishPastSimple": "ʃræŋk",
+    "pronInSpanishPastParticiple": "ʃrʌŋk",
+    "translate": [
+      "encoger",
+      "reducir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "His shirt shrank in the wash.",
+        "spanish": "Su camisa se encogió en el lavado."
+      },
+      {
+        "id": "2",
+        "english": "The company has shrunk its workforce.",
+        "spanish": "La empresa ha reducido su fuerza laboral."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 120,
+    "baseForm": "shrive",
+    "pastSimple": "shrove",
+    "pastParticiple": "shriven",
+    "imagen": "./img/irregularVerbs/shrive.jpeg",
+    "pronunciation": "ʃraɪv",
+    "pronInSpanishBaseForm": "ʃraɪv",
+    "pronInSpanishPastSimple": "ʃroʊv",
+    "pronInSpanishPastParticiple": "ˈʃrɪvən",
+    "translate": [
+      "confesar",
+      "absolver"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He shrove his sins away.",
+        "spanish": "Él confesó sus pecados."
+      },
+      {
+        "id": "2",
+        "english": "She has shriven many souls.",
+        "spanish": "Ella ha absuelto a muchas almas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 121,
+    "baseForm": "shut",
+    "pastSimple": "shut",
+    "pastParticiple": "shut",
+    "imagen": "./img/irregularVerbs/shut.jpeg",
+    "pronunciation": "ʃʌt",
+    "pronInSpanishBaseForm": "ʃʌt",
+    "pronInSpanishPastSimple": "ʃʌt",
+    "pronInSpanishPastParticiple": "ʃʌt",
+    "translate": [
+      "cerrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He shut the door quietly.",
+        "spanish": "Él cerró la puerta en silencio."
+      },
+      {
+        "id": "2",
+        "english": "She has shut herself off from the world.",
+        "spanish": "Ella se ha cerrado al mundo."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 122,
+    "baseForm": "sing",
+    "pastSimple": "sang",
+    "pastParticiple": "sung",
+    "imagen": "./img/irregularVerbs/sing.jpeg",
+    "pronunciation": "sɪŋ",
+    "pronInSpanishBaseForm": "sɪŋ",
+    "pronInSpanishPastSimple": "sæŋ",
+    "pronInSpanishPastParticiple": "sʌŋ",
+    "translate": [
+      "cantar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sang a beautiful song.",
+        "spanish": "Ella cantó una canción hermosa."
+      },
+      {
+        "id": "2",
+        "english": "He has sung in many choirs.",
+        "spanish": "Él ha cantado en muchos coros."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 123,
+    "baseForm": "sink",
+    "pastSimple": "sank",
+    "pastParticiple": "sunk",
+    "imagen": "./img/irregularVerbs/sink.jpeg",
+    "pronunciation": "sɪŋk",
+    "pronInSpanishBaseForm": "sɪŋk",
+    "pronInSpanishPastSimple": "sæŋk",
+    "pronInSpanishPastParticiple": "sʌŋk",
+    "translate": [
+      "hundir",
+      "sumergir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The ship sank in the storm.",
+        "spanish": "El barco se hundió en la tormenta."
+      },
+      {
+        "id": "2",
+        "english": "She has sunk all her savings into the business.",
+        "spanish": "Ella ha invertido todos sus ahorros en el negocio."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 124,
+    "baseForm": "sit",
+    "pastSimple": "sat",
+    "pastParticiple": "sat",
+    "imagen": "./img/irregularVerbs/sit.jpeg",
+    "pronunciation": "sɪt",
+    "pronInSpanishBaseForm": "sɪt",
+    "pronInSpanishPastSimple": "sæt",
+    "pronInSpanishPastParticiple": "sæt",
+    "translate": [
+      "sentarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sat on the bench.",
+        "spanish": "Ella se sentó en el banco."
+      },
+      {
+        "id": "2",
+        "english": "He has sat in the same chair for years.",
+        "spanish": "Él ha estado sentado en la misma silla durante años."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 125,
+    "baseForm": "slay",
+    "pastSimple": "slew",
+    "pastParticiple": "slain",
+    "imagen": "./img/irregularVerbs/slay.jpeg",
+    "pronunciation": "sleɪ",
+    "pronInSpanishBaseForm": "sleɪ",
+    "pronInSpanishPastSimple": "slu",
+    "pronInSpanishPastParticiple": "sleɪn",
+    "translate": [
+      "matar",
+      "asesinar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He slew the dragon.",
+        "spanish": "Él mató al dragón."
+      },
+      {
+        "id": "2",
+        "english": "She has slain many enemies in battle.",
+        "spanish": "Ella ha asesinado a muchos enemigos en batalla."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 126,
+    "baseForm": "sleep",
+    "pastSimple": "slept",
+    "pastParticiple": "slept",
+    "imagen": "./img/irregularVerbs/sleep.jpeg",
+    "pronunciation": "sliːp",
+    "pronInSpanishBaseForm": "sliːp",
+    "pronInSpanishPastSimple": "slɛpt",
+    "pronInSpanishPastParticiple": "slɛpt",
+    "translate": [
+      "dormir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She slept for eight hours last night.",
+        "spanish": "Ella durmió durante ocho horas anoche."
+      },
+      {
+        "id": "2",
+        "english": "He has slept through many storms.",
+        "spanish": "Él ha dormido durante muchas tormentas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 127,
+    "baseForm": "slide",
+    "pastSimple": "slid",
+    "pastParticiple": "slid",
+    "imagen": "./img/irregularVerbs/slide.jpeg",
+    "pronunciation": "slaɪd",
+    "pronInSpanishBaseForm": "slaɪd",
+    "pronInSpanishPastSimple": "slɪd",
+    "pronInSpanishPastParticiple": "slɪd",
+    "translate": [
+      "deslizar",
+      "resbalar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She slid down the hill.",
+        "spanish": "Ella se deslizó por la colina."
+      },
+      {
+        "id": "2",
+        "english": "He has slid into financial ruin.",
+        "spanish": "Él ha caído en la ruina financiera."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 128,
+    "baseForm": "sling",
+    "pastSimple": "slung",
+    "pastParticiple": "slung",
+    "imagen": "./img/irregularVerbs/sling.jpeg",
+    "pronunciation": "slɪŋ",
+    "pronInSpanishBaseForm": "slɪŋ",
+    "pronInSpanishPastSimple": "slʌŋ",
+    "pronInSpanishPastParticiple": "slʌŋ",
+    "translate": [
+      "lanzar",
+      "arrojar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She slung her bag over her shoulder.",
+        "spanish": "Ella lanzó su bolso sobre su hombro."
+      },
+      {
+        "id": "2",
+        "english": "He has slung insults at me all day.",
+        "spanish": "Él ha lanzado insultos hacia mí todo el día."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 129,
+    "baseForm": "slink",
+    "pastSimple": "slunk",
+    "pastParticiple": "slunk",
+    "imagen": "./img/irregularVerbs/slink.jpeg",
+    "pronunciation": "slɪŋk",
+    "pronInSpanishBaseForm": "slɪŋk",
+    "pronInSpanishPastSimple": "slʌŋk",
+    "pronInSpanishPastParticiple": "slʌŋk",
+    "translate": [
+      "deslizarse",
+      "escabullirse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He slunk away from the scene.",
+        "spanish": "Él se deslizó lejos de la escena."
+      },
+      {
+        "id": "2",
+        "english": "She has slunk into the shadows.",
+        "spanish": "Ella se ha escabullido en las sombras."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 130,
+    "baseForm": "slit",
+    "pastSimple": "slit",
+    "pastParticiple": "slit",
+    "imagen": "./img/irregularVerbs/slit.jpeg",
+    "pronunciation": "slɪt",
+    "pronInSpanishBaseForm": "slɪt",
+    "pronInSpanishPastSimple": "slɪt",
+    "pronInSpanishPastParticiple": "slɪt",
+    "translate": [
+      "cortar",
+      "hender"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She slit open the envelope.",
+        "spanish": "Ella cortó el sobre."
+      },
+      {
+        "id": "2",
+        "english": "He has slit his wrist.",
+        "spanish": "Él se ha cortado la muñeca."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 131,
+    "baseForm": "smell",
+    "pastSimple": "smelled/smelt",
+    "pastParticiple": "smelled/smelt",
+    "imagen": "./img/irregularVerbs/smell.jpeg",
+    "pronunciation": "smɛl",
+    "pronInSpanishBaseForm": "smɛl",
+    "pronInSpanishPastSimple": "smɛld",
+    "pronInSpanishPastParticiple": "smɛld",
+    "translate": [
+      "oler"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She smelled the flowers in the garden.",
+        "spanish": "Ella olió las flores en el jardín."
+      },
+      {
+        "id": "2",
+        "english": "He has never smelled anything so foul.",
+        "spanish": "Él nunca ha olido algo tan desagradable."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 132,
+    "baseForm": "smite",
+    "pastSimple": "smote",
+    "pastParticiple": "smitten",
+    "imagen": "./img/irregularVerbs/smite.jpeg",
+    "pronunciation": "smaɪt",
+    "pronInSpanishBaseForm": "smaɪt",
+    "pronInSpanishPastSimple": "smoʊt",
+    "pronInSpanishPastParticiple": "ˈsmɪt.ən",
+    "translate": [
+      "golpear",
+      "herir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He smote the rock with his staff.",
+        "spanish": "Él golpeó la roca con su bastón."
+      },
+      {
+        "id": "2",
+        "english": "She has been smitten by his charm.",
+        "spanish": "Ella ha sido cautivada por su encanto."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 133,
+    "baseForm": "speak",
+    "pastSimple": "spoke",
+    "pastParticiple": "spoken",
+    "imagen": "./img/irregularVerbs/speak.jpeg",
+    "pronunciation": "spiːk",
+    "pronInSpanishBaseForm": "spiːk",
+    "pronInSpanishPastSimple": "spoʊk",
+    "pronInSpanishPastParticiple": "ˈspoʊ.kən",
+    "translate": [
+      "hablar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She spoke with confidence.",
+        "spanish": "Ella habló con confianza."
+      },
+      {
+        "id": "2",
+        "english": "He has spoken at many conferences.",
+        "spanish": "Él ha hablado en muchas conferencias."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 134,
+    "baseForm": "speed",
+    "pastSimple": "speeded/sped",
+    "pastParticiple": "speeded/sped",
+    "imagen": "./img/irregularVerbs/speed.jpeg",
+    "pronunciation": "spiːd",
+    "pronInSpanishBaseForm": "spiːd",
+    "pronInSpanishPastSimple": "spɛd",
+    "pronInSpanishPastParticiple": "spɛd",
+    "translate": [
+      "acelerar",
+      "apresurar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sped through the city streets.",
+        "spanish": "Ella aceleró por las calles de la ciudad."
+      },
+      {
+        "id": "2",
+        "english": "He has speeded up the process.",
+        "spanish": "Él ha acelerado el proceso."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 135,
+    "baseForm": "spend",
+    "pastSimple": "spent",
+    "pastParticiple": "spent",
+    "imagen": "./img/irregularVerbs/spend.jpeg",
+    "pronunciation": "spɛnd",
+    "pronInSpanishBaseForm": "spɛnd",
+    "pronInSpanishPastSimple": "spɛnt",
+    "pronInSpanishPastParticiple": "spɛnt",
+    "translate": [
+      "gastar",
+      "pasar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She spent all her money on clothes.",
+        "spanish": "Ella gastó todo su dinero en ropa."
+      },
+      {
+        "id": "2",
+        "english": "He has spent his life traveling.",
+        "spanish": "Él ha pasado su vida viajando."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 136,
+    "baseForm": "spin",
+    "pastSimple": "spun",
+    "pastParticiple": "spun",
+    "imagen": "./img/irregularVerbs/spin.jpeg",
+    "pronunciation": "spɪn",
+    "pronInSpanishBaseForm": "spɪn",
+    "pronInSpanishPastSimple": "spʌn",
+    "pronInSpanishPastParticiple": "spʌn",
+    "translate": [
+      "girar",
+      "hilvanar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She spun the wheel.",
+        "spanish": "Ella giró la rueda."
+      },
+      {
+        "id": "2",
+        "english": "He has spun yarn for knitting.",
+        "spanish": "Él ha hilvanado lana para tejer."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 137,
+    "baseForm": "spit",
+    "pastSimple": "spat",
+    "pastParticiple": "spat",
+    "imagen": "./img/irregularVerbs/spit.jpeg",
+    "pronunciation": "spɪt",
+    "pronInSpanishBaseForm": "spɪt",
+    "pronInSpanishPastSimple": "spæt",
+    "pronInSpanishPastParticiple": "spæt",
+    "translate": [
+      "escupir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He spat on the ground.",
+        "spanish": "Él escupió en el suelo."
+      },
+      {
+        "id": "2",
+        "english": "She has spat out the bad taste.",
+        "spanish": "Ella ha escupido el mal sabor."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 138,
+    "baseForm": "split",
+    "pastSimple": "split",
+    "pastParticiple": "split",
+    "imagen": "./img/irregularVerbs/split.jpeg",
+    "pronunciation": "splɪt",
+    "pronInSpanishBaseForm": "splɪt",
+    "pronInSpanishPastSimple": "splɪt",
+    "pronInSpanishPastParticiple": "splɪt",
+    "translate": [
+      "dividir",
+      "partir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He split the log in two.",
+        "spanish": "Él dividió el tronco en dos."
+      },
+      {
+        "id": "2",
+        "english": "She has split her time between work and family.",
+        "spanish": "Ella ha dividido su tiempo entre el trabajo y la familia."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 139,
+    "baseForm": "spoil",
+    "pastSimple": "spoiled/spoilt",
+    "pastParticiple": "spoiled/spoilt",
+    "imagen": "./img/irregularVerbs/spoil.jpeg",
+    "pronunciation": "spɔɪl",
+    "pronInSpanishBaseForm": "spɔɪl",
+    "pronInSpanishPastSimple": "spɔɪld/spɔɪlt",
+    "pronInSpanishPastParticiple": "spɔɪld/spɔɪlt",
+    "translate": [
+      "estropear",
+      "malcriar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The rain spoiled the picnic.",
+        "spanish": "La lluvia estropeó el picnic."
+      },
+      {
+        "id": "2",
+        "english": "He has spoiled his dinner by adding too much salt.",
+        "spanish": "Él ha estropeado su cena añadiendo demasiada sal."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 140,
+    "baseForm": "spread",
+    "pastSimple": "spread",
+    "pastParticiple": "spread",
+    "imagen": "./img/irregularVerbs/spread.jpeg",
+    "pronunciation": "sprɛd",
+    "pronInSpanishBaseForm": "sprɛd",
+    "pronInSpanishPastSimple": "sprɛd",
+    "pronInSpanishPastParticiple": "sprɛd",
+    "translate": [
+      "extender",
+      "propagar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She spread butter on her toast.",
+        "spanish": "Ella untó mantequilla en su tostada."
+      },
+      {
+        "id": "2",
+        "english": "The news spread quickly.",
+        "spanish": "La noticia se propagó rápidamente."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 141,
+    "baseForm": "spring",
+    "pastSimple": "sprang",
+    "pastParticiple": "sprung",
+    "imagen": "./img/irregularVerbs/spring.jpeg",
+    "pronunciation": "sprɪŋ",
+    "pronInSpanishBaseForm": "sprɪŋ",
+    "pronInSpanishPastSimple": "spræŋ",
+    "pronInSpanishPastParticiple": "sprʌŋ",
+    "translate": [
+      "saltar",
+      "brotar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She sprang over the fence.",
+        "spanish": "Ella saltó sobre la cerca."
+      },
+      {
+        "id": "2",
+        "english": "He has sprung into action.",
+        "spanish": "Él ha entrado en acción."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 142,
+    "baseForm": "stand",
+    "pastSimple": "stood",
+    "pastParticiple": "stood",
+    "imagen": "./img/irregularVerbs/stand.jpeg",
+    "pronunciation": "stænd",
+    "pronInSpanishBaseForm": "stænd",
+    "pronInSpanishPastSimple": "stʊd",
+    "pronInSpanishPastParticiple": "stʊd",
+    "translate": [
+      "estar de pie",
+      "soportar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She stood in line for hours.",
+        "spanish": "Ella estuvo de pie en la fila durante horas."
+      },
+      {
+        "id": "2",
+        "english": "He has stood by his decision.",
+        "spanish": "Él ha mantenido su decisión."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 143,
+    "baseForm": "steal",
+    "pastSimple": "stole",
+    "pastParticiple": "stolen",
+    "imagen": "./img/irregularVerbs/steal.jpeg",
+    "pronunciation": "stiːl",
+    "pronInSpanishBaseForm": "stiːl",
+    "pronInSpanishPastSimple": "stoʊl",
+    "pronInSpanishPastParticiple": "ˈstoʊ.lən",
+    "translate": [
+      "robar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He stole her heart.",
+        "spanish": "Él le robó el corazón."
+      },
+      {
+        "id": "2",
+        "english": "She has stolen many jewels.",
+        "spanish": "Ella ha robado muchas joyas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 144,
+    "baseForm": "stick",
+    "pastSimple": "stuck",
+    "pastParticiple": "stuck",
+    "imagen": "./img/irregularVerbs/stick.jpeg",
+    "pronunciation": "stɪk",
+    "pronInSpanishBaseForm": "stɪk",
+    "pronInSpanishPastSimple": "stʌk",
+    "pronInSpanishPastParticiple": "stʌk",
+    "translate": [
+      "pegar",
+      "atascarse"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The paper stuck to the wall.",
+        "spanish": "El papel se pegó a la pared."
+      },
+      {
+        "id": "2",
+        "english": "He has stuck to his principles.",
+        "spanish": "Él ha mantenido sus principios."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 145,
+    "baseForm": "sting",
+    "pastSimple": "stung",
+    "pastParticiple": "stung",
+    "imagen": "./img/irregularVerbs/sting.jpeg",
+    "pronunciation": "stɪŋ",
+    "pronInSpanishBaseForm": "stɪŋ",
+    "pronInSpanishPastSimple": "stʌŋ",
+    "pronInSpanishPastParticiple": "stʌŋ",
+    "translate": [
+      "picar",
+      "morder"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The bee stung him.",
+        "spanish": "La abeja lo picó."
+      },
+      {
+        "id": "2",
+        "english": "She has been stung by criticism.",
+        "spanish": "Ella ha sido herida por la crítica."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 146,
+    "baseForm": "stink",
+    "pastSimple": "stank",
+    "pastParticiple": "stunk",
+    "imagen": "./img/irregularVerbs/stink.jpeg",
+    "pronunciation": "stɪŋk",
+    "pronInSpanishBaseForm": "stɪŋk",
+    "pronInSpanishPastSimple": "stæŋk",
+    "pronInSpanishPastParticiple": "stʌŋk",
+    "translate": [
+      "apestar",
+      "oler mal"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The garbage stank.",
+        "spanish": "La basura olía mal."
+      },
+      {
+        "id": "2",
+        "english": "He has stunk up the room.",
+        "spanish": "Él ha apestando la habitación."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 147,
+    "baseForm": "stride",
+    "pastSimple": "strode",
+    "pastParticiple": "stridden",
+    "imagen": "./img/irregularVerbs/stride.jpeg",
+    "pronunciation": "straɪd",
+    "pronInSpanishBaseForm": "straɪd",
+    "pronInSpanishPastSimple": "stroʊd",
+    "pronInSpanishPastParticiple": "ˈstrɪd.ən",
+    "translate": [
+      "andar a zancadas",
+      "pisar con firmeza"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He strode confidently into the room.",
+        "spanish": "Él entró confiadamente a la habitación a zancadas."
+      },
+      {
+        "id": "2",
+        "english": "She has stridden across the field.",
+        "spanish": "Ella ha andado a zancadas por el campo."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 148,
+    "baseForm": "strike",
+    "pastSimple": "struck",
+    "pastParticiple": "struck",
+    "imagen": "./img/irregularVerbs/strike.jpeg",
+    "pronunciation": "straɪk",
+    "pronInSpanishBaseForm": "straɪk",
+    "pronInSpanishPastSimple": "strʌk",
+    "pronInSpanishPastParticiple": "strʌk",
+    "translate": [
+      "golpear",
+      "impactar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He struck the ball with great force.",
+        "spanish": "Él golpeó la pelota con gran fuerza."
+      },
+      {
+        "id": "2",
+        "english": "She has struck a deal with the company.",
+        "spanish": "Ella ha alcanzado un acuerdo con la empresa."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 149,
+    "baseForm": "string",
+    "pastSimple": "strung",
+    "pastParticiple": "strung",
+    "imagen": "./img/irregularVerbs/string.jpeg",
+    "pronunciation": "strɪŋ",
+    "pronInSpanishBaseForm": "strɪŋ",
+    "pronInSpanishPastSimple": "strʌŋ",
+    "pronInSpanishPastParticiple": "strʌŋ",
+    "translate": [
+      "atar con hilo",
+      "colocar cuerdas"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She strung the beads together.",
+        "spanish": "Ella ensartó las cuentas."
+      },
+      {
+        "id": "2",
+        "english": "He has strung lights around the patio.",
+        "spanish": "Él ha colocado luces alrededor del patio."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 150,
+    "baseForm": "strive",
+    "pastSimple": "strove",
+    "pastParticiple": "striven",
+    "imagen": "./img/irregularVerbs/strive.jpeg",
+    "pronunciation": "straɪv",
+    "pronInSpanishBaseForm": "straɪv",
+    "pronInSpanishPastSimple": "stroʊv",
+    "pronInSpanishPastParticiple": "ˈstrɪv.ən",
+    "translate": [
+      "esforzarse",
+      "luchar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She strove for perfection in her work.",
+        "spanish": "Ella se esforzó por la perfección en su trabajo."
+      },
+      {
+        "id": "2",
+        "english": "He has striven to achieve his goals.",
+        "spanish": "Él ha luchado por alcanzar sus metas."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 151,
+    "baseForm": "swear",
+    "pastSimple": "swore",
+    "pastParticiple": "sworn",
+    "imagen": "./img/irregularVerbs/swear.jpeg",
+    "pronunciation": "swɛr",
+    "pronInSpanishBaseForm": "swɛr",
+    "pronInSpanishPastSimple": "swɔːr",
+    "pronInSpanishPastParticiple": "swɔːrn",
+    "translate": [
+      "jurar",
+      "maldecir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He swore to tell the truth.",
+        "spanish": "Él juró decir la verdad."
+      },
+      {
+        "id": "2",
+        "english": "She has sworn to protect her family.",
+        "spanish": "Ella ha jurado proteger a su familia."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 152,
+    "baseForm": "sweep",
+    "pastSimple": "swept",
+    "pastParticiple": "swept",
+    "imagen": "./img/irregularVerbs/sweep.jpeg",
+    "pronunciation": "swiːp",
+    "pronInSpanishBaseForm": "swiːp",
+    "pronInSpanishPastSimple": "swɛpt",
+    "pronInSpanishPastParticiple": "swɛpt",
+    "translate": [
+      "barrer",
+      "limpiar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She swept the floor clean.",
+        "spanish": "Ella barrió el suelo."
+      },
+      {
+        "id": "2",
+        "english": "He has swept away the dirt.",
+        "spanish": "Él ha limpiado la suciedad."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 153,
+    "baseForm": "swim",
+    "pastSimple": "swam",
+    "pastParticiple": "swum",
+    "imagen": "./img/irregularVerbs/swim.jpeg",
+    "pronunciation": "swɪm",
+    "pronInSpanishBaseForm": "swɪm",
+    "pronInSpanishPastSimple": "swæm",
+    "pronInSpanishPastParticiple": "swʌm",
+    "translate": [
+      "nadar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She swam across the lake.",
+        "spanish": "Ella nadó a través del lago."
+      },
+      {
+        "id": "2",
+        "english": "He has swum in the ocean.",
+        "spanish": "Él ha nadado en el océano."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 154,
+    "baseForm": "swing",
+    "pastSimple": "swung",
+    "pastParticiple": "swung",
+    "imagen": "./img/irregularVerbs/swing.jpeg",
+    "pronunciation": "swɪŋ",
+    "pronInSpanishBaseForm": "swɪŋ",
+    "pronInSpanishPastSimple": "swʌŋ",
+    "pronInSpanishPastParticiple": "swʌŋ",
+    "translate": [
+      "balancearse",
+      "oscilar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She swung on the swing.",
+        "spanish": "Ella se balanceaba en el columpio."
+      },
+      {
+        "id": "2",
+        "english": "He has swung the bat.",
+        "spanish": "Él ha oscilado el bate."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 155,
+    "baseForm": "take",
+    "pastSimple": "took",
+    "pastParticiple": "taken",
+    "imagen": "./img/irregularVerbs/take.jpeg",
+    "pronunciation": "teɪk",
+    "pronInSpanishBaseForm": "teɪk",
+    "pronInSpanishPastSimple": "tʊk",
+    "pronInSpanishPastParticiple": "ˈteɪ.kən",
+    "translate": [
+      "tomar",
+      "llevar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She took the book from the shelf.",
+        "spanish": "Ella tomó el libro del estante."
+      },
+      {
+        "id": "2",
+        "english": "He has taken his medicine.",
+        "spanish": "Él ha tomado su medicina."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 156,
+    "baseForm": "teach",
+    "pastSimple": "taught",
+    "pastParticiple": "taught",
+    "imagen": "./img/irregularVerbs/teach.jpeg",
+    "pronunciation": "tiːtʃ",
+    "pronInSpanishBaseForm": "tiːtʃ",
+    "pronInSpanishPastSimple": "tɔːt",
+    "pronInSpanishPastParticiple": "tɔːt",
+    "translate": [
+      "enseñar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She taught English to the students.",
+        "spanish": "Ella enseñó inglés a los estudiantes."
+      },
+      {
+        "id": "2",
+        "english": "He has taught math for many years.",
+        "spanish": "Él ha enseñado matemáticas durante muchos años."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 157,
+    "baseForm": "tear",
+    "pastSimple": "tore",
+    "pastParticiple": "torn",
+    "imagen": "./img/irregularVerbs/tear.jpeg",
+    "pronunciation": "tɪr",
+    "pronInSpanishBaseForm": "tɪr",
+    "pronInSpanishPastSimple": "tɔːr",
+    "pronInSpanishPastParticiple": "tɔːrn",
+    "translate": [
+      "rasgar",
+      "desgarrar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She tore the paper in half.",
+        "spanish": "Ella rasgó el papel por la mitad."
+      },
+      {
+        "id": "2",
+        "english": "He has torn his pants.",
+        "spanish": "Él ha desgarrado sus pantalones."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 158,
+    "baseForm": "tell",
+    "pastSimple": "told",
+    "pastParticiple": "told",
+    "imagen": "./img/irregularVerbs/tell.jpeg",
+    "pronunciation": "tɛl",
+    "pronInSpanishBaseForm": "tɛl",
+    "pronInSpanishPastSimple": "toʊld",
+    "pronInSpanishPastParticiple": "toʊld",
+    "translate": [
+      "contar",
+      "decir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He told her a story.",
+        "spanish": "Él le contó una historia."
+      },
+      {
+        "id": "2",
+        "english": "She has told me about her trip.",
+        "spanish": "Ella me ha contado sobre su viaje."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 159,
+    "baseForm": "think",
+    "pastSimple": "thought",
+    "pastParticiple": "thought",
+    "imagen": "./img/irregularVerbs/think.jpeg",
+    "pronunciation": "θɪŋk",
+    "pronInSpanishBaseForm": "θɪŋk",
+    "pronInSpanishPastSimple": "θɔːt",
+    "pronInSpanishPastParticiple": "θɔːt",
+    "translate": [
+      "pensar",
+      "creer"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She thought deeply about the problem.",
+        "spanish": "Ella pensó profundamente sobre el problema."
+      },
+      {
+        "id": "2",
+        "english": "He has thought of a solution.",
+        "spanish": "Él ha pensado en una solución."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 160,
+    "baseForm": "throw",
+    "pastSimple": "threw",
+    "pastParticiple": "thrown",
+    "imagen": "./img/irregularVerbs/throw.jpeg",
+    "pronunciation": "θroʊ",
+    "pronInSpanishBaseForm": "θroʊ",
+    "pronInSpanishPastSimple": "θruː",
+    "pronInSpanishPastParticiple": "θroʊn",
+    "translate": [
+      "lanzar",
+      "arrojar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She threw the ball to him.",
+        "spanish": "Ella le lanzó la pelota."
+      },
+      {
+        "id": "2",
+        "english": "He has thrown away the old papers.",
+        "spanish": "Él ha arrojado los papeles viejos."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 161,
+    "baseForm": "thrust",
+    "pastSimple": "thrust",
+    "pastParticiple": "thrust",
+    "imagen": "./img/irregularVerbs/thrust.jpeg",
+    "pronunciation": "θrʌst",
+    "pronInSpanishBaseForm": "θrʌst",
+    "pronInSpanishPastSimple": "θrʌst",
+    "pronInSpanishPastParticiple": "θrʌst",
+    "translate": [
+      "empujar",
+      "introducir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She thrust the letter into his hand.",
+        "spanish": "Ella le empujó la carta en la mano."
+      },
+      {
+        "id": "2",
+        "english": "He has thrust himself into the conversation.",
+        "spanish": "Él se ha introducido en la conversación."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 162,
+    "baseForm": "tread",
+    "pastSimple": "treaded/trod",
+    "pastParticiple": "trodden",
+    "imagen": "./img/irregularVerbs/tread.jpeg",
+    "pronunciation": "trɛd",
+    "pronInSpanishBaseForm": "trɛd",
+    "pronInSpanishPastSimple": "trɑd/trɒd",
+    "pronInSpanishPastParticiple": "ˈtrɑ.dən/ˈtrɑː.dən",
+    "translate": [
+      "pisar",
+      "andar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She treaded carefully on the icy path.",
+        "spanish": "Ella pisó con cuidado en el sendero helado."
+      },
+      {
+        "id": "2",
+        "english": "He has trodden the same path many times.",
+        "spanish": "Él ha pisado el mismo camino muchas veces."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 163,
+    "baseForm": "understand",
+    "pastSimple": "understood",
+    "pastParticiple": "understood",
+    "imagen": "./img/irregularVerbs/understand.jpeg",
+    "pronunciation": "ˌʌndərˈstænd",
+    "pronInSpanishBaseForm": "ˌʌndərˈstænd",
+    "pronInSpanishPastSimple": "ˌʌndərˈstʊd",
+    "pronInSpanishPastParticiple": "ˌʌndərˈstʊd",
+    "translate": [
+      "entender",
+      "comprender"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She understood the instructions clearly.",
+        "spanish": "Ella entendió las instrucciones claramente."
+      },
+      {
+        "id": "2",
+        "english": "He has understood the situation.",
+        "spanish": "Él ha comprendido la situación."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 164,
+    "baseForm": "undertake",
+    "pastSimple": "undertook",
+    "pastParticiple": "undertaken",
+    "imagen": "./img/irregularVerbs/undertake.jpeg",
+    "pronunciation": "ˌʌndərˈteɪk",
+    "pronInSpanishBaseForm": "ˌʌndərˈteɪk",
+    "pronInSpanishPastSimple": "ˌʌndərˈtʊk",
+    "pronInSpanishPastParticiple": "ˌʌndərˈteɪkən",
+    "translate": [
+      "emprender",
+      "asumir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She undertook the project with enthusiasm.",
+        "spanish": "Ella emprendió el proyecto con entusiasmo."
+      },
+      {
+        "id": "2",
+        "english": "He has undertaken many challenges.",
+        "spanish": "Él ha asumido muchos desafíos."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 165,
+    "baseForm": "undo",
+    "pastSimple": "undid",
+    "pastParticiple": "undone",
+    "imagen": "./img/irregularVerbs/undo.jpeg",
+    "pronunciation": "ˌʌnˈdu",
+    "pronInSpanishBaseForm": "ˌʌnˈdu",
+    "pronInSpanishPastSimple": "ˌʌnˈdɪd",
+    "pronInSpanishPastParticiple": "ˌʌnˈdʌn",
+    "translate": [
+      "deshacer",
+      "desatar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She undid the knot.",
+        "spanish": "Ella deshizo el nudo."
+      },
+      {
+        "id": "2",
+        "english": "He has undone his mistake.",
+        "spanish": "Él ha deshecho su error."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 166,
+    "baseForm": "upset",
+    "pastSimple": "upset",
+    "pastParticiple": "upset",
+    "imagen": "./img/irregularVerbs/upset.jpeg",
+    "pronunciation": "ʌpˈsɛt",
+    "pronInSpanishBaseForm": "ʌpˈsɛt",
+    "pronInSpanishPastSimple": "ʌpˈsɛt",
+    "pronInSpanishPastParticiple": "ʌpˈsɛt",
+    "translate": [
+      "molestar",
+      "perturbar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She upset the vase.",
+        "spanish": "Ella volteó el jarrón."
+      },
+      {
+        "id": "2",
+        "english": "He has upset his family with his behavior.",
+        "spanish": "Él ha molestado a su familia con su comportamiento."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 167,
+    "baseForm": "wake",
+    "pastSimple": "woke",
+    "pastParticiple": "woken",
+    "imagen": "./img/irregularVerbs/wake.jpeg",
+    "pronunciation": "weɪk",
+    "pronInSpanishBaseForm": "weɪk",
+    "pronInSpanishPastSimple": "woʊk",
+    "pronInSpanishPastParticiple": "ˈwoʊ.kən",
+    "translate": [
+      "despertar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She woke up early.",
+        "spanish": "Ella se despertó temprano."
+      },
+      {
+        "id": "2",
+        "english": "He has woken from a deep sleep.",
+        "spanish": "Él ha despertado de un sueño profundo."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 168,
+    "baseForm": "wear",
+    "pastSimple": "wore",
+    "pastParticiple": "worn",
+    "imagen": "./img/irregularVerbs/wear.jpeg",
+    "pronunciation": "wɛr",
+    "pronInSpanishBaseForm": "wɛr",
+    "pronInSpanishPastSimple": "wɔːr",
+    "pronInSpanishPastParticiple": "wɔːrn",
+    "translate": [
+      "usar",
+      "llevar puesto"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wore a beautiful dress to the party.",
+        "spanish": "Ella llevó puesto un hermoso vestido en la fiesta."
+      },
+      {
+        "id": "2",
+        "english": "He has worn the same shoes for years.",
+        "spanish": "Él ha usado los mismos zapatos durante años."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 169,
+    "baseForm": "weave",
+    "pastSimple": "wove",
+    "pastParticiple": "woven",
+    "imagen": "./img/irregularVerbs/weave.jpeg",
+    "pronunciation": "wiːv",
+    "pronInSpanishBaseForm": "wiːv",
+    "pronInSpanishPastSimple": "woʊv",
+    "pronInSpanishPastParticiple": "ˈwoʊ.vən",
+    "translate": [
+      "tejer",
+      "entrelazar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wove a basket from reeds.",
+        "spanish": "Ella tejió una cesta de cañas."
+      },
+      {
+        "id": "2",
+        "english": "He has woven a tapestry.",
+        "spanish": "Él ha tejido un tapiz."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 170,
+    "baseForm": "weep",
+    "pastSimple": "wept",
+    "pastParticiple": "wept",
+    "imagen": "./img/irregularVerbs/weep.jpeg",
+    "pronunciation": "wiːp",
+    "pronInSpanishBaseForm": "wiːp",
+    "pronInSpanishPastSimple": "wɛpt",
+    "pronInSpanishPastParticiple": "wɛpt",
+    "translate": [
+      "llorar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wept when she heard the news.",
+        "spanish": "Ella lloró cuando escuchó la noticia."
+      },
+      {
+        "id": "2",
+        "english": "He has wept for his lost love.",
+        "spanish": "Él ha llorado por su amor perdido."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 171,
+    "baseForm": "win",
+    "pastSimple": "won",
+    "pastParticiple": "won",
+    "imagen": "./img/irregularVerbs/win.jpeg",
+    "pronunciation": "wɪn",
+    "pronInSpanishBaseForm": "wɪn",
+    "pronInSpanishPastSimple": "wʌn",
+    "pronInSpanishPastParticiple": "wʌn",
+    "translate": [
+      "ganar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She won the race.",
+        "spanish": "Ella ganó la carrera."
+      },
+      {
+        "id": "2",
+        "english": "He has won many awards.",
+        "spanish": "Él ha ganado muchos premios."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 172,
+    "baseForm": "wind",
+    "pastSimple": "wound",
+    "pastParticiple": "wound",
+    "imagen": "./img/irregularVerbs/wind.jpeg",
+    "pronunciation": "waɪnd",
+    "pronInSpanishBaseForm": "waɪnd",
+    "pronInSpanishPastSimple": "waʊnd",
+    "pronInSpanishPastParticiple": "waʊnd",
+    "translate": [
+      "enrollar",
+      "dar cuerda"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wound the clock.",
+        "spanish": "Ella dio cuerda al reloj."
+      },
+      {
+        "id": "2",
+        "english": "He has wound the yarn into a ball.",
+        "spanish": "Él ha enrollado el hilo en una bola."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 173,
+    "baseForm": "withdraw",
+    "pastSimple": "withdrew",
+    "pastParticiple": "withdrawn",
+    "imagen": "./img/irregularVerbs/withdraw.jpeg",
+    "pronunciation": "wɪðˈdrɔː",
+    "pronInSpanishBaseForm": "wɪðˈdrɔː",
+    "pronInSpanishPastSimple": "wɪðˈdruː",
+    "pronInSpanishPastParticiple": "wɪðˈdrɔːn",
+    "translate": [
+      "retirarse",
+      "sacar"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "He withdrew money from the ATM.",
+        "spanish": "Él sacó dinero del cajero automático."
+      },
+      {
+        "id": "2",
+        "english": "She has withdrawn her application.",
+        "spanish": "Ella ha retirado su solicitud."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 174,
+    "baseForm": "withstand",
+    "pastSimple": "withstood",
+    "pastParticiple": "withstood",
+    "imagen": "./img/irregularVerbs/withstand.jpeg",
+    "pronunciation": "wɪðˈstænd",
+    "pronInSpanishBaseForm": "wɪðˈstænd",
+    "pronInSpanishPastSimple": "wɪðˈstuːd",
+    "pronInSpanishPastParticiple": "wɪðˈstuːd",
+    "translate": [
+      "soportar",
+      "resistir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "The building withstood the earthquake.",
+        "spanish": "El edificio resistió el terremoto."
+      },
+      {
+        "id": "2",
+        "english": "She has withstood many challenges.",
+        "spanish": "Ella ha soportado muchos desafíos."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 175,
+    "baseForm": "wring",
+    "pastSimple": "wrung",
+    "pastParticiple": "wrung",
+    "imagen": "./img/irregularVerbs/wring.jpeg",
+    "pronunciation": "rɪŋ",
+    "pronInSpanishBaseForm": "rɪŋ",
+    "pronInSpanishPastSimple": "rʌŋ",
+    "pronInSpanishPastParticiple": "rʌŋ",
+    "translate": [
+      "torcer",
+      "exprimir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wrung out the wet towel.",
+        "spanish": "Ella escurrió la toalla mojada."
+      },
+      {
+        "id": "2",
+        "english": "He has wrung his hands in despair.",
+        "spanish": "Él ha torcido las manos en la desesperación."
+      }
+    ],
+    "biblicalExamples": []
+  },
+  {
+    "id": 176,
+    "baseForm": "write",
+    "pastSimple": "wrote",
+    "pastParticiple": "written",
+    "imagen": "./img/irregularVerbs/write.jpeg",
+    "pronunciation": "raɪt",
+    "pronInSpanishBaseForm": "raɪt",
+    "pronInSpanishPastSimple": "roʊt",
+    "pronInSpanishPastParticiple": "ˈrɪ.tən",
+    "translate": [
+      "escribir"
+    ],
+    "examples": [
+      {
+        "id": "1",
+        "english": "She wrote a letter to her friend.",
+        "spanish": "Ella escribió una carta a su amiga."
+      },
+      {
+        "id": "2",
+        "english": "He has written several books.",
+        "spanish": "Él ha escrito varios libros."
+      }
+    ],
+    "biblicalExamples": []
   }
 ]
