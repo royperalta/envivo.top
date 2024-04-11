@@ -1,6 +1,7 @@
 'use client'
 
 import axios from "axios";
+import Head from "next/head";
 import { useState } from "react";
 import { saveAs } from 'file-saver'
 import Image from "next/image";
